@@ -35,7 +35,7 @@ def read_data(filename, to_evaluate, round=1, same_as_fraction_used_training=1, 
     torch.backends.cudnn.benchmark = False
     
     g = rdflib.Graph()
-    g.parse(f'../data/round_{round}/{filename}.ttl', format='ttl')
+    g.parse(f'../R-GCN-deduplication/data/{filename}.ttl', format='ttl')
 
     print(f'Triplets found: %d' % len(g))
 
@@ -353,18 +353,20 @@ def get_dataloaders(data, to_evaluate, batch_size_train, batch_size_test, batch_
         batch_size_val = data.val_pos_edge_index.size(1)
 
 
-    # For testing effect of percentage of training data available
-    # fraction = 1 
+   
 
-    # train_dataset = HeteroDataset(data, 'train')
-    # val_dataset = HeteroDataset(data, 'val') if 'val_pos_edge_index' in data else None
-    # test_dataset = HeteroDataset(data, 'test')
+    train_dataset = HeteroDataset(data, 'train')
+    val_dataset = HeteroDataset(data, 'val') if 'val_pos_edge_index' in data else None
+    test_dataset = HeteroDataset(data, 'test')
 
-    # num_samples = int(len(train_dataset) * fraction)  
-    # all_indices = list(range(len(train_dataset)))
-    # subset_indices = random.sample(all_indices, num_samples) 
+    # For testing effect of percentage of training data available, 1 is using 100% of the training data (not of all data)
+    fraction = 1 
 
-    # train_subset = Subset(train_dataset, subset_indices)
+    num_samples = int(len(train_dataset) * fraction)  
+    all_indices = list(range(len(train_dataset)))
+    subset_indices = random.sample(all_indices, num_samples) 
+
+    train_subset = Subset(train_dataset, subset_indices)
 
     train_loader = DataLoader(train_subset, batch_size=batch_size_train, shuffle=True, collate_fn=__collate_fn)
     val_loader = DataLoader(val_dataset, batch_size=batch_size_val, shuffle=False, collate_fn=__collate_fn) if val_dataset else None
