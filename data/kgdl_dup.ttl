@@ -1,0 +1,1996 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://www.zotero.org/kgdl/item_10> rdfs:subClassOf <http://arxiv.org/abs/2206.02999> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_9> .
+
+<https://www.zotero.org/kgdl/item_1001> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10490101/> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1000> .
+
+<https://www.zotero.org/kgdl/item_1003> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S2352340920314165> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1004> .
+
+<https://www.zotero.org/kgdl/item_1006> rdfs:subClassOf <https://www.mdpi.com/2076-3417/12/2/930> .
+
+<https://www.zotero.org/kgdl/item_1007> rdfs:subClassOf <http://arxiv.org/abs/2010.03496> .
+
+<https://www.zotero.org/kgdl/item_1039> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8505441/> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1038> .
+
+<https://www.zotero.org/kgdl/item_104> rdfs:subClassOf <https://hal.science/hal-03479322> .
+
+<https://www.zotero.org/kgdl/item_1041> rdfs:subClassOf <https://ebooks.iospress.nl/doi/10.3233/SHTI240423> .
+
+<https://www.zotero.org/kgdl/item_1043> rdfs:subClassOf <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9122573> .
+
+<https://www.zotero.org/kgdl/item_1045> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1044> .
+
+<https://www.zotero.org/kgdl/item_1048> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1047> .
+
+<https://www.zotero.org/kgdl/item_1050> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1049> .
+
+<https://www.zotero.org/kgdl/item_1052> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1051> .
+
+<https://www.zotero.org/kgdl/item_1055> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1053> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1054> .
+
+<https://www.zotero.org/kgdl/item_1057> rdfs:subClassOf <https://arxiv.org/abs/2403.18128v1> .
+
+<https://www.zotero.org/kgdl/item_1059> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1058> .
+
+<https://www.zotero.org/kgdl/item_1062> rdfs:subClassOf <https://jbiomedsem.biomedcentral.com/submission-guidelines/preparing-your-manuscript> .
+
+<https://www.zotero.org/kgdl/item_1064> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1574119222001274> .
+
+<https://www.zotero.org/kgdl/item_1066> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10279623/?arnumber=10279623> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1067> .
+
+<https://www.zotero.org/kgdl/item_1070> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10129025/?arnumber=10129025> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1069> .
+
+<https://www.zotero.org/kgdl/item_1073> rdfs:subClassOf <http://arxiv.org/abs/2110.11775> .
+
+<https://www.zotero.org/kgdl/item_1076> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1075> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1077> .
+
+<https://www.zotero.org/kgdl/item_1078> rdfs:subClassOf <http://arxiv.org/abs/2309.01816> .
+
+<https://www.zotero.org/kgdl/item_1084> rdfs:subClassOf <http://arxiv.org/abs/2101.03627> .
+
+<https://www.zotero.org/kgdl/item_1085> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1081> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1083> .
+
+<https://www.zotero.org/kgdl/item_1089> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1087> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1088> .
+
+<https://www.zotero.org/kgdl/item_1092> rdfs:subClassOf <http://arxiv.org/abs/2004.04314> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1091> .
+
+<https://www.zotero.org/kgdl/item_1093> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1094> .
+
+<https://www.zotero.org/kgdl/item_1099> rdfs:subClassOf <https://proceedings.neurips.cc/paper_files/paper/2022/hash/868f2266086530b2c71006ea1908b14a-Abstract-Conference.html> .
+
+<https://www.zotero.org/kgdl/item_1100> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1103> .
+
+<https://www.zotero.org/kgdl/item_1105> rdfs:subClassOf <http://arxiv.org/abs/2405.13085> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1109> .
+
+<https://www.zotero.org/kgdl/item_1108> rdfs:subClassOf <https://doi.org/10.1186/s13326-023-00291-x> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1107> .
+
+<https://www.zotero.org/kgdl/item_1111> rdfs:subClassOf <https://ieeexplore.ieee.org/document/6818295> .
+
+<https://www.zotero.org/kgdl/item_112> rdfs:subClassOf <http://arxiv.org/abs/2311.02455> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_113> .
+
+<https://www.zotero.org/kgdl/item_1126> rdfs:subClassOf <https://www.nature.com/articles/sdata201635> .
+
+<https://www.zotero.org/kgdl/item_1131> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10498282/?arnumber=10498282> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1130> .
+
+<https://www.zotero.org/kgdl/item_1133> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1532046423000187> .
+
+<https://www.zotero.org/kgdl/item_1135> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7971091/> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1136> .
+
+<https://www.zotero.org/kgdl/item_1137> rdfs:subClassOf <http://arxiv.org/abs/1907.08650> .
+
+<https://www.zotero.org/kgdl/item_1150> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7456905/> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1149> .
+
+<https://www.zotero.org/kgdl/item_1151> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10264096/?arnumber=10264096&tag=1> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1147> .
+
+<https://www.zotero.org/kgdl/item_1154> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11306547/> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1153> .
+
+<https://www.zotero.org/kgdl/item_1157> rdfs:subClassOf <https://doi.org/10.1007/s41870-019-00314-w> .
+
+<https://www.zotero.org/kgdl/item_116> rdfs:subClassOf <http://arxiv.org/abs/2011.08939> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_117> .
+
+<https://www.zotero.org/kgdl/item_1162> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1532046422001599> .
+
+<https://www.zotero.org/kgdl/item_1165> rdfs:subClassOf <http://arxiv.org/abs/2402.14047> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1164> .
+
+<https://www.zotero.org/kgdl/item_1168> rdfs:subClassOf <http://arxiv.org/abs/2409.18313> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1167> .
+
+<https://www.zotero.org/kgdl/item_1172> rdfs:subClassOf <urn:isbn:978-1-4503-3469-3> .
+
+<https://www.zotero.org/kgdl/item_1174> rdfs:subClassOf <https://dl.acm.org/doi/10.14778/3149193.3149196> .
+
+<https://www.zotero.org/kgdl/item_1175> rdfs:subClassOf <urn:isbn:978-1-4503-6735-6> .
+
+<https://www.zotero.org/kgdl/item_1178> rdfs:subClassOf <urn:isbn:978-1-4503-6674-8> .
+
+<https://www.zotero.org/kgdl/item_1181> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0306437911001141> .
+
+<https://www.zotero.org/kgdl/item_1183> rdfs:subClassOf <https://ieeexplore.ieee.org/document/4407710/?arnumber=4407710> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1184> .
+
+<https://www.zotero.org/kgdl/item_1186> rdfs:subClassOf <http://arxiv.org/abs/2404.13765> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1187> .
+
+<https://www.zotero.org/kgdl/item_1189> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1570826809000043> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1190> .
+
+<https://www.zotero.org/kgdl/item_1197> rdfs:subClassOf <https://dl.acm.org/doi/abs/10.1145/3447548.3467138> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1195> .
+
+<https://www.zotero.org/kgdl/item_1199> rdfs:subClassOf <https://www.nature.com/articles/s41598-024-75784-5> .
+
+<https://www.zotero.org/kgdl/item_1200> rdfs:subClassOf <https://dl.acm.org/doi/10.1145/1132952.1132954> .
+
+<https://www.zotero.org/kgdl/item_1204> rdfs:subClassOf <http://arxiv.org/abs/2409.12171> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1203> .
+
+<https://www.zotero.org/kgdl/item_1209> rdfs:subClassOf <https://docs.google.com/document/d/18lMqUUMMniQUCC_6aeA9AuFf83RdyXuDcq2mADL34Js/edit?usp=embed_facebook> .
+
+<https://www.zotero.org/kgdl/item_1211> rdfs:subClassOf <https://doi.org/10.1186/s12911-018-0636-4> .
+
+<https://www.zotero.org/kgdl/item_1213> rdfs:subClassOf <https://aclanthology.org/2021.naacl-main.334> .
+
+<https://www.zotero.org/kgdl/item_1216> rdfs:subClassOf <http://arxiv.org/abs/2411.03351> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1215> .
+
+<https://www.zotero.org/kgdl/item_1218> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1217> .
+
+<https://www.zotero.org/kgdl/item_1223> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1222> .
+
+<https://www.zotero.org/kgdl/item_1226> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001761/> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1225> .
+
+<https://www.zotero.org/kgdl/item_1228> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10445356/?arnumber=10445356> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1229> .
+
+<https://www.zotero.org/kgdl/item_1231> rdfs:subClassOf <https://ieeexplore.ieee.org/document/8304587/?arnumber=8304587> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1232> .
+
+<https://www.zotero.org/kgdl/item_1234> rdfs:subClassOf <https://www.mdpi.com/1424-8220/19/14/3233> .
+
+<https://www.zotero.org/kgdl/item_1237> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10666859/?arnumber=10666859> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1236> .
+
+<https://www.zotero.org/kgdl/item_1239> rdfs:subClassOf <http://arxiv.org/abs/2301.13013> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1240> .
+
+<https://www.zotero.org/kgdl/item_1241> rdfs:subClassOf <urn:isbn:978-1-4503-3619-2> .
+
+<https://www.zotero.org/kgdl/item_1245> rdfs:subClassOf <http://arxiv.org/abs/1904.04964> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1246> .
+
+<https://www.zotero.org/kgdl/item_1248> rdfs:subClassOf <https://www.mdpi.com/2313-433X/9/4/82> .
+
+<https://www.zotero.org/kgdl/item_1250> rdfs:subClassOf <https://www.nature.com/articles/s41598-024-63195-5> .
+
+<https://www.zotero.org/kgdl/item_1253> rdfs:subClassOf <http://arxiv.org/abs/2204.04138> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1254> .
+
+<https://www.zotero.org/kgdl/item_1256> rdfs:subClassOf <https://www.nature.com/articles/s41598-024-58175-8> .
+
+<https://www.zotero.org/kgdl/item_1257> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9516988/> .
+
+<https://www.zotero.org/kgdl/item_1260> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10565183/?arnumber=10565183> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1261> .
+
+<https://www.zotero.org/kgdl/item_1264> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10559586/?arnumber=10559586> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1263> .
+
+<https://www.zotero.org/kgdl/item_1267> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10387166/?arnumber=10387166> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1266> .
+
+<https://www.zotero.org/kgdl/item_1269> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10786191/?arnumber=10786191> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1270> .
+
+<https://www.zotero.org/kgdl/item_1272> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10683210/?arnumber=10683210> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1273> .
+
+<https://www.zotero.org/kgdl/item_1276> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10190332/?arnumber=10190332> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1277> .
+
+<https://www.zotero.org/kgdl/item_1280> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10418178/?arnumber=10418178> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1279> .
+
+<https://www.zotero.org/kgdl/item_1283> rdfs:subClassOf <http://arxiv.org/abs/1603.07080> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1284> .
+
+<https://www.zotero.org/kgdl/item_1287> rdfs:subClassOf <https://doi.org/10.1186/s13638-019-1371-y> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1286> .
+
+<https://www.zotero.org/kgdl/item_1290> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9744536/?arnumber=9744536> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1289> .
+
+<https://www.zotero.org/kgdl/item_1293> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0140366421004916> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1292> .
+
+<https://www.zotero.org/kgdl/item_1296> rdfs:subClassOf <https://ieeexplore.ieee.org/document/6244790/?arnumber=6244790> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1295> .
+
+<https://www.zotero.org/kgdl/item_1298> rdfs:subClassOf <https://www.mdpi.com/2079-9292/12/24/5016> .
+
+<https://www.zotero.org/kgdl/item_13> rdfs:subClassOf <http://arxiv.org/abs/2106.05093> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_14> .
+
+<https://www.zotero.org/kgdl/item_1300> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9738650/> .
+
+<https://www.zotero.org/kgdl/item_1302> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9738650/?arnumber=9738650> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1303> .
+
+<https://www.zotero.org/kgdl/item_1306> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9861221/?arnumber=9861221> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1305> .
+
+<https://www.zotero.org/kgdl/item_1310> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1307> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1309> .
+
+<https://www.zotero.org/kgdl/item_1312> rdfs:subClassOf <https://www.mdpi.com/2079-9292/13/2/298> .
+
+<https://www.zotero.org/kgdl/item_1314> rdfs:subClassOf <urn:isbn:978-1-4503-9185-6> .
+
+<https://www.zotero.org/kgdl/item_1317> rdfs:subClassOf <http://arxiv.org/abs/2406.18684> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1318> .
+
+<https://www.zotero.org/kgdl/item_1320> rdfs:subClassOf <https://github.com/nisarnabeel/multi-modal-pose-estimation-CSI-mmWave/blob/main/cnf-bhat2023b.pdf> .
+
+<https://www.zotero.org/kgdl/item_1325> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1324> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1326> .
+
+<https://www.zotero.org/kgdl/item_1330> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10477406/?arnumber=10477406> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1329> .
+
+<https://www.zotero.org/kgdl/item_1333> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10755870/?arnumber=10755870> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1332> .
+
+<https://www.zotero.org/kgdl/item_1335> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10707238/?arnumber=10707238> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1336> .
+
+<https://www.zotero.org/kgdl/item_1339> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10530186/?arnumber=10530186> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1338> .
+
+<https://www.zotero.org/kgdl/item_1341> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10684811/?arnumber=10684811> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1342> .
+
+<https://www.zotero.org/kgdl/item_1344> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10756650/?arnumber=10756650> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1345> .
+
+<https://www.zotero.org/kgdl/item_1347> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1346> .
+
+<https://www.zotero.org/kgdl/item_1349> rdfs:subClassOf <http://arxiv.org/abs/2412.05265> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1350> .
+
+<https://www.zotero.org/kgdl/item_1359> rdfs:subClassOf <https://www.overleaf.com/project/66cedb194d82e253ae67e801/detached> .
+
+<https://www.zotero.org/kgdl/item_1364> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10323207/?arnumber=10323207> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1365> .
+
+<https://www.zotero.org/kgdl/item_1366> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0031320324002310> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1322> .
+
+<https://www.zotero.org/kgdl/item_1370> rdfs:subClassOf <https://www.overleaf.com/project/66cedb194d82e253ae67e801> .
+
+<https://www.zotero.org/kgdl/item_1373> rdfs:subClassOf <http://arxiv.org/abs/1803.10082> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1374> .
+
+<https://www.zotero.org/kgdl/item_1379> rdfs:subClassOf <http://arxiv.org/abs/2402.10846> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1378> .
+
+<https://www.zotero.org/kgdl/item_1389> rdfs:subClassOf <http://arxiv.org/abs/1910.03581> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1390> .
+
+<https://www.zotero.org/kgdl/item_1396> rdfs:subClassOf <http://arxiv.org/abs/2301.00389> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1393> .
+
+<https://www.zotero.org/kgdl/item_1398> rdfs:subClassOf <http://arxiv.org/abs/2007.14513> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1397> .
+
+<https://www.zotero.org/kgdl/item_1401> rdfs:subClassOf <http://arxiv.org/abs/1706.00384> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1402> .
+
+<https://www.zotero.org/kgdl/item_1410> rdfs:subClassOf <https://doi.org/10.1186/s13326-024-00320-3> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1409> .
+
+<https://www.zotero.org/kgdl/item_1429> rdfs:subClassOf <https://aaai.org/papers/flairs-2011-2523/> .
+
+<https://www.zotero.org/kgdl/item_1440> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0933365723000210> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1443> .
+
+<https://www.zotero.org/kgdl/item_1489> rdfs:subClassOf <https://doi.org/10.1093/bib/bbs053> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1490> .
+
+<https://www.zotero.org/kgdl/item_1497> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1532046421000393> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1583> .
+
+<https://www.zotero.org/kgdl/item_1499> rdfs:subClassOf <https://doi.org/10.1093/jamia/ocu023> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1500> .
+
+<https://www.zotero.org/kgdl/item_1508> rdfs:subClassOf <https://doi.org/10.1023/A:1007379606734> .
+
+<https://www.zotero.org/kgdl/item_1512> rdfs:subClassOf <http://arxiv.org/abs/1810.04650> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1513> .
+
+<https://www.zotero.org/kgdl/item_1519> rdfs:subClassOf <http://arxiv.org/abs/1711.02257> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1518> .
+
+<https://www.zotero.org/kgdl/item_1525> rdfs:subClassOf <https://ceur-ws.org/Vol-3210/paper7.pdf> .
+
+<https://www.zotero.org/kgdl/item_1529> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1528> .
+
+<https://www.zotero.org/kgdl/item_1540> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11643188/> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1539> .
+
+<https://www.zotero.org/kgdl/item_1546> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9601281/?arnumber=9601281> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1545> .
+
+<https://www.zotero.org/kgdl/item_1549> rdfs:subClassOf <https://ieeexplore.ieee.org/ielx8/6287639/6514899/10839382.pdf?tp=&arnumber=10839382&isnumber=6514899&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v&tag=1> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1550> .
+
+<https://www.zotero.org/kgdl/item_1552> rdfs:subClassOf <https://content.iospress.com/articles/semantic-web/sw210452> .
+
+<https://www.zotero.org/kgdl/item_1554> rdfs:subClassOf <urn:isbn:9798400717826> .
+
+<https://www.zotero.org/kgdl/item_1557> rdfs:subClassOf <https://ieeexplore.ieee.org/document/8599375/?arnumber=8599375> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1556> .
+
+<https://www.zotero.org/kgdl/item_1559> rdfs:subClassOf <https://doi.org/10.1177/01655515221121963> .
+
+<https://www.zotero.org/kgdl/item_1561> rdfs:subClassOf <https://drive.google.com/drive/folders/13bkSbZv1uubZdB6aU8vTf1bo71FZEuOe> .
+
+<https://www.zotero.org/kgdl/item_1563> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1564> .
+
+<https://www.zotero.org/kgdl/item_1570> rdfs:subClassOf <http://arxiv.org/abs/1911.13019> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1571> .
+
+<https://www.zotero.org/kgdl/item_1573> rdfs:subClassOf <http://arxiv.org/abs/2106.04803> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1574> .
+
+<https://www.zotero.org/kgdl/item_1578> rdfs:subClassOf <http://arxiv.org/abs/2105.01601> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1577> .
+
+<https://www.zotero.org/kgdl/item_158> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1532046417302381> .
+
+<https://www.zotero.org/kgdl/item_1581> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1579> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_1582> .
+
+<https://www.zotero.org/kgdl/item_162> rdfs:subClassOf <http://journals.sagepub.com/doi/10.4997/jrcpe.2020.309> .
+
+<https://www.zotero.org/kgdl/item_164> rdfs:subClassOf <https://scholar.google.com/scholar_lookup?title=European%20Initiatives%20to%20develop%20interoperability%20of%20enterprise%20applicationsbasic%20concepts%2C%20framework%20and%20roadmap&publication_year=2003&author=D.%20Chen&author=D.%20Doumeingts> .
+
+<https://www.zotero.org/kgdl/item_166> rdfs:subClassOf <https://zenodo.org/records/10518860> .
+
+<https://www.zotero.org/kgdl/item_169> rdfs:subClassOf <http://arxiv.org/abs/2202.12837> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_170> .
+
+<https://www.zotero.org/kgdl/item_172> rdfs:subClassOf <https://doi.org/10.1162/tacl_a_00325> .
+
+<https://www.zotero.org/kgdl/item_174> rdfs:subClassOf <http://arxiv.org/abs/2310.10688> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_175> .
+
+<https://www.zotero.org/kgdl/item_179> rdfs:subClassOf <http://arxiv.org/abs/1801.10198> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_178> .
+
+<https://www.zotero.org/kgdl/item_181> rdfs:subClassOf <https://ui.adsabs.harvard.edu/abs/2023arXiv231204528Z> .
+
+<https://www.zotero.org/kgdl/item_183> rdfs:subClassOf <https://openreview.net/forum?id=L0dc4wqbNs> .
+
+<https://www.zotero.org/kgdl/item_186> rdfs:subClassOf <http://arxiv.org/abs/2305.12031> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_187> .
+
+<https://www.zotero.org/kgdl/item_191> rdfs:subClassOf <http://arxiv.org/abs/2305.03937> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_190> .
+
+<https://www.zotero.org/kgdl/item_196> rdfs:subClassOf <https://www.zotero.org/kgdl/item_194> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_197> .
+
+<https://www.zotero.org/kgdl/item_201> rdfs:subClassOf <http://arxiv.org/abs/2305.14314> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_200> .
+
+<https://www.zotero.org/kgdl/item_202> rdfs:subClassOf <urn:isbn:978-1-72816-327-7> .
+
+<https://www.zotero.org/kgdl/item_205> rdfs:subClassOf <https://doi.org/10.1007/s41884-023-00129-6> .
+
+<https://www.zotero.org/kgdl/item_207> rdfs:subClassOf <https://www.mdpi.com/2504-4990/4/1/9> .
+
+<https://www.zotero.org/kgdl/item_21> rdfs:subClassOf <http://arxiv.org/abs/2309.04506> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_20> .
+
+<https://www.zotero.org/kgdl/item_210> rdfs:subClassOf <http://arxiv.org/abs/2203.11932> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_211> .
+
+<https://www.zotero.org/kgdl/item_215> rdfs:subClassOf <http://arxiv.org/abs/2110.09383> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_214> .
+
+<https://www.zotero.org/kgdl/item_217> rdfs:subClassOf <https://ceur-ws.org/Vol-3592/paper8.pdf> .
+
+<https://www.zotero.org/kgdl/item_236> rdfs:subClassOf <http://arxiv.org/abs/2310.04560> .
+
+<https://www.zotero.org/kgdl/item_25> rdfs:subClassOf <http://arxiv.org/abs/2306.08302> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_26> .
+
+<https://www.zotero.org/kgdl/item_280> rdfs:subClassOf <http://arxiv.org/abs/2103.17150> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_279> .
+
+<https://www.zotero.org/kgdl/item_296> rdfs:subClassOf <urn:isbn:978-1-4503-9416-1> .
+
+<https://www.zotero.org/kgdl/item_298> rdfs:subClassOf <https://dl.acm.org/doi/10.1145/3543507.3583471> .
+
+<https://www.zotero.org/kgdl/item_3> rdfs:subClassOf <http://arxiv.org/abs/2305.12322> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_2> .
+
+<https://www.zotero.org/kgdl/item_30> rdfs:subClassOf <http://arxiv.org/abs/1809.03202> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_29> .
+
+<https://www.zotero.org/kgdl/item_301> rdfs:subClassOf <http://arxiv.org/abs/2204.07609> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_302> .
+
+<https://www.zotero.org/kgdl/item_315> rdfs:subClassOf <http://arxiv.org/abs/1908.07463> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_314> .
+
+<https://www.zotero.org/kgdl/item_318> rdfs:subClassOf <http://arxiv.org/abs/2204.12493> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_319> .
+
+<https://www.zotero.org/kgdl/item_326> rdfs:subClassOf <http://arxiv.org/abs/2112.12371> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_327> .
+
+<https://www.zotero.org/kgdl/item_33> rdfs:subClassOf <http://arxiv.org/abs/2306.13796> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_32> .
+
+<https://www.zotero.org/kgdl/item_330> rdfs:subClassOf <http://arxiv.org/abs/2201.11865> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_329> .
+
+<https://www.zotero.org/kgdl/item_332> rdfs:subClassOf <http://arxiv.org/abs/1610.02132> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_333> .
+
+<https://www.zotero.org/kgdl/item_335> rdfs:subClassOf <http://arxiv.org/abs/1812.00564> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_336> .
+
+<https://www.zotero.org/kgdl/item_338> rdfs:subClassOf <https://proceedings.mlr.press/v89/esmaeili19a.html> .
+
+<https://www.zotero.org/kgdl/item_34> rdfs:subClassOf <https://hdl.handle.net/1871.1/270d7b7c-be6a-4b07-a8c9-22cca8dd5e96> .
+
+<https://www.zotero.org/kgdl/item_342> rdfs:subClassOf <http://arxiv.org/abs/2302.11509> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_341> .
+
+<https://www.zotero.org/kgdl/item_346> rdfs:subClassOf <https://www.zotero.org/kgdl/item_344> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_347> .
+
+<https://www.zotero.org/kgdl/item_355> rdfs:subClassOf <http://arxiv.org/abs/1612.04844> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_354> .
+
+<https://www.zotero.org/kgdl/item_357> rdfs:subClassOf <https://virtual.oxfordabstracts.com/#/event/4806/submission/14> .
+
+<https://www.zotero.org/kgdl/item_359> rdfs:subClassOf <https://virtual.oxfordabstracts.com/#/event/4806/submission/6> .
+
+<https://www.zotero.org/kgdl/item_361> rdfs:subClassOf <https://virtual.oxfordabstracts.com/#/event/4806/submission/5> .
+
+<https://www.zotero.org/kgdl/item_363> rdfs:subClassOf <https://virtual.oxfordabstracts.com/#/event/4806/submission/17> .
+
+<https://www.zotero.org/kgdl/item_365> rdfs:subClassOf <https://virtual.oxfordabstracts.com/#/event/4806/submission/11> .
+
+<https://www.zotero.org/kgdl/item_367> rdfs:subClassOf <urn:isbn:978-3-031-11608-7%20978-3-031-11609-4> .
+
+<https://www.zotero.org/kgdl/item_369> rdfs:subClassOf <urn:isbn:978-1-4503-7008-0> .
+
+<https://www.zotero.org/kgdl/item_375> rdfs:subClassOf <http://arxiv.org/abs/2305.12600> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_376> .
+
+<https://www.zotero.org/kgdl/item_38> rdfs:subClassOf <http://arxiv.org/abs/2310.02066> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_39> .
+
+<https://www.zotero.org/kgdl/item_384> rdfs:subClassOf <https://www.nature.com/articles/s44303-023-00005-z> .
+
+<https://www.zotero.org/kgdl/item_406> rdfs:subClassOf <http://arxiv.org/abs/2009.14654> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_405> .
+
+<https://www.zotero.org/kgdl/item_409> rdfs:subClassOf <http://arxiv.org/abs/2205.05638> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_408> .
+
+<https://www.zotero.org/kgdl/item_41> rdfs:subClassOf <http://arxiv.org/abs/2306.03606> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_42> .
+
+<https://www.zotero.org/kgdl/item_411> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9770266/> .
+
+<https://www.zotero.org/kgdl/item_413> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9770266> .
+
+<https://www.zotero.org/kgdl/item_415> rdfs:subClassOf <https://dl.acm.org/doi/10.1145/3410157> .
+
+<https://www.zotero.org/kgdl/item_418> rdfs:subClassOf <urn:isbn:978-0-9992411-2-7> .
+
+<https://www.zotero.org/kgdl/item_422> rdfs:subClassOf <http://arxiv.org/abs/1906.02390> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_421> .
+
+<https://www.zotero.org/kgdl/item_427> rdfs:subClassOf <http://arxiv.org/abs/1908.08210> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_428> .
+
+<https://www.zotero.org/kgdl/item_430> rdfs:subClassOf <https://dl.acm.org/doi/10.1145/3519031> .
+
+<https://www.zotero.org/kgdl/item_437> rdfs:subClassOf <https://medinform.jmir.org/2016/4/e38> .
+
+<https://www.zotero.org/kgdl/item_45> rdfs:subClassOf <http://arxiv.org/abs/2311.13806> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_46> .
+
+<https://www.zotero.org/kgdl/item_459> rdfs:subClassOf <https://ieeexplore.ieee.org/abstract/document/5887335> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_458> .
+
+<https://www.zotero.org/kgdl/item_461> rdfs:subClassOf <https://dl.acm.org/doi/10.14778/3598581.3598594> .
+
+<https://www.zotero.org/kgdl/item_463> rdfs:subClassOf <https://doi.org/10.1007/s11280-023-01221-8> .
+
+<https://www.zotero.org/kgdl/item_466> rdfs:subClassOf <http://arxiv.org/abs/2004.00584> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_467> .
+
+<https://www.zotero.org/kgdl/item_469> rdfs:subClassOf <urn:isbn:978-3-89318-083-7> .
+
+<https://www.zotero.org/kgdl/item_475> rdfs:subClassOf <https://www.nature.com/articles/s41597-023-02028-y> .
+
+<https://www.zotero.org/kgdl/item_479> rdfs:subClassOf <https://www.zotero.org/kgdl/item_476> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_478> .
+
+<https://www.zotero.org/kgdl/item_483> rdfs:subClassOf <http://arxiv.org/abs/2303.00286> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_482> .
+
+<https://www.zotero.org/kgdl/item_485> rdfs:subClassOf <https://proceedings.neurips.cc/paper_files/paper/2021/hash/7f489f642a0ddb10272b5c31057f0663-Abstract.html> .
+
+<https://www.zotero.org/kgdl/item_486> rdfs:subClassOf <urn:isbn:978-1-72818-671-9> .
+
+<https://www.zotero.org/kgdl/item_489> rdfs:subClassOf <https://doi.org/10.1186/s42492-023-00140-9> .
+
+<https://www.zotero.org/kgdl/item_49> rdfs:subClassOf <http://arxiv.org/abs/2310.11244> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_48> .
+
+<https://www.zotero.org/kgdl/item_490> rdfs:subClassOf <https://linkinghub.elsevier.com/retrieve/pii/S095219762300310X> .
+
+<https://www.zotero.org/kgdl/item_496> rdfs:subClassOf <http://arxiv.org/abs/2402.04823> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_497> .
+
+<https://www.zotero.org/kgdl/item_5> rdfs:subClassOf <https://aclanthology.org/2021.acl-short.98/> .
+
+<https://www.zotero.org/kgdl/item_51> rdfs:subClassOf <https://doi.org/10.1007/s10994-022-06259-9> .
+
+<https://www.zotero.org/kgdl/item_515> rdfs:subClassOf <http://arxiv.org/abs/2403.07311> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_516> .
+
+<https://www.zotero.org/kgdl/item_520> rdfs:subClassOf <https://proceedings.mlr.press/v80/yoon18a.html> .
+
+<https://www.zotero.org/kgdl/item_522> rdfs:subClassOf <https://openreview.net/forum?id=fPVRcJqspu> .
+
+<https://www.zotero.org/kgdl/item_525> rdfs:subClassOf <http://arxiv.org/abs/2210.04018> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_526> .
+
+<https://www.zotero.org/kgdl/item_528> rdfs:subClassOf <https://aclanthology.org/2023.emnlp-main.313> .
+
+<https://www.zotero.org/kgdl/item_53> rdfs:subClassOf <http://arxiv.org/abs/2306.00745> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_54> .
+
+<https://www.zotero.org/kgdl/item_532> rdfs:subClassOf <http://arxiv.org/abs/2401.08565> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_531> .
+
+<https://www.zotero.org/kgdl/item_535> rdfs:subClassOf <http://arxiv.org/abs/2301.02064> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_534> .
+
+<https://www.zotero.org/kgdl/item_539> rdfs:subClassOf <http://arxiv.org/abs/2111.01338> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_538> .
+
+<https://www.zotero.org/kgdl/item_543> rdfs:subClassOf <http://arxiv.org/abs/2308.02357> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_542> .
+
+<https://www.zotero.org/kgdl/item_544> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9892282/> .
+
+<https://www.zotero.org/kgdl/item_549> rdfs:subClassOf <http://arxiv.org/abs/2201.07387> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_548> .
+
+<https://www.zotero.org/kgdl/item_553> rdfs:subClassOf <http://arxiv.org/abs/2012.06678> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_552> .
+
+<https://www.zotero.org/kgdl/item_557> rdfs:subClassOf <https://www.zotero.org/kgdl/item_554> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_556> .
+
+<https://www.zotero.org/kgdl/item_561> rdfs:subClassOf <http://arxiv.org/abs/2402.01729> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_560> .
+
+<https://www.zotero.org/kgdl/item_564> rdfs:subClassOf <https://ieeexplore.ieee.org/abstract/document/10286890> .
+
+<https://www.zotero.org/kgdl/item_567> rdfs:subClassOf <http://arxiv.org/abs/2304.10054> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_566> .
+
+<https://www.zotero.org/kgdl/item_571> rdfs:subClassOf <https://www.nature.com/articles/s41598-023-42357-x> .
+
+<https://www.zotero.org/kgdl/item_575> rdfs:subClassOf <https://ieeexplore.ieee.org/abstract/document/10385560> .
+
+<https://www.zotero.org/kgdl/item_582> rdfs:subClassOf <http://arxiv.org/abs/2301.11118> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_581> .
+
+<https://www.zotero.org/kgdl/item_584> rdfs:subClassOf <https://docs.google.com/spreadsheets/d/1B9gVBTxsUMQpkx5XMKR-Bdmb1cC4nHsRtdspukFC08A/edit?usp=drive_web&ouid=106365511980388031474&usp=embed_facebook> .
+
+<https://www.zotero.org/kgdl/item_586> rdfs:subClassOf <https://proceedings.neurips.cc/paper/2021/hash/10c272d06794d3e5785d5e7c5356e9ff-Abstract.html> .
+
+<https://www.zotero.org/kgdl/item_59> rdfs:subClassOf <http://arxiv.org/abs/2312.00164> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_58> .
+
+<https://www.zotero.org/kgdl/item_592> rdfs:subClassOf <https://preprints.jmir.org/preprint/55779> .
+
+<https://www.zotero.org/kgdl/item_594> rdfs:subClassOf <https://www.jmir.org/2024/1/e55779> .
+
+<https://www.zotero.org/kgdl/item_601> rdfs:subClassOf <https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002730> .
+
+<https://www.zotero.org/kgdl/item_602> rdfs:subClassOf <http://arxiv.org/abs/2309.01538> .
+
+<https://www.zotero.org/kgdl/item_607> rdfs:subClassOf <http://arxiv.org/abs/2006.00575> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_608> .
+
+<https://www.zotero.org/kgdl/item_611> rdfs:subClassOf <https://doi.org/10.1186/s12911-022-02070-7> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_610> .
+
+<https://www.zotero.org/kgdl/item_614> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10297905/> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_613> .
+
+<https://www.zotero.org/kgdl/item_621> rdfs:subClassOf <https://ojs.aaai.org/index.php/AAAI/article/view/28732> .
+
+<https://www.zotero.org/kgdl/item_625> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0167739X19302663> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_626> .
+
+<https://www.zotero.org/kgdl/item_630> rdfs:subClassOf <https://dl.acm.org/doi/10.1145/3653317> .
+
+<https://www.zotero.org/kgdl/item_632> rdfs:subClassOf <https://www.mdpi.com/2075-4426/13/7/1024> .
+
+<https://www.zotero.org/kgdl/item_639> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1570826824000052> .
+
+<https://www.zotero.org/kgdl/item_645> rdfs:subClassOf <https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0038-1638585> .
+
+<https://www.zotero.org/kgdl/item_648> rdfs:subClassOf <http://arxiv.org/abs/2201.02797> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_649> .
+
+<https://www.zotero.org/kgdl/item_651> rdfs:subClassOf <https://www.frontiersin.org/articles/10.3389/fbioe.2020.00867> .
+
+<https://www.zotero.org/kgdl/item_653> rdfs:subClassOf <https://doi.org/10.1177/1833358319851305> .
+
+<https://www.zotero.org/kgdl/item_657> rdfs:subClassOf <urn:isbn:978-92-76-28949-4> .
+
+<https://www.zotero.org/kgdl/item_659> rdfs:subClassOf <https://www.zotero.org/kgdl/item_658> .
+
+<https://www.zotero.org/kgdl/item_660> rdfs:subClassOf <http://arxiv.org/abs/2204.13931> .
+
+<https://www.zotero.org/kgdl/item_667> rdfs:subClassOf <https://www.zotero.org/kgdl/item_665> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_666> .
+
+<https://www.zotero.org/kgdl/item_668> rdfs:subClassOf <http://arxiv.org/abs/2110.05028> .
+
+<https://www.zotero.org/kgdl/item_682> rdfs:subClassOf <https://www.semantic-web-journal.net/content/caligraph-knowledge-graph-wikipedia-categories-and-lists> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_664> .
+
+<https://www.zotero.org/kgdl/item_686> rdfs:subClassOf <http://arxiv.org/abs/2002.00207> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_687> .
+
+<https://www.zotero.org/kgdl/item_696> rdfs:subClassOf <http://arxiv.org/abs/2303.04426> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_695> .
+
+<https://www.zotero.org/kgdl/item_700> rdfs:subClassOf <http://arxiv.org/abs/1911.03814> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_699> .
+
+<https://www.zotero.org/kgdl/item_709> rdfs:subClassOf <http://preprints.jmir.org/preprint/55779> .
+
+<https://www.zotero.org/kgdl/item_712> rdfs:subClassOf <https://www.frontiersin.org/articles/10.3389/fmed.2024.1365501> .
+
+<https://www.zotero.org/kgdl/item_715> rdfs:subClassOf <http://arxiv.org/abs/2305.00813> .
+
+<https://www.zotero.org/kgdl/item_719> rdfs:subClassOf <https://drive.google.com/drive/u/0/folders/1DtD7lvHmZ9g90Zf5REcHn7sB3ccheEzw> .
+
+<https://www.zotero.org/kgdl/item_721> rdfs:subClassOf <https://doi.org/10.1080/09544828.2024.2355758> .
+
+<https://www.zotero.org/kgdl/item_725> rdfs:subClassOf <http://arxiv.org/abs/2102.10882> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_724> .
+
+<https://www.zotero.org/kgdl/item_729> rdfs:subClassOf <http://arxiv.org/abs/2309.16108> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_730> .
+
+<https://www.zotero.org/kgdl/item_736> rdfs:subClassOf <http://arxiv.org/abs/1802.02611> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_737> .
+
+<https://www.zotero.org/kgdl/item_740> rdfs:subClassOf <http://arxiv.org/abs/2106.14881> .
+
+<https://www.zotero.org/kgdl/item_745> rdfs:subClassOf <https://www.zotero.org/kgdl/item_743> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_746> .
+
+<https://www.zotero.org/kgdl/item_748> rdfs:subClassOf <https://www.mdpi.com/2078-2489/14/7/364> .
+
+<https://www.zotero.org/kgdl/item_754> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S153204642200257X> .
+
+<https://www.zotero.org/kgdl/item_757> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S153204642200096X> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_756> .
+
+<https://www.zotero.org/kgdl/item_759> rdfs:subClassOf <http://arxiv.org/abs/2112.07887> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_760> .
+
+<https://www.zotero.org/kgdl/item_763> rdfs:subClassOf <https://www.zotero.org/kgdl/item_761> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_764> .
+
+<https://www.zotero.org/kgdl/item_767> rdfs:subClassOf <http://arxiv.org/abs/2212.07724> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_768> .
+
+<https://www.zotero.org/kgdl/item_770> rdfs:subClassOf <https://openreview.net/forum?id=DRu8PMHgCh> .
+
+<https://www.zotero.org/kgdl/item_773> rdfs:subClassOf <http://arxiv.org/abs/2403.18128> .
+
+<https://www.zotero.org/kgdl/item_777> rdfs:subClassOf <https://www.zotero.org/kgdl/item_775> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_776> .
+
+<https://www.zotero.org/kgdl/item_779> rdfs:subClassOf <https://proceedings.mlr.press/v193/gupta22a.html> .
+
+<https://www.zotero.org/kgdl/item_781> rdfs:subClassOf <https://www.semantic-web-journal.net/content/neuro-symbolic-system-over-knowledge-graphs-link-prediction> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_782> .
+
+<https://www.zotero.org/kgdl/item_786> rdfs:subClassOf <http://arxiv.org/abs/1912.11270> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_787> .
+
+<https://www.zotero.org/kgdl/item_789> rdfs:subClassOf <https://www.nature.com/articles/s41746-021-00518-0> .
+
+<https://www.zotero.org/kgdl/item_791> rdfs:subClassOf <https://www.zotero.org/kgdl/item_790> .
+
+<https://www.zotero.org/kgdl/item_793> rdfs:subClassOf <https://doi.org/10.1093/bib/bbab489> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_794> .
+
+<https://www.zotero.org/kgdl/item_796> rdfs:subClassOf <https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00768/full> .
+
+<https://www.zotero.org/kgdl/item_798> rdfs:subClassOf <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8447230> .
+
+<https://www.zotero.org/kgdl/item_800> rdfs:subClassOf <https://ieeexplore.ieee.org/document/8447230> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_801> .
+
+<https://www.zotero.org/kgdl/item_803> rdfs:subClassOf <https://dbeaver.io/download/> .
+
+<https://www.zotero.org/kgdl/item_804> rdfs:subClassOf <https://www.zotero.org/kgdl/item_805> .
+
+<https://www.zotero.org/kgdl/item_808> rdfs:subClassOf <https://www.tandfonline.com/doi/epdf/10.1080/09544828.2024.2355758?needAccess=true> .
+
+<https://www.zotero.org/kgdl/item_81> rdfs:subClassOf <http://arxiv.org/abs/2103.15947> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_80> .
+
+<https://www.zotero.org/kgdl/item_810> rdfs:subClassOf <http://arxiv.org/abs/2402.16785> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_811> .
+
+<https://www.zotero.org/kgdl/item_812> rdfs:subClassOf <http://arxiv.org/abs/1711.03438> .
+
+<https://www.zotero.org/kgdl/item_815> rdfs:subClassOf <http://arxiv.org/abs/2305.18654> .
+
+<https://www.zotero.org/kgdl/item_818> rdfs:subClassOf <https://www.zotero.org/kgdl/item_819> .
+
+<https://www.zotero.org/kgdl/item_824> rdfs:subClassOf <https://www.zotero.org/kgdl/item_821> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_823> .
+
+<https://www.zotero.org/kgdl/item_826> rdfs:subClassOf <urn:isbn:9798400701030> .
+
+<https://www.zotero.org/kgdl/item_828> rdfs:subClassOf <https://www.nature.com/articles/s41467-023-41093-0> .
+
+<https://www.zotero.org/kgdl/item_830> rdfs:subClassOf <https://proceedings.mlr.press/v68/choi17a.html> .
+
+<https://www.zotero.org/kgdl/item_838> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8532078/> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_837> .
+
+<https://www.zotero.org/kgdl/item_840> rdfs:subClassOf <http://arxiv.org/abs/2104.04883> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_841> .
+
+<https://www.zotero.org/kgdl/item_844> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1532046422000168> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_843> .
+
+<https://www.zotero.org/kgdl/item_845> rdfs:subClassOf <https://www.zotero.org/kgdl/item_846> .
+
+<https://www.zotero.org/kgdl/item_852> rdfs:subClassOf <https://aclanthology.org/2022.coling-1.352> .
+
+<https://www.zotero.org/kgdl/item_853> rdfs:subClassOf <http://arxiv.org/abs/1711.08267> .
+
+<https://www.zotero.org/kgdl/item_858> rdfs:subClassOf <urn:isbn:978-1-4503-6201-6> .
+
+<https://www.zotero.org/kgdl/item_859> rdfs:subClassOf <https://www.mdpi.com/1099-4300/21/11/1083> .
+
+<https://www.zotero.org/kgdl/item_861> rdfs:subClassOf <urn:isbn:978-1-932432-46-6> .
+
+<https://www.zotero.org/kgdl/item_874> rdfs:subClassOf <https://ieeexplore.ieee.org/abstract/document/10490101> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_873> .
+
+<https://www.zotero.org/kgdl/item_875> rdfs:subClassOf <https://www.zotero.org/kgdl/item_876> .
+
+<https://www.zotero.org/kgdl/item_880> rdfs:subClassOf <http://arxiv.org/abs/1807.03653> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_881> .
+
+<https://www.zotero.org/kgdl/item_884> rdfs:subClassOf <http://arxiv.org/abs/2310.03399> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_883> .
+
+<https://www.zotero.org/kgdl/item_891> rdfs:subClassOf <http://arxiv.org/abs/1907.05600> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_892> .
+
+<https://www.zotero.org/kgdl/item_893> rdfs:subClassOf <http://arxiv.org/abs/2301.13622> .
+
+<https://www.zotero.org/kgdl/item_896> rdfs:subClassOf <http://arxiv.org/abs/2405.20602> .
+
+<https://www.zotero.org/kgdl/item_902> rdfs:subClassOf <http://arxiv.org/abs/2111.09266> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_901> .
+
+<https://www.zotero.org/kgdl/item_904> rdfs:subClassOf <http://arxiv.org/abs/1803.02991> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_905> .
+
+<https://www.zotero.org/kgdl/item_907> rdfs:subClassOf <https://ieeexplore.ieee.org/abstract/document/10533245> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_908> .
+
+<https://www.zotero.org/kgdl/item_912> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0167865524001879> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_914> .
+
+<https://www.zotero.org/kgdl/item_917> rdfs:subClassOf <https://doi.org/10.1186/s13326-023-00301-y> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_916> .
+
+<https://www.zotero.org/kgdl/item_919> rdfs:subClassOf <https://content.iospress.com/articles/semantic-web/sw233508> .
+
+<https://www.zotero.org/kgdl/item_922> rdfs:subClassOf <http://arxiv.org/abs/1808.07980> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_921> .
+
+<https://www.zotero.org/kgdl/item_925> rdfs:subClassOf <http://arxiv.org/abs/1903.07293> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_926> .
+
+<https://www.zotero.org/kgdl/item_927> rdfs:subClassOf <http://arxiv.org/abs/2003.01332> .
+
+<https://www.zotero.org/kgdl/item_930> rdfs:subClassOf <http://arxiv.org/abs/1809.10341> .
+
+<https://www.zotero.org/kgdl/item_935> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1361841523002803> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_934> .
+
+<https://www.zotero.org/kgdl/item_939> rdfs:subClassOf <http://arxiv.org/abs/1711.11157> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_938> .
+
+<https://www.zotero.org/kgdl/item_94> rdfs:subClassOf <http://arxiv.org/abs/2111.04566> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_95> .
+
+<https://www.zotero.org/kgdl/item_940> rdfs:subClassOf <http://arxiv.org/abs/2002.05969> .
+
+<https://www.zotero.org/kgdl/item_946> rdfs:subClassOf <https://www.zotero.org/kgdl/item_943> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_945> .
+
+<https://www.zotero.org/kgdl/item_949> rdfs:subClassOf <http://arxiv.org/abs/1911.06136> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_950> .
+
+<https://www.zotero.org/kgdl/item_953> rdfs:subClassOf <http://arxiv.org/abs/1111.7164> .
+
+<https://www.zotero.org/kgdl/item_956> rdfs:subClassOf <http://arxiv.org/abs/2203.09280> .
+
+<https://www.zotero.org/kgdl/item_959> rdfs:subClassOf <http://arxiv.org/abs/2404.18681> .
+
+<https://www.zotero.org/kgdl/item_962> rdfs:subClassOf <https://doi.org/10.1093/bib/bbaa199> .
+
+<https://www.zotero.org/kgdl/item_963> rdfs:subClassOf <https://dl.acm.org/doi/10.14778/3407790.3407828> .
+
+<https://www.zotero.org/kgdl/item_965> rdfs:subClassOf <http://arxiv.org/abs/1708.07129> .
+
+<https://www.zotero.org/kgdl/item_969> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0031320324005624> .
+
+<https://www.zotero.org/kgdl/item_971> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10552143/?arnumber=10552143> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_972> .
+
+<https://www.zotero.org/kgdl/item_977> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9136644/?arnumber=9136644> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_976> .
+
+<https://www.zotero.org/kgdl/item_979> rdfs:subClassOf <https://www.zotero.org/kgdl/item_978> .
+
+<https://www.zotero.org/kgdl/item_981> rdfs:subClassOf <https://www.nature.com/articles/s41467-022-34267-9> .
+
+<https://www.zotero.org/kgdl/item_985> rdfs:subClassOf <http://arxiv.org/abs/2403.19887> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_984> .
+
+<https://www.zotero.org/kgdl/item_987> rdfs:subClassOf <http://arxiv.org/abs/2405.17428> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_988> .
+
+<https://www.zotero.org/kgdl/item_99> rdfs:subClassOf <http://arxiv.org/abs/1909.13762> ;
+    owl:sameAs <https://www.zotero.org/kgdl/item_100> .
+
+<https://www.zotero.org/kgdl/item_990> rdfs:subClassOf <https://ieeexplore.ieee.org/abstract/document/10604492> .
+
+<https://www.zotero.org/kgdl/item_992> rdfs:subClassOf <https://proceedings.neurips.cc/paper_files/paper/2022/hash/ffdb280e7c7b4c4af30e04daf5a84b98-Abstract-Conference.html> .
+
+<http://arxiv.org/abs/1111.7164> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1708.07129> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1711.03438> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1711.08267> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1809.10341> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1907.08650> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2002.05969> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2003.01332> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2010.03496> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2101.03627> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2106.14881> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2110.05028> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2110.11775> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2203.09280> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2204.13931> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2301.13622> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2305.00813> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2305.18654> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2309.01538> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2309.01816> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2310.04560> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2403.18128> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2404.18681> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2405.20602> rdfs:subClassOf owl:Thing .
+
+<http://journals.sagepub.com/doi/10.4997/jrcpe.2020.309> rdfs:subClassOf owl:Thing .
+
+<http://preprints.jmir.org/preprint/55779> rdfs:subClassOf owl:Thing .
+
+<https://aaai.org/papers/flairs-2011-2523/> rdfs:subClassOf owl:Thing .
+
+<https://aclanthology.org/2021.acl-short.98/> rdfs:subClassOf owl:Thing .
+
+<https://aclanthology.org/2021.naacl-main.334> rdfs:subClassOf owl:Thing .
+
+<https://aclanthology.org/2022.coling-1.352> rdfs:subClassOf owl:Thing .
+
+<https://aclanthology.org/2023.emnlp-main.313> rdfs:subClassOf owl:Thing .
+
+<https://arxiv.org/abs/2403.18128v1> rdfs:subClassOf owl:Thing .
+
+<https://ceur-ws.org/Vol-3210/paper7.pdf> rdfs:subClassOf owl:Thing .
+
+<https://ceur-ws.org/Vol-3592/paper8.pdf> rdfs:subClassOf owl:Thing .
+
+<https://content.iospress.com/articles/semantic-web/sw210452> rdfs:subClassOf owl:Thing .
+
+<https://content.iospress.com/articles/semantic-web/sw233508> rdfs:subClassOf owl:Thing .
+
+<https://dbeaver.io/download/> rdfs:subClassOf owl:Thing .
+
+<https://dl.acm.org/doi/10.1145/1132952.1132954> rdfs:subClassOf owl:Thing .
+
+<https://dl.acm.org/doi/10.1145/3410157> rdfs:subClassOf owl:Thing .
+
+<https://dl.acm.org/doi/10.1145/3519031> rdfs:subClassOf owl:Thing .
+
+<https://dl.acm.org/doi/10.1145/3543507.3583471> rdfs:subClassOf owl:Thing .
+
+<https://dl.acm.org/doi/10.1145/3653317> rdfs:subClassOf owl:Thing .
+
+<https://dl.acm.org/doi/10.14778/3149193.3149196> rdfs:subClassOf owl:Thing .
+
+<https://dl.acm.org/doi/10.14778/3407790.3407828> rdfs:subClassOf owl:Thing .
+
+<https://dl.acm.org/doi/10.14778/3598581.3598594> rdfs:subClassOf owl:Thing .
+
+<https://docs.google.com/document/d/18lMqUUMMniQUCC_6aeA9AuFf83RdyXuDcq2mADL34Js/edit?usp=embed_facebook> rdfs:subClassOf owl:Thing .
+
+<https://docs.google.com/spreadsheets/d/1B9gVBTxsUMQpkx5XMKR-Bdmb1cC4nHsRtdspukFC08A/edit?usp=drive_web&ouid=106365511980388031474&usp=embed_facebook> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1007/s10994-022-06259-9> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1007/s11280-023-01221-8> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1007/s41870-019-00314-w> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1007/s41884-023-00129-6> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1023/A:1007379606734> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1080/09544828.2024.2355758> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1093/bib/bbaa199> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1162/tacl_a_00325> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1177/01655515221121963> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1177/1833358319851305> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1186/s12911-018-0636-4> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1186/s42492-023-00140-9> rdfs:subClassOf owl:Thing .
+
+<https://drive.google.com/drive/folders/13bkSbZv1uubZdB6aU8vTf1bo71FZEuOe> rdfs:subClassOf owl:Thing .
+
+<https://drive.google.com/drive/u/0/folders/1DtD7lvHmZ9g90Zf5REcHn7sB3ccheEzw> rdfs:subClassOf owl:Thing .
+
+<https://ebooks.iospress.nl/doi/10.3233/SHTI240423> rdfs:subClassOf owl:Thing .
+
+<https://github.com/nisarnabeel/multi-modal-pose-estimation-CSI-mmWave/blob/main/cnf-bhat2023b.pdf> rdfs:subClassOf owl:Thing .
+
+<https://hal.science/hal-03479322> rdfs:subClassOf owl:Thing .
+
+<https://hdl.handle.net/1871.1/270d7b7c-be6a-4b07-a8c9-22cca8dd5e96> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/abstract/document/10286890> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/abstract/document/10385560> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/abstract/document/10604492> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/6818295> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/9516988/> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/9738650/> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/9770266> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/9770266/> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/9892282/> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8447230> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9122573> rdfs:subClassOf owl:Thing .
+
+<https://jbiomedsem.biomedcentral.com/submission-guidelines/preparing-your-manuscript> rdfs:subClassOf owl:Thing .
+
+<https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002730> rdfs:subClassOf owl:Thing .
+
+<https://linkinghub.elsevier.com/retrieve/pii/S095219762300310X> rdfs:subClassOf owl:Thing .
+
+<https://medinform.jmir.org/2016/4/e38> rdfs:subClassOf owl:Thing .
+
+<https://ojs.aaai.org/index.php/AAAI/article/view/28732> rdfs:subClassOf owl:Thing .
+
+<https://openreview.net/forum?id=DRu8PMHgCh> rdfs:subClassOf owl:Thing .
+
+<https://openreview.net/forum?id=L0dc4wqbNs> rdfs:subClassOf owl:Thing .
+
+<https://openreview.net/forum?id=fPVRcJqspu> rdfs:subClassOf owl:Thing .
+
+<https://preprints.jmir.org/preprint/55779> rdfs:subClassOf owl:Thing .
+
+<https://proceedings.mlr.press/v193/gupta22a.html> rdfs:subClassOf owl:Thing .
+
+<https://proceedings.mlr.press/v68/choi17a.html> rdfs:subClassOf owl:Thing .
+
+<https://proceedings.mlr.press/v80/yoon18a.html> rdfs:subClassOf owl:Thing .
+
+<https://proceedings.mlr.press/v89/esmaeili19a.html> rdfs:subClassOf owl:Thing .
+
+<https://proceedings.neurips.cc/paper/2021/hash/10c272d06794d3e5785d5e7c5356e9ff-Abstract.html> rdfs:subClassOf owl:Thing .
+
+<https://proceedings.neurips.cc/paper_files/paper/2021/hash/7f489f642a0ddb10272b5c31057f0663-Abstract.html> rdfs:subClassOf owl:Thing .
+
+<https://proceedings.neurips.cc/paper_files/paper/2022/hash/868f2266086530b2c71006ea1908b14a-Abstract-Conference.html> rdfs:subClassOf owl:Thing .
+
+<https://proceedings.neurips.cc/paper_files/paper/2022/hash/ffdb280e7c7b4c4af30e04daf5a84b98-Abstract-Conference.html> rdfs:subClassOf owl:Thing .
+
+<https://scholar.google.com/scholar_lookup?title=European%20Initiatives%20to%20develop%20interoperability%20of%20enterprise%20applicationsbasic%20concepts%2C%20framework%20and%20roadmap&publication_year=2003&author=D.%20Chen&author=D.%20Doumeingts> rdfs:subClassOf owl:Thing .
+
+<https://ui.adsabs.harvard.edu/abs/2023arXiv231204528Z> rdfs:subClassOf owl:Thing .
+
+<https://virtual.oxfordabstracts.com/#/event/4806/submission/11> rdfs:subClassOf owl:Thing .
+
+<https://virtual.oxfordabstracts.com/#/event/4806/submission/14> rdfs:subClassOf owl:Thing .
+
+<https://virtual.oxfordabstracts.com/#/event/4806/submission/17> rdfs:subClassOf owl:Thing .
+
+<https://virtual.oxfordabstracts.com/#/event/4806/submission/5> rdfs:subClassOf owl:Thing .
+
+<https://virtual.oxfordabstracts.com/#/event/4806/submission/6> rdfs:subClassOf owl:Thing .
+
+<https://www.frontiersin.org/articles/10.3389/fbioe.2020.00867> rdfs:subClassOf owl:Thing .
+
+<https://www.frontiersin.org/articles/10.3389/fmed.2024.1365501> rdfs:subClassOf owl:Thing .
+
+<https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00768/full> rdfs:subClassOf owl:Thing .
+
+<https://www.jmir.org/2024/1/e55779> rdfs:subClassOf owl:Thing .
+
+<https://www.mdpi.com/1099-4300/21/11/1083> rdfs:subClassOf owl:Thing .
+
+<https://www.mdpi.com/1424-8220/19/14/3233> rdfs:subClassOf owl:Thing .
+
+<https://www.mdpi.com/2075-4426/13/7/1024> rdfs:subClassOf owl:Thing .
+
+<https://www.mdpi.com/2076-3417/12/2/930> rdfs:subClassOf owl:Thing .
+
+<https://www.mdpi.com/2078-2489/14/7/364> rdfs:subClassOf owl:Thing .
+
+<https://www.mdpi.com/2079-9292/12/24/5016> rdfs:subClassOf owl:Thing .
+
+<https://www.mdpi.com/2079-9292/13/2/298> rdfs:subClassOf owl:Thing .
+
+<https://www.mdpi.com/2313-433X/9/4/82> rdfs:subClassOf owl:Thing .
+
+<https://www.mdpi.com/2504-4990/4/1/9> rdfs:subClassOf owl:Thing .
+
+<https://www.nature.com/articles/s41467-022-34267-9> rdfs:subClassOf owl:Thing .
+
+<https://www.nature.com/articles/s41467-023-41093-0> rdfs:subClassOf owl:Thing .
+
+<https://www.nature.com/articles/s41597-023-02028-y> rdfs:subClassOf owl:Thing .
+
+<https://www.nature.com/articles/s41598-023-42357-x> rdfs:subClassOf owl:Thing .
+
+<https://www.nature.com/articles/s41598-024-58175-8> rdfs:subClassOf owl:Thing .
+
+<https://www.nature.com/articles/s41598-024-63195-5> rdfs:subClassOf owl:Thing .
+
+<https://www.nature.com/articles/s41598-024-75784-5> rdfs:subClassOf owl:Thing .
+
+<https://www.nature.com/articles/s41746-021-00518-0> rdfs:subClassOf owl:Thing .
+
+<https://www.nature.com/articles/s44303-023-00005-z> rdfs:subClassOf owl:Thing .
+
+<https://www.nature.com/articles/sdata201635> rdfs:subClassOf owl:Thing .
+
+<https://www.overleaf.com/project/66cedb194d82e253ae67e801> rdfs:subClassOf owl:Thing .
+
+<https://www.overleaf.com/project/66cedb194d82e253ae67e801/detached> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S0031320324005624> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S0306437911001141> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S1532046417302381> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S1532046422001599> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S153204642200257X> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S1532046423000187> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S1570826824000052> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S1574119222001274> rdfs:subClassOf owl:Thing .
+
+<https://www.tandfonline.com/doi/epdf/10.1080/09544828.2024.2355758?needAccess=true> rdfs:subClassOf owl:Thing .
+
+<https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0038-1638585> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_100> rdfs:subClassOf <http://arxiv.org/abs/1909.13762> .
+
+<https://www.zotero.org/kgdl/item_1000> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10490101/> .
+
+<https://www.zotero.org/kgdl/item_1004> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S2352340920314165> .
+
+<https://www.zotero.org/kgdl/item_1038> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8505441/> .
+
+<https://www.zotero.org/kgdl/item_1044> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1047> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1049> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1051> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1054> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1053> .
+
+<https://www.zotero.org/kgdl/item_1058> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1067> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10279623/?arnumber=10279623> .
+
+<https://www.zotero.org/kgdl/item_1069> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10129025/?arnumber=10129025> .
+
+<https://www.zotero.org/kgdl/item_1077> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1075> .
+
+<https://www.zotero.org/kgdl/item_1083> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1081> .
+
+<https://www.zotero.org/kgdl/item_1088> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1087> .
+
+<https://www.zotero.org/kgdl/item_1091> rdfs:subClassOf <http://arxiv.org/abs/2004.04314> .
+
+<https://www.zotero.org/kgdl/item_1094> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1103> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1107> rdfs:subClassOf <https://doi.org/10.1186/s13326-023-00291-x> .
+
+<https://www.zotero.org/kgdl/item_1109> rdfs:subClassOf <http://arxiv.org/abs/2405.13085> .
+
+<https://www.zotero.org/kgdl/item_113> rdfs:subClassOf <http://arxiv.org/abs/2311.02455> .
+
+<https://www.zotero.org/kgdl/item_1130> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10498282/?arnumber=10498282> .
+
+<https://www.zotero.org/kgdl/item_1136> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7971091/> .
+
+<https://www.zotero.org/kgdl/item_1147> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10264096/?arnumber=10264096&tag=1> .
+
+<https://www.zotero.org/kgdl/item_1149> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7456905/> .
+
+<https://www.zotero.org/kgdl/item_1153> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11306547/> .
+
+<https://www.zotero.org/kgdl/item_1164> rdfs:subClassOf <http://arxiv.org/abs/2402.14047> .
+
+<https://www.zotero.org/kgdl/item_1167> rdfs:subClassOf <http://arxiv.org/abs/2409.18313> .
+
+<https://www.zotero.org/kgdl/item_117> rdfs:subClassOf <http://arxiv.org/abs/2011.08939> .
+
+<https://www.zotero.org/kgdl/item_1184> rdfs:subClassOf <https://ieeexplore.ieee.org/document/4407710/?arnumber=4407710> .
+
+<https://www.zotero.org/kgdl/item_1187> rdfs:subClassOf <http://arxiv.org/abs/2404.13765> .
+
+<https://www.zotero.org/kgdl/item_1190> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1570826809000043> .
+
+<https://www.zotero.org/kgdl/item_1195> rdfs:subClassOf <https://dl.acm.org/doi/abs/10.1145/3447548.3467138> .
+
+<https://www.zotero.org/kgdl/item_1203> rdfs:subClassOf <http://arxiv.org/abs/2409.12171> .
+
+<https://www.zotero.org/kgdl/item_1215> rdfs:subClassOf <http://arxiv.org/abs/2411.03351> .
+
+<https://www.zotero.org/kgdl/item_1217> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1222> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1225> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001761/> .
+
+<https://www.zotero.org/kgdl/item_1229> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10445356/?arnumber=10445356> .
+
+<https://www.zotero.org/kgdl/item_1232> rdfs:subClassOf <https://ieeexplore.ieee.org/document/8304587/?arnumber=8304587> .
+
+<https://www.zotero.org/kgdl/item_1236> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10666859/?arnumber=10666859> .
+
+<https://www.zotero.org/kgdl/item_1240> rdfs:subClassOf <http://arxiv.org/abs/2301.13013> .
+
+<https://www.zotero.org/kgdl/item_1246> rdfs:subClassOf <http://arxiv.org/abs/1904.04964> .
+
+<https://www.zotero.org/kgdl/item_1254> rdfs:subClassOf <http://arxiv.org/abs/2204.04138> .
+
+<https://www.zotero.org/kgdl/item_1261> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10565183/?arnumber=10565183> .
+
+<https://www.zotero.org/kgdl/item_1263> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10559586/?arnumber=10559586> .
+
+<https://www.zotero.org/kgdl/item_1266> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10387166/?arnumber=10387166> .
+
+<https://www.zotero.org/kgdl/item_1270> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10786191/?arnumber=10786191> .
+
+<https://www.zotero.org/kgdl/item_1273> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10683210/?arnumber=10683210> .
+
+<https://www.zotero.org/kgdl/item_1277> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10190332/?arnumber=10190332> .
+
+<https://www.zotero.org/kgdl/item_1279> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10418178/?arnumber=10418178> .
+
+<https://www.zotero.org/kgdl/item_1284> rdfs:subClassOf <http://arxiv.org/abs/1603.07080> .
+
+<https://www.zotero.org/kgdl/item_1286> rdfs:subClassOf <https://doi.org/10.1186/s13638-019-1371-y> .
+
+<https://www.zotero.org/kgdl/item_1289> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9744536/?arnumber=9744536> .
+
+<https://www.zotero.org/kgdl/item_1292> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0140366421004916> .
+
+<https://www.zotero.org/kgdl/item_1295> rdfs:subClassOf <https://ieeexplore.ieee.org/document/6244790/?arnumber=6244790> .
+
+<https://www.zotero.org/kgdl/item_1303> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9738650/?arnumber=9738650> .
+
+<https://www.zotero.org/kgdl/item_1305> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9861221/?arnumber=9861221> .
+
+<https://www.zotero.org/kgdl/item_1309> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1307> .
+
+<https://www.zotero.org/kgdl/item_1318> rdfs:subClassOf <http://arxiv.org/abs/2406.18684> .
+
+<https://www.zotero.org/kgdl/item_1322> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0031320324002310> .
+
+<https://www.zotero.org/kgdl/item_1326> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1324> .
+
+<https://www.zotero.org/kgdl/item_1329> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10477406/?arnumber=10477406> .
+
+<https://www.zotero.org/kgdl/item_1332> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10755870/?arnumber=10755870> .
+
+<https://www.zotero.org/kgdl/item_1336> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10707238/?arnumber=10707238> .
+
+<https://www.zotero.org/kgdl/item_1338> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10530186/?arnumber=10530186> .
+
+<https://www.zotero.org/kgdl/item_1342> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10684811/?arnumber=10684811> .
+
+<https://www.zotero.org/kgdl/item_1345> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10756650/?arnumber=10756650> .
+
+<https://www.zotero.org/kgdl/item_1346> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1350> rdfs:subClassOf <http://arxiv.org/abs/2412.05265> .
+
+<https://www.zotero.org/kgdl/item_1365> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10323207/?arnumber=10323207> .
+
+<https://www.zotero.org/kgdl/item_1374> rdfs:subClassOf <http://arxiv.org/abs/1803.10082> .
+
+<https://www.zotero.org/kgdl/item_1378> rdfs:subClassOf <http://arxiv.org/abs/2402.10846> .
+
+<https://www.zotero.org/kgdl/item_1390> rdfs:subClassOf <http://arxiv.org/abs/1910.03581> .
+
+<https://www.zotero.org/kgdl/item_1393> rdfs:subClassOf <http://arxiv.org/abs/2301.00389> .
+
+<https://www.zotero.org/kgdl/item_1397> rdfs:subClassOf <http://arxiv.org/abs/2007.14513> .
+
+<https://www.zotero.org/kgdl/item_14> rdfs:subClassOf <http://arxiv.org/abs/2106.05093> .
+
+<https://www.zotero.org/kgdl/item_1402> rdfs:subClassOf <http://arxiv.org/abs/1706.00384> .
+
+<https://www.zotero.org/kgdl/item_1409> rdfs:subClassOf <https://doi.org/10.1186/s13326-024-00320-3> .
+
+<https://www.zotero.org/kgdl/item_1443> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0933365723000210> .
+
+<https://www.zotero.org/kgdl/item_1490> rdfs:subClassOf <https://doi.org/10.1093/bib/bbs053> .
+
+<https://www.zotero.org/kgdl/item_1500> rdfs:subClassOf <https://doi.org/10.1093/jamia/ocu023> .
+
+<https://www.zotero.org/kgdl/item_1513> rdfs:subClassOf <http://arxiv.org/abs/1810.04650> .
+
+<https://www.zotero.org/kgdl/item_1518> rdfs:subClassOf <http://arxiv.org/abs/1711.02257> .
+
+<https://www.zotero.org/kgdl/item_1528> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1539> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11643188/> .
+
+<https://www.zotero.org/kgdl/item_1545> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9601281/?arnumber=9601281> .
+
+<https://www.zotero.org/kgdl/item_1550> rdfs:subClassOf <https://ieeexplore.ieee.org/ielx8/6287639/6514899/10839382.pdf?tp=&arnumber=10839382&isnumber=6514899&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v&tag=1> .
+
+<https://www.zotero.org/kgdl/item_1556> rdfs:subClassOf <https://ieeexplore.ieee.org/document/8599375/?arnumber=8599375> .
+
+<https://www.zotero.org/kgdl/item_1564> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/> .
+
+<https://www.zotero.org/kgdl/item_1571> rdfs:subClassOf <http://arxiv.org/abs/1911.13019> .
+
+<https://www.zotero.org/kgdl/item_1574> rdfs:subClassOf <http://arxiv.org/abs/2106.04803> .
+
+<https://www.zotero.org/kgdl/item_1577> rdfs:subClassOf <http://arxiv.org/abs/2105.01601> .
+
+<https://www.zotero.org/kgdl/item_1582> rdfs:subClassOf <https://www.zotero.org/kgdl/item_1579> .
+
+<https://www.zotero.org/kgdl/item_1583> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1532046421000393> .
+
+<https://www.zotero.org/kgdl/item_170> rdfs:subClassOf <http://arxiv.org/abs/2202.12837> .
+
+<https://www.zotero.org/kgdl/item_175> rdfs:subClassOf <http://arxiv.org/abs/2310.10688> .
+
+<https://www.zotero.org/kgdl/item_178> rdfs:subClassOf <http://arxiv.org/abs/1801.10198> .
+
+<https://www.zotero.org/kgdl/item_187> rdfs:subClassOf <http://arxiv.org/abs/2305.12031> .
+
+<https://www.zotero.org/kgdl/item_190> rdfs:subClassOf <http://arxiv.org/abs/2305.03937> .
+
+<https://www.zotero.org/kgdl/item_197> rdfs:subClassOf <https://www.zotero.org/kgdl/item_194> .
+
+<https://www.zotero.org/kgdl/item_2> rdfs:subClassOf <http://arxiv.org/abs/2305.12322> .
+
+<https://www.zotero.org/kgdl/item_20> rdfs:subClassOf <http://arxiv.org/abs/2309.04506> .
+
+<https://www.zotero.org/kgdl/item_200> rdfs:subClassOf <http://arxiv.org/abs/2305.14314> .
+
+<https://www.zotero.org/kgdl/item_211> rdfs:subClassOf <http://arxiv.org/abs/2203.11932> .
+
+<https://www.zotero.org/kgdl/item_214> rdfs:subClassOf <http://arxiv.org/abs/2110.09383> .
+
+<https://www.zotero.org/kgdl/item_26> rdfs:subClassOf <http://arxiv.org/abs/2306.08302> .
+
+<https://www.zotero.org/kgdl/item_279> rdfs:subClassOf <http://arxiv.org/abs/2103.17150> .
+
+<https://www.zotero.org/kgdl/item_29> rdfs:subClassOf <http://arxiv.org/abs/1809.03202> .
+
+<https://www.zotero.org/kgdl/item_302> rdfs:subClassOf <http://arxiv.org/abs/2204.07609> .
+
+<https://www.zotero.org/kgdl/item_314> rdfs:subClassOf <http://arxiv.org/abs/1908.07463> .
+
+<https://www.zotero.org/kgdl/item_319> rdfs:subClassOf <http://arxiv.org/abs/2204.12493> .
+
+<https://www.zotero.org/kgdl/item_32> rdfs:subClassOf <http://arxiv.org/abs/2306.13796> .
+
+<https://www.zotero.org/kgdl/item_327> rdfs:subClassOf <http://arxiv.org/abs/2112.12371> .
+
+<https://www.zotero.org/kgdl/item_329> rdfs:subClassOf <http://arxiv.org/abs/2201.11865> .
+
+<https://www.zotero.org/kgdl/item_333> rdfs:subClassOf <http://arxiv.org/abs/1610.02132> .
+
+<https://www.zotero.org/kgdl/item_336> rdfs:subClassOf <http://arxiv.org/abs/1812.00564> .
+
+<https://www.zotero.org/kgdl/item_341> rdfs:subClassOf <http://arxiv.org/abs/2302.11509> .
+
+<https://www.zotero.org/kgdl/item_347> rdfs:subClassOf <https://www.zotero.org/kgdl/item_344> .
+
+<https://www.zotero.org/kgdl/item_354> rdfs:subClassOf <http://arxiv.org/abs/1612.04844> .
+
+<https://www.zotero.org/kgdl/item_376> rdfs:subClassOf <http://arxiv.org/abs/2305.12600> .
+
+<https://www.zotero.org/kgdl/item_39> rdfs:subClassOf <http://arxiv.org/abs/2310.02066> .
+
+<https://www.zotero.org/kgdl/item_405> rdfs:subClassOf <http://arxiv.org/abs/2009.14654> .
+
+<https://www.zotero.org/kgdl/item_408> rdfs:subClassOf <http://arxiv.org/abs/2205.05638> .
+
+<https://www.zotero.org/kgdl/item_42> rdfs:subClassOf <http://arxiv.org/abs/2306.03606> .
+
+<https://www.zotero.org/kgdl/item_421> rdfs:subClassOf <http://arxiv.org/abs/1906.02390> .
+
+<https://www.zotero.org/kgdl/item_428> rdfs:subClassOf <http://arxiv.org/abs/1908.08210> .
+
+<https://www.zotero.org/kgdl/item_458> rdfs:subClassOf <https://ieeexplore.ieee.org/abstract/document/5887335> .
+
+<https://www.zotero.org/kgdl/item_46> rdfs:subClassOf <http://arxiv.org/abs/2311.13806> .
+
+<https://www.zotero.org/kgdl/item_467> rdfs:subClassOf <http://arxiv.org/abs/2004.00584> .
+
+<https://www.zotero.org/kgdl/item_478> rdfs:subClassOf <https://www.zotero.org/kgdl/item_476> .
+
+<https://www.zotero.org/kgdl/item_48> rdfs:subClassOf <http://arxiv.org/abs/2310.11244> .
+
+<https://www.zotero.org/kgdl/item_482> rdfs:subClassOf <http://arxiv.org/abs/2303.00286> .
+
+<https://www.zotero.org/kgdl/item_497> rdfs:subClassOf <http://arxiv.org/abs/2402.04823> .
+
+<https://www.zotero.org/kgdl/item_516> rdfs:subClassOf <http://arxiv.org/abs/2403.07311> .
+
+<https://www.zotero.org/kgdl/item_526> rdfs:subClassOf <http://arxiv.org/abs/2210.04018> .
+
+<https://www.zotero.org/kgdl/item_531> rdfs:subClassOf <http://arxiv.org/abs/2401.08565> .
+
+<https://www.zotero.org/kgdl/item_534> rdfs:subClassOf <http://arxiv.org/abs/2301.02064> .
+
+<https://www.zotero.org/kgdl/item_538> rdfs:subClassOf <http://arxiv.org/abs/2111.01338> .
+
+<https://www.zotero.org/kgdl/item_54> rdfs:subClassOf <http://arxiv.org/abs/2306.00745> .
+
+<https://www.zotero.org/kgdl/item_542> rdfs:subClassOf <http://arxiv.org/abs/2308.02357> .
+
+<https://www.zotero.org/kgdl/item_548> rdfs:subClassOf <http://arxiv.org/abs/2201.07387> .
+
+<https://www.zotero.org/kgdl/item_552> rdfs:subClassOf <http://arxiv.org/abs/2012.06678> .
+
+<https://www.zotero.org/kgdl/item_556> rdfs:subClassOf <https://www.zotero.org/kgdl/item_554> .
+
+<https://www.zotero.org/kgdl/item_560> rdfs:subClassOf <http://arxiv.org/abs/2402.01729> .
+
+<https://www.zotero.org/kgdl/item_566> rdfs:subClassOf <http://arxiv.org/abs/2304.10054> .
+
+<https://www.zotero.org/kgdl/item_58> rdfs:subClassOf <http://arxiv.org/abs/2312.00164> .
+
+<https://www.zotero.org/kgdl/item_581> rdfs:subClassOf <http://arxiv.org/abs/2301.11118> .
+
+<https://www.zotero.org/kgdl/item_608> rdfs:subClassOf <http://arxiv.org/abs/2006.00575> .
+
+<https://www.zotero.org/kgdl/item_610> rdfs:subClassOf <https://doi.org/10.1186/s12911-022-02070-7> .
+
+<https://www.zotero.org/kgdl/item_613> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10297905/> .
+
+<https://www.zotero.org/kgdl/item_626> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0167739X19302663> .
+
+<https://www.zotero.org/kgdl/item_649> rdfs:subClassOf <http://arxiv.org/abs/2201.02797> .
+
+<https://www.zotero.org/kgdl/item_658> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_664> rdfs:subClassOf <https://www.semantic-web-journal.net/content/caligraph-knowledge-graph-wikipedia-categories-and-lists> .
+
+<https://www.zotero.org/kgdl/item_666> rdfs:subClassOf <https://www.zotero.org/kgdl/item_665> .
+
+<https://www.zotero.org/kgdl/item_687> rdfs:subClassOf <http://arxiv.org/abs/2002.00207> .
+
+<https://www.zotero.org/kgdl/item_695> rdfs:subClassOf <http://arxiv.org/abs/2303.04426> .
+
+<https://www.zotero.org/kgdl/item_699> rdfs:subClassOf <http://arxiv.org/abs/1911.03814> .
+
+<https://www.zotero.org/kgdl/item_724> rdfs:subClassOf <http://arxiv.org/abs/2102.10882> .
+
+<https://www.zotero.org/kgdl/item_730> rdfs:subClassOf <http://arxiv.org/abs/2309.16108> .
+
+<https://www.zotero.org/kgdl/item_737> rdfs:subClassOf <http://arxiv.org/abs/1802.02611> .
+
+<https://www.zotero.org/kgdl/item_746> rdfs:subClassOf <https://www.zotero.org/kgdl/item_743> .
+
+<https://www.zotero.org/kgdl/item_756> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S153204642200096X> .
+
+<https://www.zotero.org/kgdl/item_760> rdfs:subClassOf <http://arxiv.org/abs/2112.07887> .
+
+<https://www.zotero.org/kgdl/item_764> rdfs:subClassOf <https://www.zotero.org/kgdl/item_761> .
+
+<https://www.zotero.org/kgdl/item_768> rdfs:subClassOf <http://arxiv.org/abs/2212.07724> .
+
+<https://www.zotero.org/kgdl/item_776> rdfs:subClassOf <https://www.zotero.org/kgdl/item_775> .
+
+<https://www.zotero.org/kgdl/item_782> rdfs:subClassOf <https://www.semantic-web-journal.net/content/neuro-symbolic-system-over-knowledge-graphs-link-prediction> .
+
+<https://www.zotero.org/kgdl/item_787> rdfs:subClassOf <http://arxiv.org/abs/1912.11270> .
+
+<https://www.zotero.org/kgdl/item_790> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_794> rdfs:subClassOf <https://doi.org/10.1093/bib/bbab489> .
+
+<https://www.zotero.org/kgdl/item_80> rdfs:subClassOf <http://arxiv.org/abs/2103.15947> .
+
+<https://www.zotero.org/kgdl/item_801> rdfs:subClassOf <https://ieeexplore.ieee.org/document/8447230> .
+
+<https://www.zotero.org/kgdl/item_805> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_811> rdfs:subClassOf <http://arxiv.org/abs/2402.16785> .
+
+<https://www.zotero.org/kgdl/item_819> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_823> rdfs:subClassOf <https://www.zotero.org/kgdl/item_821> .
+
+<https://www.zotero.org/kgdl/item_837> rdfs:subClassOf <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8532078/> .
+
+<https://www.zotero.org/kgdl/item_841> rdfs:subClassOf <http://arxiv.org/abs/2104.04883> .
+
+<https://www.zotero.org/kgdl/item_843> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1532046422000168> .
+
+<https://www.zotero.org/kgdl/item_846> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_873> rdfs:subClassOf <https://ieeexplore.ieee.org/abstract/document/10490101> .
+
+<https://www.zotero.org/kgdl/item_876> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_881> rdfs:subClassOf <http://arxiv.org/abs/1807.03653> .
+
+<https://www.zotero.org/kgdl/item_883> rdfs:subClassOf <http://arxiv.org/abs/2310.03399> .
+
+<https://www.zotero.org/kgdl/item_892> rdfs:subClassOf <http://arxiv.org/abs/1907.05600> .
+
+<https://www.zotero.org/kgdl/item_9> rdfs:subClassOf <http://arxiv.org/abs/2206.02999> .
+
+<https://www.zotero.org/kgdl/item_901> rdfs:subClassOf <http://arxiv.org/abs/2111.09266> .
+
+<https://www.zotero.org/kgdl/item_905> rdfs:subClassOf <http://arxiv.org/abs/1803.02991> .
+
+<https://www.zotero.org/kgdl/item_908> rdfs:subClassOf <https://ieeexplore.ieee.org/abstract/document/10533245> .
+
+<https://www.zotero.org/kgdl/item_914> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S0167865524001879> .
+
+<https://www.zotero.org/kgdl/item_916> rdfs:subClassOf <https://doi.org/10.1186/s13326-023-00301-y> .
+
+<https://www.zotero.org/kgdl/item_921> rdfs:subClassOf <http://arxiv.org/abs/1808.07980> .
+
+<https://www.zotero.org/kgdl/item_926> rdfs:subClassOf <http://arxiv.org/abs/1903.07293> .
+
+<https://www.zotero.org/kgdl/item_934> rdfs:subClassOf <https://www.sciencedirect.com/science/article/pii/S1361841523002803> .
+
+<https://www.zotero.org/kgdl/item_938> rdfs:subClassOf <http://arxiv.org/abs/1711.11157> .
+
+<https://www.zotero.org/kgdl/item_945> rdfs:subClassOf <https://www.zotero.org/kgdl/item_943> .
+
+<https://www.zotero.org/kgdl/item_95> rdfs:subClassOf <http://arxiv.org/abs/2111.04566> .
+
+<https://www.zotero.org/kgdl/item_950> rdfs:subClassOf <http://arxiv.org/abs/1911.06136> .
+
+<https://www.zotero.org/kgdl/item_972> rdfs:subClassOf <https://ieeexplore.ieee.org/document/10552143/?arnumber=10552143> .
+
+<https://www.zotero.org/kgdl/item_976> rdfs:subClassOf <https://ieeexplore.ieee.org/document/9136644/?arnumber=9136644> .
+
+<https://www.zotero.org/kgdl/item_978> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_984> rdfs:subClassOf <http://arxiv.org/abs/2403.19887> .
+
+<https://www.zotero.org/kgdl/item_988> rdfs:subClassOf <http://arxiv.org/abs/2405.17428> .
+
+<https://zenodo.org/records/10518860> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-0-9992411-2-7> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-4503-3469-3> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-4503-3619-2> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-4503-6201-6> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-4503-6674-8> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-4503-6735-6> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-4503-7008-0> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-4503-9185-6> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-4503-9416-1> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-72816-327-7> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-72818-671-9> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-1-932432-46-6> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-3-031-11608-7%20978-3-031-11609-4> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-3-89318-083-7> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:978-92-76-28949-4> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:9798400701030> rdfs:subClassOf owl:Thing .
+
+<urn:isbn:9798400717826> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1603.07080> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1610.02132> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1612.04844> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1706.00384> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1711.02257> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1711.11157> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1801.10198> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1802.02611> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1803.02991> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1803.10082> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1807.03653> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1808.07980> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1809.03202> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1810.04650> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1812.00564> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1903.07293> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1904.04964> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1906.02390> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1907.05600> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1908.07463> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1908.08210> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1909.13762> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1910.03581> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1911.03814> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1911.06136> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1911.13019> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/1912.11270> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2002.00207> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2004.00584> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2004.04314> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2006.00575> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2007.14513> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2009.14654> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2011.08939> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2012.06678> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2102.10882> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2103.15947> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2103.17150> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2104.04883> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2105.01601> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2106.04803> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2106.05093> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2110.09383> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2111.01338> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2111.04566> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2111.09266> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2112.07887> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2112.12371> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2201.02797> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2201.07387> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2201.11865> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2202.12837> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2203.11932> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2204.04138> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2204.07609> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2204.12493> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2205.05638> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2206.02999> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2210.04018> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2212.07724> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2301.00389> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2301.02064> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2301.11118> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2301.13013> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2302.11509> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2303.00286> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2303.04426> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2304.10054> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2305.03937> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2305.12031> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2305.12322> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2305.12600> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2305.14314> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2306.00745> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2306.03606> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2306.08302> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2306.13796> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2308.02357> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2309.04506> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2309.16108> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2310.02066> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2310.03399> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2310.10688> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2310.11244> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2311.02455> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2311.13806> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2312.00164> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2401.08565> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2402.01729> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2402.04823> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2402.10846> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2402.14047> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2402.16785> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2403.07311> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2403.19887> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2404.13765> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2405.13085> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2405.17428> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2406.18684> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2409.12171> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2409.18313> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2411.03351> rdfs:subClassOf owl:Thing .
+
+<http://arxiv.org/abs/2412.05265> rdfs:subClassOf owl:Thing .
+
+<https://dl.acm.org/doi/abs/10.1145/3447548.3467138> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1093/bib/bbab489> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1093/bib/bbs053> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1093/jamia/ocu023> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1186/s12911-022-02070-7> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1186/s13326-023-00291-x> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1186/s13326-023-00301-y> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1186/s13326-024-00320-3> rdfs:subClassOf owl:Thing .
+
+<https://doi.org/10.1186/s13638-019-1371-y> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/abstract/document/10490101> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/abstract/document/10533245> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/abstract/document/5887335> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10129025/?arnumber=10129025> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10190332/?arnumber=10190332> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10264096/?arnumber=10264096&tag=1> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10279623/?arnumber=10279623> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10323207/?arnumber=10323207> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10387166/?arnumber=10387166> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10418178/?arnumber=10418178> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10445356/?arnumber=10445356> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10477406/?arnumber=10477406> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10490101/> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10498282/?arnumber=10498282> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10530186/?arnumber=10530186> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10552143/?arnumber=10552143> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10559586/?arnumber=10559586> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10565183/?arnumber=10565183> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10666859/?arnumber=10666859> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10683210/?arnumber=10683210> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10684811/?arnumber=10684811> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10707238/?arnumber=10707238> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10755870/?arnumber=10755870> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10756650/?arnumber=10756650> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/10786191/?arnumber=10786191> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/4407710/?arnumber=4407710> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/6244790/?arnumber=6244790> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/8304587/?arnumber=8304587> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/8447230> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/8599375/?arnumber=8599375> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/9136644/?arnumber=9136644> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/9601281/?arnumber=9601281> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/9738650/?arnumber=9738650> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/9744536/?arnumber=9744536> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/document/9861221/?arnumber=9861221> rdfs:subClassOf owl:Thing .
+
+<https://ieeexplore.ieee.org/ielx8/6287639/6514899/10839382.pdf?tp=&arnumber=10839382&isnumber=6514899&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v&tag=1> rdfs:subClassOf owl:Thing .
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10297905/> rdfs:subClassOf owl:Thing .
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11306547/> rdfs:subClassOf owl:Thing .
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11643188/> rdfs:subClassOf owl:Thing .
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/> rdfs:subClassOf owl:Thing .
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001761/> rdfs:subClassOf owl:Thing .
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7456905/> rdfs:subClassOf owl:Thing .
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7971091/> rdfs:subClassOf owl:Thing .
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8505441/> rdfs:subClassOf owl:Thing .
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8532078/> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S0031320324002310> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S0140366421004916> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S0167739X19302663> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S0167865524001879> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S0933365723000210> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S1361841523002803> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S1532046421000393> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S1532046422000168> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S153204642200096X> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S1570826809000043> rdfs:subClassOf owl:Thing .
+
+<https://www.sciencedirect.com/science/article/pii/S2352340920314165> rdfs:subClassOf owl:Thing .
+
+<https://www.semantic-web-journal.net/content/caligraph-knowledge-graph-wikipedia-categories-and-lists> rdfs:subClassOf owl:Thing .
+
+<https://www.semantic-web-journal.net/content/neuro-symbolic-system-over-knowledge-graphs-link-prediction> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1053> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1075> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1081> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1087> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1307> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1324> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_1579> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_194> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_344> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_476> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_554> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_665> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_743> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_761> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_775> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_821> rdfs:subClassOf owl:Thing .
+
+<https://www.zotero.org/kgdl/item_943> rdfs:subClassOf owl:Thing .
+

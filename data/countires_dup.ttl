@@ -1,0 +1,3222 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix mdl: <http://example.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://dbpedia.org/resource/%C3%85land_Islands> a dbo:Country ;
+    dbo:areaTotal "13517"^^dbo:squareKilometre ;
+    dbo:capital "Mariehamn" ;
+    dbo:officialName "Åland" .
+
+dbr:Abkhazia a dbo:Country ;
+    dbo:areaTotal "8432"^^dbo:squareKilometre ;
+    dbo:capital "Sukhumi" ;
+    dbo:officialName "Abkhazia" .
+
+dbr:Ad%C3%A9lie_Land a dbo:Country ;
+    dbo:areaTotal "432000"^^dbo:squareKilometre ;
+    dbo:capital "Dumont d'Urville Station" ;
+    dbo:officialName "Adélie Land" .
+
+dbr:Adjara a dbo:Country ;
+    dbo:areaTotal "2900"^^dbo:squareKilometre ;
+    dbo:capital "Batumi" ;
+    dbo:officialName "Adjara" .
+
+dbr:Akrotiri_and_Dhekelia a dbo:Country ;
+    dbo:areaTotal "254"^^dbo:squareKilometre ;
+    dbo:capital "Episkopi Cantonment" ;
+    dbo:officialName "Akrotiri and Dhekelia" .
+
+dbr:Anjouan a dbo:Country ;
+    dbo:areaTotal "424"^^dbo:squareKilometre ;
+    dbo:capital "Mutsamudu" ;
+    dbo:officialName "Anjouan" .
+
+dbr:Ascension_Island a dbo:Country ;
+    dbo:areaTotal "88"^^dbo:squareKilometre ;
+    dbo:capital "Georgetown, Ascension Island" ;
+    dbo:officialName "Ascension Island" .
+
+dbr:Azores a dbo:Country ;
+    dbo:areaTotal "2346"^^dbo:squareKilometre ;
+    dbo:capital "Angra do Heroísmo",
+        "Horta (Azores)",
+        "Ponta Delgada" ;
+    dbo:officialName "The Azores" .
+
+dbr:Bonaire a dbo:Country ;
+    dbo:areaTotal "294"^^dbo:squareKilometre ;
+    dbo:capital "Kralendijk" ;
+    dbo:officialName "Bonaire" .
+
+dbr:British_Antarctic_Territory a dbo:Country ;
+    dbo:areaTotal "1709400"^^dbo:squareKilometre ;
+    dbo:capital "Commissioner of the British Antarctic Territory",
+        "London",
+        "Rothera" ;
+    dbo:officialName "the British Antarctic Territory" .
+
+dbr:British_Indian_Ocean_Territory a dbo:Country ;
+    dbo:areaTotal "60"^^dbo:squareKilometre ;
+    dbo:capital "Diego Garcia" ;
+    dbo:officialName "British Indian Ocean Territory" .
+
+dbr:Bunyoro a dbo:Country ;
+    dbo:areaTotal "18578"^^dbo:squareKilometre ;
+    dbo:capital "Hoima" ;
+    dbo:officialName "Bunyoro" .
+
+dbr:Collectivity_of_Saint_Martin a dbo:Country ;
+    dbo:areaTotal "53"^^dbo:squareKilometre ;
+    dbo:capital "Marigot, Saint Martin" ;
+    dbo:officialName "the Collectivity of Saint Martin" .
+
+dbr:Crimea a dbo:Country ;
+    dbo:areaTotal "26100"^^dbo:squareKilometre ;
+    dbo:capital "Simferopol" ;
+    dbo:officialName "Crimea" .
+
+dbr:East_Timor a dbo:Country ;
+    dbo:areaTotal "14874"^^dbo:squareKilometre ;
+    dbo:capital "Dili" ;
+    dbo:officialName "East Timor" .
+
+dbr:Easter_Island a dbo:Country ;
+    dbo:areaTotal "163"^^dbo:squareKilometre ;
+    dbo:capital "Hanga Roa" ;
+    dbo:officialName "Easter Island" .
+
+dbr:England a dbo:Country ;
+    dbo:areaTotal "130395"^^dbo:squareKilometre ;
+    dbo:capital "London" ;
+    dbo:officialName "England" .
+
+dbr:French_Southern_and_Antarctic_Lands a dbo:Country ;
+    dbo:areaTotal "439781"^^dbo:squareKilometre ;
+    dbo:capital "Port-aux-Français" ;
+    dbo:officialName "the French Southern and Antarctic Lands" .
+
+dbr:Gagauzia a dbo:Country ;
+    dbo:areaTotal "1832"^^dbo:squareKilometre ;
+    dbo:capital "Comrat" ;
+    dbo:officialName "Gagauzia" .
+
+dbr:Galmudug a dbo:Country ;
+    dbo:areaTotal "46000"^^dbo:squareKilometre ;
+    dbo:capital "Galkacyo" ;
+    dbo:officialName "Galmudug" .
+
+dbr:Iraqi_Kurdistan a dbo:Country ;
+    dbo:areaTotal "40643"^^dbo:squareKilometre ;
+    dbo:capital "Arbil" ;
+    dbo:officialName "Iraqi Kurdistan" .
+
+dbr:Karakalpakstan a dbo:Country ;
+    dbo:areaTotal "160000"^^dbo:squareKilometre ;
+    dbo:capital "Nukus" ;
+    dbo:officialName "Karakalpakstan" .
+
+dbr:Kerguelen_Islands a dbo:Country ;
+    dbo:areaTotal "7215"^^dbo:squareKilometre ;
+    dbo:capital "Port-aux-Français" ;
+    dbo:officialName "Kerguelen Islands" .
+
+dbr:Kingdom_of_Denmark a dbo:Country ;
+    dbo:areaTotal "2220093"^^dbo:squareKilometre ;
+    dbo:capital "Copenhagen" ;
+    dbo:officialName "Denmark" .
+
+dbr:Maakhir a dbo:Country ;
+    dbo:areaTotal "35000"^^dbo:squareKilometre ;
+    dbo:capital "Badhan, Sanaag" ;
+    dbo:officialName "Maakhir" .
+
+dbr:Madeira a dbo:Country ;
+    dbo:areaTotal "740"^^dbo:squareKilometre,
+        "801"^^dbo:squareKilometre ;
+    dbo:capital "Funchal" ;
+    dbo:officialName "Madeira" .
+
+dbr:Moh%C3%A9li a dbo:Country ;
+    dbo:areaTotal "290"^^dbo:squareKilometre ;
+    dbo:capital "Fomboni" ;
+    dbo:officialName "Mohéli" .
+
+dbr:Nagorno-Karabakh_Republic a dbo:Country ;
+    dbo:areaTotal "11458"^^dbo:squareKilometre ;
+    dbo:capital "Stepanakert" ;
+    dbo:officialName "Nagorno-Karabakh" .
+
+dbr:Nakhchivan a dbo:Country ;
+    dbo:areaTotal "5363"^^dbo:squareKilometre ;
+    dbo:capital "Nakhchivan City" ;
+    dbo:officialName "Nakhchivan" .
+
+dbr:Nevis a dbo:Country ;
+    dbo:areaTotal "93"^^dbo:squareKilometre ;
+    dbo:capital "Charlestown, Nevis" ;
+    dbo:officialName "Nevis" .
+
+dbr:Nisga%E2%80%99a a dbo:Country ;
+    dbo:areaTotal "2000"^^dbo:squareKilometre ;
+    dbo:capital "Gitlakdamix, British Columbia" ;
+    dbo:officialName "Nisga’a Nation" .
+
+dbr:Northern_Cyprus a dbo:Country ;
+    dbo:areaTotal "3355"^^dbo:squareKilometre ;
+    dbo:capital "Nicosia",
+        "Turkish language" ;
+    dbo:officialName "Northern Cyprus" .
+
+dbr:Northern_Ireland a dbo:Country ;
+    dbo:areaTotal "13843"^^dbo:squareKilometre ;
+    dbo:capital "Belfast" ;
+    dbo:officialName "Northern Ireland" .
+
+dbr:Puntland a dbo:Country ;
+    dbo:areaTotal "212510"^^dbo:squareKilometre ;
+    dbo:capital "Garowe" ;
+    dbo:officialName "Puntland" .
+
+dbr:Republic_of_Lakotah a dbo:Country ;
+    dbo:capital "Porcupine, South Dakota" ;
+    dbo:officialName "Lakotah" .
+
+dbr:Republika_Srpska a dbo:Country ;
+    dbo:areaTotal "24857"^^dbo:squareKilometre ;
+    dbo:capital "Banja Luka",
+        "Sarajevo" ;
+    dbo:officialName "Republika Srpska" .
+
+dbr:Rodrigues a dbo:Country ;
+    dbo:areaTotal "109"^^dbo:squareKilometre ;
+    dbo:capital "Port Mathurin" ;
+    dbo:officialName "Rodrigues" .
+
+dbr:Ross_Dependency a dbo:Country ;
+    dbo:areaTotal "450000"^^dbo:squareKilometre ;
+    dbo:capital "McMurdo Station",
+        "Scott Base" ;
+    dbo:officialName "Ross Dependency" .
+
+dbr:Saba a dbo:Country ;
+    dbo:areaTotal "13"^^dbo:squareKilometre ;
+    dbo:capital "The Bottom" ;
+    dbo:officialName "Saba" .
+
+dbr:Saint_Barth%C3%A9lemy a dbo:Country ;
+    dbo:areaTotal "21"^^dbo:squareKilometre ;
+    dbo:capital "Gustavia, Saint Barthélemy" ;
+    dbo:officialName "Saint Barthélemy" .
+
+<http://dbpedia.org/resource/Saint_Helena,_Ascension_and_Tristan_da_Cunha> a dbo:Country ;
+    dbo:areaTotal "420"^^dbo:squareKilometre ;
+    dbo:capital "Jamestown, Saint Helena" ;
+    dbo:officialName "Saint Helena, Ascension and Tristan da Cunha" .
+
+dbr:Savoy a dbo:Country ;
+    dbo:areaTotal "10416"^^dbo:squareKilometre ;
+    dbo:capital "Chambéry" ;
+    dbo:officialName "Savoie" .
+
+dbr:Scotland a dbo:Country ;
+    dbo:areaTotal "78772"^^dbo:squareKilometre ;
+    dbo:capital "Edinburgh" ;
+    dbo:officialName "Scotland" .
+
+dbr:Sint_Eustatius a dbo:Country ;
+    dbo:areaTotal "21"^^dbo:squareKilometre ;
+    dbo:capital "Oranjestad, Sint Eustatius" ;
+    dbo:officialName "Sint Eustatius" .
+
+dbr:Sint_Maarten a dbo:Country ;
+    dbo:areaTotal "34"^^dbo:squareKilometre ;
+    dbo:capital "Philipsburg, Netherlands Antilles" ;
+    dbo:officialName "Sint Maarten" .
+
+dbr:Somaliland a dbo:Country ;
+    dbo:areaTotal "137600"^^dbo:squareKilometre ;
+    dbo:capital "Hargeisa" ;
+    dbo:officialName "Somaliland" .
+
+dbr:South_Georgia_and_the_South_Sandwich_Islands a dbo:Country ;
+    dbo:areaTotal "3903"^^dbo:squareKilometre ;
+    dbo:capital "King Edward Point" ;
+    dbo:officialName "South Georgia and the South Sandwich Islands" .
+
+dbr:South_Ossetia a dbo:Country ;
+    dbo:areaTotal "3900"^^dbo:squareKilometre ;
+    dbo:capital "Tskhinvali" ;
+    dbo:officialName "South Ossetia" .
+
+dbr:Southern_Sudan a dbo:Country ;
+    dbo:areaTotal "640000"^^dbo:squareKilometre ;
+    dbo:capital "Juba, Sudan" ;
+    dbo:officialName "South Sudan" .
+
+dbr:Tobago a dbo:Country ;
+    dbo:areaTotal "300"^^dbo:squareKilometre ;
+    dbo:capital "Scarborough, Tobago" ;
+    dbo:officialName "Tobago" .
+
+dbr:Tokelau a dbo:Country ;
+    dbo:areaTotal "10"^^dbo:squareKilometre ;
+    dbo:capital "Nukunonu" ;
+    dbo:officialName "Tokelau" .
+
+dbr:Transnistria a dbo:Country ;
+    dbo:areaTotal "4163"^^dbo:squareKilometre ;
+    dbo:capital "Tiraspol" ;
+    dbo:officialName "Transnistria" .
+
+dbr:United_States_Minor_Outlying_Islands a dbo:Country ;
+    dbo:areaTotal "34"^^dbo:squareKilometre ;
+    dbo:capital "Washington, D.C." ;
+    dbo:officialName "United States Minor Outlying Islands" .
+
+dbr:Vojvodina a dbo:Country ;
+    dbo:areaTotal "21506"^^dbo:squareKilometre ;
+    dbo:capital "Novi Sad" ;
+    dbo:officialName "Vojvodina" .
+
+dbr:Wales a dbo:Country ;
+    dbo:areaTotal "20779"^^dbo:squareKilometre ;
+    dbo:capital "Cardiff" ;
+    dbo:officialName "Wales" .
+
+mdl:country_10005 owl:sameAs dbr:Qatar .
+
+mdl:country_10052 owl:sameAs dbr:Pitcairn_Islands .
+
+mdl:country_10146 owl:sameAs dbr:Colombia .
+
+mdl:country_10292 owl:sameAs dbr:Bulgaria .
+
+mdl:country_10467 owl:sameAs dbr:Kingdom_of_the_Netherlands,
+        dbr:Netherlands .
+
+mdl:country_10516 owl:sameAs dbr:Canada .
+
+mdl:country_10602 owl:sameAs dbr:El_Salvador .
+
+mdl:country_10665 owl:sameAs dbr:Georgia_%28country%29 .
+
+mdl:country_10683 owl:sameAs dbr:Azerbaijan .
+
+mdl:country_10745 owl:sameAs dbr:Dominican_Republic .
+
+mdl:country_10816 owl:sameAs dbr:Burundi .
+
+mdl:country_10829 owl:sameAs dbr:Cameroon .
+
+mdl:country_10901 owl:sameAs dbr:Anguilla .
+
+mdl:country_10942 owl:sameAs dbr:Bahrain .
+
+mdl:country_10963 owl:sameAs dbr:Finland .
+
+mdl:country_10987 owl:sameAs dbr:Iran .
+
+mdl:country_11038 owl:sameAs dbr:Ukraine .
+
+mdl:country_11124 owl:sameAs dbr:Iceland .
+
+mdl:country_11229 owl:sameAs dbr:Estonia .
+
+mdl:country_1127 owl:sameAs dbr:Solomon_Islands .
+
+mdl:country_11273 owl:sameAs dbr:Vanuatu .
+
+mdl:country_11359 owl:sameAs dbr:Sri_Lanka .
+
+mdl:country_11423 owl:sameAs dbr:Saint_Lucia .
+
+mdl:country_11480 owl:sameAs dbr:Faroe_Islands .
+
+mdl:country_11518 owl:sameAs dbr:Niger .
+
+mdl:country_11528 owl:sameAs dbr:Zimbabwe .
+
+mdl:country_11648 owl:sameAs dbr:Angola .
+
+mdl:country_11774 owl:sameAs dbr:Germany .
+
+mdl:country_11817 owl:sameAs dbr:Lithuania .
+
+mdl:country_11923 owl:sameAs dbr:Isle_of_Man .
+
+mdl:country_11998 owl:sameAs dbr:Algeria .
+
+mdl:country_12088 owl:sameAs dbr:Cook_Islands .
+
+mdl:country_12267 owl:sameAs dbr:Burma .
+
+mdl:country_12799 owl:sameAs dbr:Liberia .
+
+mdl:country_13001 owl:sameAs dbr:Belize .
+
+mdl:country_13060 owl:sameAs dbr:Greece .
+
+mdl:country_13080 owl:sameAs dbr:Kuwait .
+
+mdl:country_13334 owl:sameAs dbr:Maldives .
+
+mdl:country_13365 owl:sameAs dbr:Seychelles .
+
+mdl:country_13377 owl:sameAs dbr:Pakistan .
+
+mdl:country_13399 owl:sameAs dbr:British_Virgin_Islands,
+        dbr:Cayman_Islands .
+
+mdl:country_13446 owl:sameAs dbr:Austria .
+
+mdl:country_13581 owl:sameAs dbr:Peru .
+
+mdl:country_13686 owl:sameAs dbr:Cuba .
+
+mdl:country_13710 owl:sameAs dbr:Oman .
+
+mdl:country_1396 owl:sameAs dbr:Saint_Vincent_and_the_Grenadines .
+
+mdl:country_14063 owl:sameAs dbr:Mexico .
+
+mdl:country_14076 owl:sameAs dbr:Papua_New_Guinea .
+
+mdl:country_14248 owl:sameAs dbr:Uzbekistan .
+
+mdl:country_14278 owl:sameAs dbr:Belgium .
+
+mdl:country_14350 owl:sameAs dbr:Nigeria .
+
+mdl:country_14368 owl:sameAs dbr:American_Samoa .
+
+mdl:country_14510 owl:sameAs dbr:Syria .
+
+mdl:country_14646 owl:sameAs dbr:Costa_Rica .
+
+mdl:country_14775 owl:sameAs dbr:Tunisia .
+
+mdl:country_14867 owl:sameAs dbr:Australia .
+
+mdl:country_14974 owl:sameAs dbr:Italy .
+
+mdl:country_1500 owl:sameAs dbr:Chad .
+
+mdl:country_15060 owl:sameAs dbr:Tajikistan .
+
+mdl:country_15157 owl:sameAs dbr:Madagascar .
+
+mdl:country_15182 owl:sameAs dbr:Central_African_Republic .
+
+mdl:country_15340 owl:sameAs dbr:Botswana .
+
+mdl:country_15515 owl:sameAs dbr:Republic_of_China .
+
+mdl:country_15674 owl:sameAs dbr:History_of_Venezuela,
+        dbr:Venezuela .
+
+mdl:country_15699 owl:sameAs dbr:Spain .
+
+mdl:country_15773 owl:sameAs dbr:Palau .
+
+mdl:country_15818 owl:sameAs dbr:Japan .
+
+mdl:country_15911 owl:sameAs dbr:Christmas_Island .
+
+mdl:country_15921 owl:sameAs dbr:Kiribati .
+
+mdl:country_15998 owl:sameAs dbr:Trinidad_and_Tobago .
+
+mdl:country_16051 owl:sameAs dbr:Svalbard .
+
+mdl:country_16064 owl:sameAs dbr:Morocco .
+
+mdl:country_16395 owl:sameAs dbr:Falkland_Islands .
+
+mdl:country_16533 owl:sameAs dbr:Argentina .
+
+mdl:country_16652 owl:sameAs dbr:United_States .
+
+mdl:country_16715 owl:sameAs dbr:Cape_Verde .
+
+mdl:country_1694 owl:sameAs dbr:Guam .
+
+mdl:country_17019 owl:sameAs dbr:Samoa .
+
+mdl:country_17063 owl:sameAs dbr:Hungary .
+
+mdl:country_17121 owl:sameAs dbr:Mozambique .
+
+mdl:country_17172 owl:sameAs dbr:Jordan .
+
+mdl:country_17257 owl:sameAs dbr:Sierra_Leone .
+
+mdl:country_17292 owl:sameAs dbr:Somalia .
+
+mdl:country_17340 owl:sameAs dbr:Cyprus .
+
+mdl:country_17513 owl:sameAs dbr:Saudi_Arabia .
+
+mdl:country_17538 owl:sameAs dbr:Republic_of_the_Congo .
+
+mdl:country_17548 owl:sameAs dbr:Brazil .
+
+mdl:country_17636 owl:sameAs dbr:Kenya .
+
+mdl:country_17718 owl:sameAs dbr:Thailand .
+
+mdl:country_17858 owl:sameAs dbr:United_Arab_Emirates .
+
+mdl:country_17932 owl:sameAs dbr:Croatia .
+
+mdl:country_17983 owl:sameAs dbr:Guinea .
+
+mdl:country_18096 owl:sameAs dbr:Latvia .
+
+mdl:country_18221 owl:sameAs dbr:Benin .
+
+mdl:country_18401 owl:sameAs dbr:Mongolia .
+
+mdl:country_18421 owl:sameAs dbr:Ecuador .
+
+mdl:country_18457 owl:sameAs dbr:Greenland .
+
+mdl:country_18575 owl:sameAs dbr:Russia .
+
+mdl:country_18587 owl:sameAs dbr:Chile .
+
+mdl:country_18670 owl:sameAs dbr:Yemen .
+
+mdl:country_1872 owl:sameAs dbr:Singapore .
+
+mdl:country_18773 owl:sameAs dbr:Djibouti .
+
+mdl:country_1911 owl:sameAs dbr:Serbia .
+
+mdl:country_19147 owl:sameAs dbr:C%C3%B4te_d%27Ivoire .
+
+mdl:country_19206 owl:sameAs dbr:Democratic_Republic_of_the_Congo .
+
+mdl:country_19243 owl:sameAs dbr:Ghana .
+
+mdl:country_19283 owl:sameAs dbr:Slovakia .
+
+mdl:country_19413 owl:sameAs dbr:Egypt .
+
+mdl:country_19566 owl:sameAs dbr:Philippines .
+
+mdl:country_19576 owl:sameAs dbr:Bhutan .
+
+mdl:country_19654 owl:sameAs dbr:Moldova .
+
+mdl:country_19782 owl:sameAs dbr:Carriacou_and_Petite_Martinique .
+
+mdl:country_19800 owl:sameAs dbr:Haiti .
+
+mdl:country_19875 owl:sameAs dbr:South_Korea .
+
+mdl:country_19925 owl:sameAs dbr:Togo .
+
+mdl:country_19958 owl:sameAs dbr:People%27s_Republic_of_China .
+
+mdl:country_2009 owl:sameAs dbr:Jersey .
+
+mdl:country_20091 owl:sameAs dbr:Afghanistan .
+
+mdl:country_20143 owl:sameAs dbr:Suriname .
+
+mdl:country_20279 owl:sameAs dbr:Czech_Republic .
+
+mdl:country_20324 owl:sameAs dbr:Portugal .
+
+mdl:country_20568 owl:sameAs dbr:Malawi .
+
+mdl:country_20699 owl:sameAs dbr:Gabon .
+
+mdl:country_2081 owl:sameAs dbr:Barbados .
+
+mdl:country_20868 owl:sameAs dbr:Romania .
+
+mdl:country_20956 owl:sameAs dbr:France .
+
+mdl:country_21085 owl:sameAs dbr:South_Africa .
+
+mdl:country_2118 owl:sameAs dbr:Norfolk_Island .
+
+mdl:country_21183 owl:sameAs dbr:Tuvalu .
+
+mdl:country_21243 owl:sameAs dbr:Mauritius .
+
+mdl:country_21312 owl:sameAs dbr:Denmark .
+
+mdl:country_2136 owl:sameAs dbr:Cayman_Islands .
+
+mdl:country_21433 owl:sameAs dbr:Libya .
+
+mdl:country_2145 owl:sameAs dbr:Transitional_Darfur_Regional_Authority .
+
+mdl:country_21497 owl:sameAs dbr:Ethiopia .
+
+mdl:country_21536 owl:sameAs dbr:Cocos_%28Keeling%29_Islands .
+
+mdl:country_21543 owl:sameAs dbr:Switzerland .
+
+mdl:country_21562 owl:sameAs dbr:French_Polynesia .
+
+mdl:country_224 owl:sameAs dbr:Guinea-Bissau .
+
+mdl:country_2286 owl:sameAs dbr:Fiji .
+
+mdl:country_2353 owl:sameAs dbr:The_Bahamas .
+
+mdl:country_2399 owl:sameAs dbr:Sweden .
+
+mdl:country_2529 owl:sameAs dbr:Jamaica .
+
+mdl:country_2543 owl:sameAs dbr:Bolivia .
+
+mdl:country_2563 owl:sameAs dbr:Lesotho .
+
+mdl:country_265 owl:sameAs dbr:Tonga .
+
+mdl:country_2680 owl:sameAs dbr:India .
+
+mdl:country_2870 owl:sameAs dbr:Nauru .
+
+mdl:country_3019 owl:sameAs dbr:Federated_States_of_Micronesia .
+
+mdl:country_3126 owl:sameAs dbr:Wallis_and_Futuna .
+
+mdl:country_3168 owl:sameAs dbr:United_Kingdom .
+
+mdl:country_3374 owl:sameAs dbr:Tanzania .
+
+mdl:country_3446 owl:sameAs dbr:Liechtenstein .
+
+mdl:country_3622 owl:sameAs dbr:Guernsey,
+        dbr:Saint_Pierre_and_Miquelon .
+
+mdl:country_3803 owl:sameAs dbr:New_Zealand .
+
+mdl:country_3874 owl:sameAs dbr:Panama .
+
+mdl:country_3927 owl:sameAs dbr:Saint_Pierre_and_Miquelon .
+
+mdl:country_3934 owl:sameAs dbr:Antigua_and_Barbuda .
+
+mdl:country_3989 owl:sameAs dbr:Luxembourg .
+
+mdl:country_4003 owl:sameAs dbr:Norway .
+
+mdl:country_4106 owl:sameAs dbr:Turkey .
+
+mdl:country_4202 owl:sameAs dbr:Malta .
+
+mdl:country_4867 owl:sameAs dbr:Nicaragua .
+
+mdl:country_4903 owl:sameAs dbr:Nepal .
+
+mdl:country_5164 owl:sameAs dbr:Uruguay .
+
+mdl:country_5202 owl:sameAs dbr:Indonesia .
+
+mdl:country_5218 owl:sameAs dbr:San_Marino .
+
+mdl:country_568 owl:sameAs dbr:Senegal .
+
+mdl:country_5783 owl:sameAs dbr:Bangladesh .
+
+mdl:country_5800 owl:sameAs dbr:Armenia .
+
+mdl:country_5886 owl:sameAs dbr:Grande_Comore .
+
+mdl:country_5972 owl:sameAs dbr:Mayotte .
+
+mdl:country_6057 owl:sameAs dbr:Belarus .
+
+mdl:country_6112 owl:sameAs dbr:Niue .
+
+mdl:country_6157 owl:sameAs dbr:Brunei .
+
+mdl:country_6170 owl:sameAs dbr:Dominica .
+
+mdl:country_6279 owl:sameAs dbr:Monaco .
+
+mdl:country_6290 owl:sameAs dbr:New_Caledonia .
+
+mdl:country_6410 owl:sameAs dbr:Cambodia .
+
+mdl:country_6524 owl:sameAs dbr:Grenada .
+
+mdl:country_6603 owl:sameAs dbr:Swaziland .
+
+mdl:country_6618 owl:sameAs dbr:Honduras .
+
+mdl:country_68 owl:sameAs dbr:Zambia .
+
+mdl:country_6878 owl:sameAs dbr:Mali .
+
+mdl:country_693 owl:sameAs dbr:Laos .
+
+mdl:country_6973 owl:sameAs dbr:Cura%C3%A7ao .
+
+mdl:country_7021 owl:sameAs dbr:Andorra .
+
+mdl:country_7086 owl:sameAs dbr:Saint_Helena,
+        dbr:Saint_Helena_Ascension_and_Tristan_da_Cunha .
+
+mdl:country_710 owl:sameAs dbr:Guinea-Bissau .
+
+mdl:country_7180 owl:sameAs dbr:S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe .
+
+mdl:country_7224 owl:sameAs dbr:Puerto_Rico .
+
+mdl:country_7240 owl:sameAs dbr:Luxembourg .
+
+mdl:country_7295 owl:sameAs dbr:Bermuda .
+
+mdl:country_7318 owl:sameAs dbr:French_Polynesia .
+
+mdl:country_7336 owl:sameAs dbr:Iraq .
+
+mdl:country_7372 owl:sameAs dbr:Albania .
+
+mdl:country_746 owl:sameAs dbr:Sahrawi_Arab_Democratic_Republic .
+
+mdl:country_7526 owl:sameAs dbr:Namibia .
+
+mdl:country_7591 owl:sameAs dbr:Turks_and_Caicos_Islands .
+
+mdl:country_7641 owl:sameAs dbr:Rwanda .
+
+mdl:country_7706 owl:sameAs dbr:Luxembourg,
+        dbr:Panama .
+
+mdl:country_771 owl:sameAs dbr:Saint_Kitts_and_Nevis .
+
+mdl:country_7782 owl:sameAs dbr:Paraguay .
+
+mdl:country_7816 owl:sameAs dbr:Poland .
+
+mdl:country_7952 owl:sameAs dbr:Lebanon .
+
+mdl:country_7988 owl:sameAs dbr:North_Korea .
+
+mdl:country_8313 owl:sameAs dbr:Israel .
+
+mdl:country_8331 owl:sameAs dbr:Turkmenistan .
+
+mdl:country_8446 owl:sameAs dbr:The_Gambia .
+
+mdl:country_8473 owl:sameAs dbr:Uganda .
+
+mdl:country_8530 owl:sameAs dbr:Cayman_Islands,
+        dbr:United_States_Virgin_Islands .
+
+mdl:country_8649 owl:sameAs dbr:Mauritania .
+
+mdl:country_8715 owl:sameAs dbr:Kazakhstan .
+
+mdl:country_8818 owl:sameAs dbr:Federation_of_Bosnia_and_Herzegovina .
+
+mdl:country_8894 owl:sameAs dbr:Burkina_Faso .
+
+mdl:country_8904 owl:sameAs dbr:Guyana .
+
+mdl:country_9095 owl:sameAs dbr:British_Virgin_Islands .
+
+mdl:country_927 owl:sameAs dbr:Aruba .
+
+mdl:country_9509 owl:sameAs dbr:Montserrat .
+
+mdl:country_9565 owl:sameAs dbr:Northern_Mariana_Islands .
+
+mdl:country_9619 owl:sameAs dbr:Vietnam .
+
+mdl:country_9700 owl:sameAs dbr:Saint_Kitts_and_Nevis .
+
+mdl:country_9951 owl:sameAs dbr:Republic_of_Ireland .
+
+mdl:record_10005 a dbo:Country ;
+    dbo:areaTotal "11000"^^dbo:squareKilometre ;
+    dbo:capital "Doha" ;
+    dbo:officialName "Qatar" ;
+    rdfs:seeAlso dbr:Qatar .
+
+mdl:record_10052 a dbo:Country ;
+    dbo:areaTotal "47"^^dbo:squareKilometre ;
+    dbo:capital "Adamstown" ;
+    dbo:officialName "Pitcairn Islands" ;
+    rdfs:seeAlso dbr:Pitcairn_Islands .
+
+mdl:record_10146 a dbo:Country ;
+    dbo:areaTotal "1138910"^^dbo:squareKilometre ;
+    dbo:capital "Bogota" ;
+    dbo:officialName "Colombia" ;
+    rdfs:seeAlso dbr:Colombia .
+
+mdl:record_10292 a dbo:Country ;
+    dbo:areaTotal "110910"^^dbo:squareKilometre ;
+    dbo:capital "Sofia" ;
+    dbo:officialName "Bulgaria" ;
+    rdfs:seeAlso dbr:Bulgaria .
+
+mdl:record_10467 a dbo:Country ;
+    dbo:areaTotal "37330"^^dbo:squareKilometre ;
+    dbo:capital "Amsterdam" ;
+    dbo:officialName "Netherlands" ;
+    rdfs:seeAlso dbr:Netherlands .
+
+mdl:record_10516 a dbo:Country ;
+    dbo:areaTotal "9976140"^^dbo:squareKilometre ;
+    dbo:capital "Ottawa" ;
+    dbo:officialName "Canada" ;
+    rdfs:seeAlso dbr:Canada .
+
+mdl:record_10602 a dbo:Country ;
+    dbo:areaTotal "21040"^^dbo:squareKilometre ;
+    dbo:capital "San Salvador" ;
+    dbo:officialName "El Salvador" ;
+    rdfs:seeAlso dbr:El_Salvador .
+
+mdl:record_10665 a dbo:Country ;
+    dbo:areaTotal "69700"^^dbo:squareKilometre ;
+    dbo:capital "Tbilisi" ;
+    dbo:officialName "Georgia" ;
+    rdfs:seeAlso dbr:Georgia .
+
+mdl:record_10683 a dbo:Country ;
+    dbo:areaTotal "86600"^^dbo:squareKilometre ;
+    dbo:capital "Baku" ;
+    dbo:officialName "Azerbaijan" ;
+    rdfs:seeAlso dbr:Azerbaijan .
+
+mdl:record_10745 a dbo:Country ;
+    dbo:areaTotal "48730"^^dbo:squareKilometre ;
+    dbo:capital "Santo Domingo" ;
+    dbo:officialName "Dominican Republic" ;
+    rdfs:seeAlso dbr:Dominican_Republic .
+
+mdl:record_10816 a dbo:Country ;
+    dbo:areaTotal "27830"^^dbo:squareKilometre ;
+    dbo:capital "Bujumbura" ;
+    dbo:officialName "Burundi" ;
+    rdfs:seeAlso dbr:Burundi .
+
+mdl:record_10829 a dbo:Country ;
+    dbo:areaTotal "475440"^^dbo:squareKilometre ;
+    dbo:capital "Yaounde" ;
+    dbo:officialName "Cameroon" ;
+    rdfs:seeAlso dbr:Cameroon .
+
+mdl:record_10901 a dbo:Country ;
+    dbo:areaTotal "91"^^dbo:squareKilometre ;
+    dbo:capital "The Valley" ;
+    dbo:officialName "Anguilla" ;
+    rdfs:seeAlso dbr:Anguilla .
+
+mdl:record_10942 a dbo:Country ;
+    dbo:areaTotal "620"^^dbo:squareKilometre ;
+    dbo:capital "Manama" ;
+    dbo:officialName "Bahrain" ;
+    rdfs:seeAlso dbr:Bahrain .
+
+mdl:record_10963 a dbo:Country ;
+    dbo:areaTotal "337030"^^dbo:squareKilometre ;
+    dbo:capital "Helsinki" ;
+    dbo:officialName "Finland" ;
+    rdfs:seeAlso dbr:Finland .
+
+mdl:record_10987 a dbo:Country ;
+    dbo:areaTotal "1648000"^^dbo:squareKilometre ;
+    dbo:capital "Tehran" ;
+    dbo:officialName "Iran" ;
+    rdfs:seeAlso dbr:Iran .
+
+mdl:record_11038 a dbo:Country ;
+    dbo:areaTotal "603700"^^dbo:squareKilometre ;
+    dbo:capital "Kiev" ;
+    dbo:officialName "Ukraine" ;
+    rdfs:seeAlso dbr:Ukraine .
+
+mdl:record_11124 a dbo:Country ;
+    dbo:areaTotal "103000"^^dbo:squareKilometre ;
+    dbo:capital "Reykjavik" ;
+    dbo:officialName "Iceland" ;
+    rdfs:seeAlso dbr:Iceland .
+
+mdl:record_11229 a dbo:Country ;
+    dbo:areaTotal "45100"^^dbo:squareKilometre ;
+    dbo:capital "Tallinn" ;
+    dbo:officialName "Estonia" ;
+    rdfs:seeAlso dbr:Estonia .
+
+mdl:record_1127 a dbo:Country ;
+    dbo:areaTotal "28450"^^dbo:squareKilometre ;
+    dbo:capital "Honiara" ;
+    dbo:officialName "Solomon Islands" ;
+    rdfs:seeAlso dbr:Solomon_Islands .
+
+mdl:record_11273 a dbo:Country ;
+    dbo:areaTotal "14760"^^dbo:squareKilometre ;
+    dbo:capital "Port-Vila" ;
+    dbo:officialName "Vanuatu" ;
+    rdfs:seeAlso dbr:Vanuatu .
+
+mdl:record_11359 a dbo:Country ;
+    dbo:areaTotal "65610"^^dbo:squareKilometre ;
+    dbo:capital "Colombo" ;
+    dbo:officialName "Sri Lanka" ;
+    rdfs:seeAlso dbr:Sri_Lanka .
+
+mdl:record_11423 a dbo:Country ;
+    dbo:areaTotal "620"^^dbo:squareKilometre ;
+    dbo:capital "Castries" ;
+    dbo:officialName "Saint Lucia" ;
+    rdfs:seeAlso dbr:Saint_Lucia .
+
+mdl:record_11480 a dbo:Country ;
+    dbo:areaTotal "1400"^^dbo:squareKilometre ;
+    dbo:capital "Torshavn" ;
+    dbo:officialName "Faroe Islands" ;
+    rdfs:seeAlso dbr:Faroe_Islands .
+
+mdl:record_11518 a dbo:Country ;
+    dbo:areaTotal "1267000"^^dbo:squareKilometre ;
+    dbo:capital "Niamey" ;
+    dbo:officialName "Niger" ;
+    rdfs:seeAlso dbr:Niger .
+
+mdl:record_11528 a dbo:Country ;
+    dbo:areaTotal "390580"^^dbo:squareKilometre ;
+    dbo:capital "Harare" ;
+    dbo:officialName "Zimbabwe" ;
+    rdfs:seeAlso dbr:Zimbabwe .
+
+mdl:record_11648 a dbo:Country ;
+    dbo:areaTotal "1246700"^^dbo:squareKilometre ;
+    dbo:capital "Luanda" ;
+    dbo:officialName "Angola" ;
+    rdfs:seeAlso dbr:Angola .
+
+mdl:record_11774 a dbo:Country ;
+    dbo:areaTotal "356910"^^dbo:squareKilometre ;
+    dbo:capital "Berlin" ;
+    dbo:officialName "Germany" ;
+    rdfs:seeAlso dbr:Germany .
+
+mdl:record_11817 a dbo:Country ;
+    dbo:areaTotal "65200"^^dbo:squareKilometre ;
+    dbo:capital "Vilnius" ;
+    dbo:officialName "Lithuania" ;
+    rdfs:seeAlso dbr:Lithuania .
+
+mdl:record_11923 a dbo:Country ;
+    dbo:areaTotal "588"^^dbo:squareKilometre ;
+    dbo:capital "Douglas" ;
+    dbo:officialName "Man" ;
+    rdfs:seeAlso dbr:Man .
+
+mdl:record_11998 a dbo:Country ;
+    dbo:areaTotal "2381740"^^dbo:squareKilometre ;
+    dbo:capital "Algiers" ;
+    dbo:officialName "Algeria" ;
+    rdfs:seeAlso dbr:Algeria .
+
+mdl:record_12088 a dbo:Country ;
+    dbo:areaTotal "240"^^dbo:squareKilometre ;
+    dbo:capital "Avarua" ;
+    dbo:officialName "Cook Islands" ;
+    rdfs:seeAlso dbr:Cook_Islands .
+
+mdl:record_12267 a dbo:Country ;
+    dbo:areaTotal "678500"^^dbo:squareKilometre ;
+    dbo:capital "Rangoon" ;
+    dbo:officialName "Burma" ;
+    rdfs:seeAlso dbr:Burma .
+
+mdl:record_12652 a dbo:Country ;
+    dbo:areaTotal "2510"^^dbo:squareKilometre ;
+    dbo:capital "Saint-Denis" ;
+    dbo:officialName "Reunion" ;
+    rdfs:seeAlso dbr:Reunion .
+
+mdl:record_12799 a dbo:Country ;
+    dbo:areaTotal "111370"^^dbo:squareKilometre ;
+    dbo:capital "Monrovia" ;
+    dbo:officialName "Liberia" ;
+    rdfs:seeAlso dbr:Liberia .
+
+mdl:record_13001 a dbo:Country ;
+    dbo:areaTotal "22960"^^dbo:squareKilometre ;
+    dbo:capital "Belmopan" ;
+    dbo:officialName "Belize" ;
+    rdfs:seeAlso dbr:Belize .
+
+mdl:record_13060 a dbo:Country ;
+    dbo:areaTotal "131940"^^dbo:squareKilometre ;
+    dbo:capital "Athens" ;
+    dbo:officialName "Greece" ;
+    rdfs:seeAlso dbr:Greece .
+
+mdl:record_13080 a dbo:Country ;
+    dbo:areaTotal "17820"^^dbo:squareKilometre ;
+    dbo:capital "Kuwait" ;
+    dbo:officialName "Kuwait" ;
+    rdfs:seeAlso dbr:Kuwait .
+
+mdl:record_13334 a dbo:Country ;
+    dbo:areaTotal "300"^^dbo:squareKilometre ;
+    dbo:capital "Male" ;
+    dbo:officialName "Maldives" ;
+    rdfs:seeAlso dbr:Maldives .
+
+mdl:record_13365 a dbo:Country ;
+    dbo:areaTotal "455"^^dbo:squareKilometre ;
+    dbo:capital "Victoria" ;
+    dbo:officialName "Seychelles" ;
+    rdfs:seeAlso dbr:Seychelles .
+
+mdl:record_13377 a dbo:Country ;
+    dbo:areaTotal "803940"^^dbo:squareKilometre ;
+    dbo:capital "Islamabad" ;
+    dbo:officialName "Pakistan" ;
+    rdfs:seeAlso dbr:Pakistan .
+
+mdl:record_13399 a dbo:Country ;
+    dbo:capital "Majuro" ;
+    dbo:officialName "Marshall Islands" ;
+    rdfs:seeAlso dbr:Marshall_Islands .
+
+mdl:record_13446 a dbo:Country ;
+    dbo:areaTotal "83850"^^dbo:squareKilometre ;
+    dbo:capital "Vienna" ;
+    dbo:officialName "Austria" ;
+    rdfs:seeAlso dbr:Austria .
+
+mdl:record_13581 a dbo:Country ;
+    dbo:areaTotal "1285220"^^dbo:squareKilometre ;
+    dbo:capital "Lima" ;
+    dbo:officialName "Peru" ;
+    rdfs:seeAlso dbr:Peru .
+
+mdl:record_13630 a dbo:Country ;
+    dbo:areaTotal "25333"^^dbo:squareKilometre ;
+    dbo:capital "Skopje" ;
+    dbo:officialName "Macedonia" ;
+    rdfs:seeAlso dbr:Macedonia .
+
+mdl:record_13686 a dbo:Country ;
+    dbo:areaTotal "110860"^^dbo:squareKilometre ;
+    dbo:capital "Havana" ;
+    dbo:officialName "Cuba" ;
+    rdfs:seeAlso dbr:Cuba .
+
+mdl:record_13710 a dbo:Country ;
+    dbo:areaTotal "212460"^^dbo:squareKilometre ;
+    dbo:capital "Muscat" ;
+    dbo:officialName "Oman" ;
+    rdfs:seeAlso dbr:Oman .
+
+mdl:record_13806 a dbo:Country ;
+    dbo:capital "Gibraltar" ;
+    dbo:officialName "Gibraltar" ;
+    rdfs:seeAlso dbr:Gibraltar .
+
+mdl:record_1396 a dbo:Country ;
+    dbo:areaTotal "340"^^dbo:squareKilometre ;
+    dbo:capital "Kingstown" ;
+    dbo:officialName "Saint Vincent and the Grenadines" ;
+    rdfs:seeAlso dbr:Saint_Vincent_and_the_Grenadines .
+
+mdl:record_14063 a dbo:Country ;
+    dbo:areaTotal "1972550"^^dbo:squareKilometre ;
+    dbo:capital "Mexico City" ;
+    dbo:officialName "Mexico" ;
+    rdfs:seeAlso dbr:Mexico .
+
+mdl:record_14076 a dbo:Country ;
+    dbo:areaTotal "461690"^^dbo:squareKilometre ;
+    dbo:capital "Port Moresby" ;
+    dbo:officialName "Papua New Guinea" ;
+    rdfs:seeAlso dbr:Papua_New_Guinea .
+
+mdl:record_14248 a dbo:Country ;
+    dbo:areaTotal "447400"^^dbo:squareKilometre ;
+    dbo:capital "Tashkent" ;
+    dbo:officialName "Uzbekistan" ;
+    rdfs:seeAlso dbr:Uzbekistan .
+
+mdl:record_14278 a dbo:Country ;
+    dbo:areaTotal "30510"^^dbo:squareKilometre ;
+    dbo:capital "Brussels" ;
+    dbo:officialName "Belgium" ;
+    rdfs:seeAlso dbr:Belgium .
+
+mdl:record_14350 a dbo:Country ;
+    dbo:areaTotal "923770"^^dbo:squareKilometre ;
+    dbo:capital "Abuja" ;
+    dbo:officialName "Nigeria" ;
+    rdfs:seeAlso dbr:Nigeria .
+
+mdl:record_14368 a dbo:Country ;
+    dbo:areaTotal "199"^^dbo:squareKilometre ;
+    dbo:capital "Pago Pago" ;
+    dbo:officialName "American Samoa" ;
+    rdfs:seeAlso dbr:American_Samoa .
+
+mdl:record_14510 a dbo:Country ;
+    dbo:areaTotal "185180"^^dbo:squareKilometre ;
+    dbo:capital "Damascus" ;
+    dbo:officialName "Syria" ;
+    rdfs:seeAlso dbr:Syria .
+
+mdl:record_14646 a dbo:Country ;
+    dbo:areaTotal "51100"^^dbo:squareKilometre ;
+    dbo:capital "San Jose" ;
+    dbo:officialName "Costa Rica" ;
+    rdfs:seeAlso dbr:Costa_Rica .
+
+mdl:record_14775 a dbo:Country ;
+    dbo:areaTotal "163610"^^dbo:squareKilometre ;
+    dbo:capital "Tunis" ;
+    dbo:officialName "Tunisia" ;
+    rdfs:seeAlso dbr:Tunisia .
+
+mdl:record_14867 a dbo:Country ;
+    dbo:areaTotal "7686850"^^dbo:squareKilometre ;
+    dbo:capital "Canberra" ;
+    dbo:officialName "Australia" ;
+    rdfs:seeAlso dbr:Australia .
+
+mdl:record_14974 a dbo:Country ;
+    dbo:areaTotal "301230"^^dbo:squareKilometre ;
+    dbo:capital "Rome" ;
+    dbo:officialName "Italy" ;
+    rdfs:seeAlso dbr:Italy .
+
+mdl:record_1500 a dbo:Country ;
+    dbo:areaTotal "1284000"^^dbo:squareKilometre ;
+    dbo:capital "NDjamena" ;
+    dbo:officialName "Chad" ;
+    rdfs:seeAlso dbr:Chad .
+
+mdl:record_15060 a dbo:Country ;
+    dbo:areaTotal "143100"^^dbo:squareKilometre ;
+    dbo:capital "Dushanbe" ;
+    dbo:officialName "Tajikistan" ;
+    rdfs:seeAlso dbr:Tajikistan .
+
+mdl:record_15157 a dbo:Country ;
+    dbo:areaTotal "587040"^^dbo:squareKilometre ;
+    dbo:capital "Antananarivo" ;
+    dbo:officialName "Madagascar" ;
+    rdfs:seeAlso dbr:Madagascar .
+
+mdl:record_15182 a dbo:Country ;
+    dbo:areaTotal "622980"^^dbo:squareKilometre ;
+    dbo:capital "Bangui" ;
+    dbo:officialName "Central African Republic" ;
+    rdfs:seeAlso dbr:Central_African_Republic .
+
+mdl:record_15340 a dbo:Country ;
+    dbo:areaTotal "600370"^^dbo:squareKilometre ;
+    dbo:capital "Gaborone" ;
+    dbo:officialName "Botswana" ;
+    rdfs:seeAlso dbr:Botswana .
+
+mdl:record_15515 a dbo:Country ;
+    dbo:areaTotal "35980"^^dbo:squareKilometre ;
+    dbo:capital "Taipei" ;
+    dbo:officialName "Taiwan" ;
+    rdfs:seeAlso dbr:Taiwan .
+
+mdl:record_15674 a dbo:Country ;
+    dbo:areaTotal "912050"^^dbo:squareKilometre ;
+    dbo:capital "Caracas" ;
+    dbo:officialName "Venezuela" ;
+    rdfs:seeAlso dbr:Venezuela .
+
+mdl:record_15699 a dbo:Country ;
+    dbo:areaTotal "504750"^^dbo:squareKilometre ;
+    dbo:capital "Madrid" ;
+    dbo:officialName "Spain" ;
+    rdfs:seeAlso dbr:Spain .
+
+mdl:record_15773 a dbo:Country ;
+    dbo:areaTotal "458"^^dbo:squareKilometre ;
+    dbo:capital "Koror" ;
+    dbo:officialName "Palau" ;
+    rdfs:seeAlso dbr:Palau .
+
+mdl:record_15818 a dbo:Country ;
+    dbo:areaTotal "377835"^^dbo:squareKilometre ;
+    dbo:capital "Tokyo" ;
+    dbo:officialName "Japan" ;
+    rdfs:seeAlso dbr:Japan .
+
+mdl:record_15911 a dbo:Country ;
+    dbo:areaTotal "135"^^dbo:squareKilometre ;
+    dbo:capital "The Settlement" ;
+    dbo:officialName "Christmas Island" ;
+    rdfs:seeAlso dbr:Christmas_Island .
+
+mdl:record_15921 a dbo:Country ;
+    dbo:areaTotal "717"^^dbo:squareKilometre ;
+    dbo:capital "Tarawa" ;
+    dbo:officialName "Kiribati" ;
+    rdfs:seeAlso dbr:Kiribati .
+
+mdl:record_15998 a dbo:Country ;
+    dbo:areaTotal "5130"^^dbo:squareKilometre ;
+    dbo:capital "Port-of-Spain" ;
+    dbo:officialName "Trinidad and Tobago" ;
+    rdfs:seeAlso dbr:Trinidad_and_Tobago .
+
+mdl:record_16051 a dbo:Country ;
+    dbo:areaTotal "62049"^^dbo:squareKilometre ;
+    dbo:capital "Longyearbyen" ;
+    dbo:officialName "Svalbard" ;
+    rdfs:seeAlso dbr:Svalbard .
+
+mdl:record_16064 a dbo:Country ;
+    dbo:areaTotal "446550"^^dbo:squareKilometre ;
+    dbo:capital "Rabat" ;
+    dbo:officialName "Morocco" ;
+    rdfs:seeAlso dbr:Morocco .
+
+mdl:record_16395 a dbo:Country ;
+    dbo:areaTotal "12170"^^dbo:squareKilometre ;
+    dbo:capital "Stanley" ;
+    dbo:officialName "Falkland Islands" ;
+    rdfs:seeAlso dbr:Falkland_Islands .
+
+mdl:record_16533 a dbo:Country ;
+    dbo:areaTotal "2766890"^^dbo:squareKilometre ;
+    dbo:capital "Buenos Aires" ;
+    dbo:officialName "Argentina" ;
+    rdfs:seeAlso dbr:Argentina .
+
+mdl:record_16652 a dbo:Country ;
+    dbo:areaTotal "9372610"^^dbo:squareKilometre ;
+    dbo:capital "Washington" ;
+    dbo:officialName "United States" ;
+    rdfs:seeAlso dbr:United_States .
+
+mdl:record_16715 a dbo:Country ;
+    dbo:areaTotal "4030"^^dbo:squareKilometre ;
+    dbo:capital "Praia" ;
+    dbo:officialName "Cape Verde" ;
+    rdfs:seeAlso dbr:Cape_Verde .
+
+mdl:record_1694 a dbo:Country ;
+    dbo:capital "Agana" ;
+    dbo:officialName "Guam" ;
+    rdfs:seeAlso dbr:Guam .
+
+mdl:record_17019 a dbo:Country ;
+    dbo:areaTotal "2860"^^dbo:squareKilometre ;
+    dbo:capital "Apia" ;
+    dbo:officialName "Western Samoa" ;
+    rdfs:seeAlso dbr:Western_Samoa .
+
+mdl:record_17063 a dbo:Country ;
+    dbo:areaTotal "93030"^^dbo:squareKilometre ;
+    dbo:capital "Budapest" ;
+    dbo:officialName "Hungary" ;
+    rdfs:seeAlso dbr:Hungary .
+
+mdl:record_17121 a dbo:Country ;
+    dbo:areaTotal "801590"^^dbo:squareKilometre ;
+    dbo:capital "Maputo" ;
+    dbo:officialName "Mozambique" ;
+    rdfs:seeAlso dbr:Mozambique .
+
+mdl:record_17172 a dbo:Country ;
+    dbo:areaTotal "89213"^^dbo:squareKilometre ;
+    dbo:capital "Amman" ;
+    dbo:officialName "Jordan" ;
+    rdfs:seeAlso dbr:Jordan .
+
+mdl:record_17257 a dbo:Country ;
+    dbo:areaTotal "71740"^^dbo:squareKilometre ;
+    dbo:capital "Freetown" ;
+    dbo:officialName "Sierra Leone" ;
+    rdfs:seeAlso dbr:Sierra_Leone .
+
+mdl:record_17292 a dbo:Country ;
+    dbo:areaTotal "637660"^^dbo:squareKilometre ;
+    dbo:capital "Mogadishu" ;
+    dbo:officialName "Somalia" ;
+    rdfs:seeAlso dbr:Somalia .
+
+mdl:record_17340 a dbo:Country ;
+    dbo:areaTotal "9250"^^dbo:squareKilometre ;
+    dbo:capital "Nicosia" ;
+    dbo:officialName "Cyprus" ;
+    rdfs:seeAlso dbr:Cyprus .
+
+mdl:record_17513 a dbo:Country ;
+    dbo:areaTotal "1960582"^^dbo:squareKilometre ;
+    dbo:capital "Riyadh" ;
+    dbo:officialName "Saudi Arabia" ;
+    rdfs:seeAlso dbr:Saudi_Arabia .
+
+mdl:record_17538 a dbo:Country ;
+    dbo:areaTotal "342000"^^dbo:squareKilometre ;
+    dbo:capital "Brazzaville" ;
+    dbo:officialName "Congo" ;
+    rdfs:seeAlso dbr:Congo .
+
+mdl:record_17548 a dbo:Country ;
+    dbo:areaTotal "8511965"^^dbo:squareKilometre ;
+    dbo:capital "Brasilia" ;
+    dbo:officialName "Brazil" ;
+    rdfs:seeAlso dbr:Brazil .
+
+mdl:record_17636 a dbo:Country ;
+    dbo:areaTotal "582650"^^dbo:squareKilometre ;
+    dbo:capital "Nairobi" ;
+    dbo:officialName "Kenya" ;
+    rdfs:seeAlso dbr:Kenya .
+
+mdl:record_17718 a dbo:Country ;
+    dbo:areaTotal "514000"^^dbo:squareKilometre ;
+    dbo:capital "Bangkok" ;
+    dbo:officialName "Thailand" ;
+    rdfs:seeAlso dbr:Thailand .
+
+mdl:record_17858 a dbo:Country ;
+    dbo:areaTotal "75581"^^dbo:squareKilometre ;
+    dbo:capital "Abu Dhabi" ;
+    dbo:officialName "United Arab Emirates" ;
+    rdfs:seeAlso dbr:United_Arab_Emirates .
+
+mdl:record_17932 a dbo:Country ;
+    dbo:areaTotal "56538"^^dbo:squareKilometre ;
+    dbo:capital "Zagreb" ;
+    dbo:officialName "Croatia" ;
+    rdfs:seeAlso dbr:Croatia .
+
+mdl:record_17983 a dbo:Country ;
+    dbo:areaTotal "245860"^^dbo:squareKilometre ;
+    dbo:capital "Conakry" ;
+    dbo:officialName "Guinea" ;
+    rdfs:seeAlso dbr:Guinea .
+
+mdl:record_18096 a dbo:Country ;
+    dbo:areaTotal "64100"^^dbo:squareKilometre ;
+    dbo:capital "Riga" ;
+    dbo:officialName "Latvia" ;
+    rdfs:seeAlso dbr:Latvia .
+
+mdl:record_18221 a dbo:Country ;
+    dbo:areaTotal "112620"^^dbo:squareKilometre ;
+    dbo:capital "Porto-Novo" ;
+    dbo:officialName "Benin" ;
+    rdfs:seeAlso dbr:Benin .
+
+mdl:record_18401 a dbo:Country ;
+    dbo:areaTotal "1565000"^^dbo:squareKilometre ;
+    dbo:capital "Ulaanbaatar" ;
+    dbo:officialName "Mongolia" ;
+    rdfs:seeAlso dbr:Mongolia .
+
+mdl:record_18421 a dbo:Country ;
+    dbo:areaTotal "283560"^^dbo:squareKilometre ;
+    dbo:capital "Quito" ;
+    dbo:officialName "Ecuador" ;
+    rdfs:seeAlso dbr:Ecuador .
+
+mdl:record_18457 a dbo:Country ;
+    dbo:areaTotal "2175600"^^dbo:squareKilometre ;
+    dbo:capital "Nuuk" ;
+    dbo:officialName "Greenland" ;
+    rdfs:seeAlso dbr:Greenland .
+
+mdl:record_18575 a dbo:Country ;
+    dbo:areaTotal "17075200"^^dbo:squareKilometre ;
+    dbo:capital "Moscow" ;
+    dbo:officialName "Russia" ;
+    rdfs:seeAlso dbr:Russia .
+
+mdl:record_18587 a dbo:Country ;
+    dbo:areaTotal "756950"^^dbo:squareKilometre ;
+    dbo:capital "Santiago" ;
+    dbo:officialName "Chile" ;
+    rdfs:seeAlso dbr:Chile .
+
+mdl:record_18670 a dbo:Country ;
+    dbo:areaTotal "527970"^^dbo:squareKilometre ;
+    dbo:capital "Sanaa" ;
+    dbo:officialName "Yemen" ;
+    rdfs:seeAlso dbr:Yemen .
+
+mdl:record_1872 a dbo:Country ;
+    dbo:capital "Singapore" ;
+    dbo:officialName "Singapore" ;
+    rdfs:seeAlso dbr:Singapore .
+
+mdl:record_18773 a dbo:Country ;
+    dbo:areaTotal "22000"^^dbo:squareKilometre ;
+    dbo:capital "Djibouti" ;
+    dbo:officialName "Djibouti" ;
+    rdfs:seeAlso dbr:Djibouti .
+
+mdl:record_1911 a dbo:Country ;
+    dbo:areaTotal "102350"^^dbo:squareKilometre ;
+    dbo:capital "Belgrade" ;
+    dbo:officialName "Serbia and Montenegro" ;
+    rdfs:seeAlso dbr:Serbia_and_Montenegro .
+
+mdl:record_19147 a dbo:Country ;
+    dbo:areaTotal "322460"^^dbo:squareKilometre ;
+    dbo:capital "Yamoussoukro" ;
+    dbo:officialName "Cote dIvoire" ;
+    rdfs:seeAlso dbr:Cote_dIvoire .
+
+mdl:record_19206 a dbo:Country ;
+    dbo:areaTotal "2345410"^^dbo:squareKilometre ;
+    dbo:capital "Kinshasa" ;
+    dbo:officialName "Zaire" ;
+    rdfs:seeAlso dbr:Zaire .
+
+mdl:record_19243 a dbo:Country ;
+    dbo:areaTotal "238540"^^dbo:squareKilometre ;
+    dbo:capital "Accra" ;
+    dbo:officialName "Ghana" ;
+    rdfs:seeAlso dbr:Ghana .
+
+mdl:record_19283 a dbo:Country ;
+    dbo:areaTotal "48845"^^dbo:squareKilometre ;
+    dbo:capital "Bratislava" ;
+    dbo:officialName "Slovakia" ;
+    rdfs:seeAlso dbr:Slovakia .
+
+mdl:record_19413 a dbo:Country ;
+    dbo:areaTotal "1001450"^^dbo:squareKilometre ;
+    dbo:capital "Cairo" ;
+    dbo:officialName "Egypt" ;
+    rdfs:seeAlso dbr:Egypt .
+
+mdl:record_19566 a dbo:Country ;
+    dbo:areaTotal "300000"^^dbo:squareKilometre ;
+    dbo:capital "Manila" ;
+    dbo:officialName "Philippines" ;
+    rdfs:seeAlso dbr:Philippines .
+
+mdl:record_19576 a dbo:Country ;
+    dbo:areaTotal "47000"^^dbo:squareKilometre ;
+    dbo:capital "Thimphu" ;
+    dbo:officialName "Bhutan" ;
+    rdfs:seeAlso dbr:Bhutan .
+
+mdl:record_19654 a dbo:Country ;
+    dbo:areaTotal "33700"^^dbo:squareKilometre ;
+    dbo:capital "Chisinau" ;
+    dbo:officialName "Moldova" ;
+    rdfs:seeAlso dbr:Moldova .
+
+mdl:record_19782 a dbo:Country ;
+    dbo:areaTotal "1100"^^dbo:squareKilometre ;
+    dbo:capital "Fort-de-France" ;
+    dbo:officialName "Martinique" ;
+    rdfs:seeAlso dbr:Martinique .
+
+mdl:record_19800 a dbo:Country ;
+    dbo:areaTotal "27750"^^dbo:squareKilometre ;
+    dbo:capital "Port-au-Prince" ;
+    dbo:officialName "Haiti" ;
+    rdfs:seeAlso dbr:Haiti .
+
+mdl:record_19875 a dbo:Country ;
+    dbo:areaTotal "98480"^^dbo:squareKilometre ;
+    dbo:capital "Seoul" ;
+    dbo:officialName "South Korea" ;
+    rdfs:seeAlso dbr:South_Korea .
+
+mdl:record_1991 a dbo:Country ;
+    dbo:areaTotal "121320"^^dbo:squareKilometre ;
+    dbo:capital "Asmara" ;
+    dbo:officialName "Eritrea" ;
+    rdfs:seeAlso dbr:Eritrea .
+
+mdl:record_19925 a dbo:Country ;
+    dbo:areaTotal "56790"^^dbo:squareKilometre ;
+    dbo:capital "Lome" ;
+    dbo:officialName "Togo" ;
+    rdfs:seeAlso dbr:Togo .
+
+mdl:record_19958 a dbo:Country ;
+    dbo:areaTotal "9596960"^^dbo:squareKilometre ;
+    dbo:capital "Beijing" ;
+    dbo:officialName "China" ;
+    rdfs:seeAlso dbr:China .
+
+mdl:record_2009 a dbo:Country ;
+    dbo:areaTotal "117"^^dbo:squareKilometre ;
+    dbo:capital "Saint Helier" ;
+    dbo:officialName "Jersey" ;
+    rdfs:seeAlso dbr:Jersey .
+
+mdl:record_20091 a dbo:Country ;
+    dbo:areaTotal "647500"^^dbo:squareKilometre ;
+    dbo:capital "Kabul" ;
+    dbo:officialName "Afghanistan" ;
+    rdfs:seeAlso dbr:Afghanistan .
+
+mdl:record_20143 a dbo:Country ;
+    dbo:areaTotal "163270"^^dbo:squareKilometre ;
+    dbo:capital "Paramaribo" ;
+    dbo:officialName "Suriname" ;
+    rdfs:seeAlso dbr:Suriname .
+
+mdl:record_20279 a dbo:Country ;
+    dbo:areaTotal "78703"^^dbo:squareKilometre ;
+    dbo:capital "Prague" ;
+    dbo:officialName "Czech Republic" ;
+    rdfs:seeAlso dbr:Czech_Republic .
+
+mdl:record_20324 a dbo:Country ;
+    dbo:areaTotal "92080"^^dbo:squareKilometre ;
+    dbo:capital "Lisbon" ;
+    dbo:officialName "Portugal" ;
+    rdfs:seeAlso dbr:Portugal .
+
+mdl:record_20568 a dbo:Country ;
+    dbo:areaTotal "118480"^^dbo:squareKilometre ;
+    dbo:capital "Lilongwe" ;
+    dbo:officialName "Malawi" ;
+    rdfs:seeAlso dbr:Malawi .
+
+mdl:record_20699 a dbo:Country ;
+    dbo:areaTotal "267670"^^dbo:squareKilometre ;
+    dbo:capital "Libreville" ;
+    dbo:officialName "Gabon" ;
+    rdfs:seeAlso dbr:Gabon .
+
+mdl:record_2081 a dbo:Country ;
+    dbo:areaTotal "430"^^dbo:squareKilometre ;
+    dbo:capital "Bridgetown" ;
+    dbo:officialName "Barbados" ;
+    rdfs:seeAlso dbr:Barbados .
+
+mdl:record_20868 a dbo:Country ;
+    dbo:areaTotal "237500"^^dbo:squareKilometre ;
+    dbo:capital "Bucharest" ;
+    dbo:officialName "Romania" ;
+    rdfs:seeAlso dbr:Romania .
+
+mdl:record_20956 a dbo:Country ;
+    dbo:areaTotal "547030"^^dbo:squareKilometre ;
+    dbo:capital "Paris" ;
+    dbo:officialName "France" ;
+    rdfs:seeAlso dbr:France .
+
+mdl:record_21085 a dbo:Country ;
+    dbo:areaTotal "1219912"^^dbo:squareKilometre ;
+    dbo:capital "Pretoria" ;
+    dbo:officialName "South Africa" ;
+    rdfs:seeAlso dbr:South_Africa .
+
+mdl:record_2118 a dbo:Country ;
+    dbo:capital "Kingston" ;
+    dbo:officialName "Norfolk Island" ;
+    rdfs:seeAlso dbr:Norfolk_Island .
+
+mdl:record_21183 a dbo:Country ;
+    dbo:areaTotal "26"^^dbo:squareKilometre ;
+    dbo:capital "Funafuti" ;
+    dbo:officialName "Tuvalu" ;
+    rdfs:seeAlso dbr:Tuvalu .
+
+mdl:record_21243 a dbo:Country ;
+    dbo:areaTotal "1860"^^dbo:squareKilometre ;
+    dbo:capital "Port Louis" ;
+    dbo:officialName "Mauritius" ;
+    rdfs:seeAlso dbr:Mauritius .
+
+mdl:record_21312 a dbo:Country ;
+    dbo:areaTotal "43070"^^dbo:squareKilometre ;
+    dbo:capital "Copenhagen" ;
+    dbo:officialName "Denmark" ;
+    rdfs:seeAlso dbr:Denmark .
+
+mdl:record_2136 a dbo:Country ;
+    dbo:areaTotal "260"^^dbo:squareKilometre ;
+    dbo:capital "George Town" ;
+    dbo:officialName "Cayman Islands" ;
+    rdfs:seeAlso dbr:Cayman_Islands .
+
+mdl:record_21433 a dbo:Country ;
+    dbo:areaTotal "1759540"^^dbo:squareKilometre ;
+    dbo:capital "Tripoli" ;
+    dbo:officialName "Libya" ;
+    rdfs:seeAlso dbr:Libya .
+
+mdl:record_2145 a dbo:Country ;
+    dbo:areaTotal "2505810"^^dbo:squareKilometre ;
+    dbo:capital "Khartoum" ;
+    dbo:officialName "Sudan" ;
+    rdfs:seeAlso dbr:Sudan .
+
+mdl:record_21497 a dbo:Country ;
+    dbo:areaTotal "1127127"^^dbo:squareKilometre ;
+    dbo:capital "Addis Ababa" ;
+    dbo:officialName "Ethiopia" ;
+    rdfs:seeAlso dbr:Ethiopia .
+
+mdl:record_21536 a dbo:Country ;
+    dbo:areaTotal "14"^^dbo:squareKilometre ;
+    dbo:capital "West Island" ;
+    dbo:officialName "Cocos Islands" ;
+    rdfs:seeAlso dbr:Cocos_Islands .
+
+mdl:record_21543 a dbo:Country ;
+    dbo:areaTotal "41290"^^dbo:squareKilometre ;
+    dbo:capital "Bern" ;
+    dbo:officialName "Switzerland" ;
+    rdfs:seeAlso dbr:Switzerland .
+
+mdl:record_21562 a dbo:Country ;
+    dbo:areaTotal "4167"^^dbo:squareKilometre ;
+    dbo:capital "Papeete" ;
+    dbo:officialName "French Polynesia" ;
+    rdfs:seeAlso dbr:French_Polynesia .
+
+mdl:record_224 a dbo:Country ;
+    dbo:areaTotal "28050"^^dbo:squareKilometre ;
+    dbo:capital "Malabo" ;
+    dbo:officialName "Equatorial Guinea" ;
+    rdfs:seeAlso dbr:Equatorial_Guinea .
+
+mdl:record_2286 a dbo:Country ;
+    dbo:areaTotal "18270"^^dbo:squareKilometre ;
+    dbo:capital "Suva" ;
+    dbo:officialName "Fiji" ;
+    rdfs:seeAlso dbr:Fiji .
+
+mdl:record_2353 a dbo:Country ;
+    dbo:areaTotal "13940"^^dbo:squareKilometre ;
+    dbo:capital "Nassau" ;
+    dbo:officialName "Bahamas" ;
+    rdfs:seeAlso dbr:Bahamas .
+
+mdl:record_2399 a dbo:Country ;
+    dbo:areaTotal "449964"^^dbo:squareKilometre ;
+    dbo:capital "Stockholm" ;
+    dbo:officialName "Sweden" ;
+    rdfs:seeAlso dbr:Sweden .
+
+mdl:record_2529 a dbo:Country ;
+    dbo:areaTotal "10990"^^dbo:squareKilometre ;
+    dbo:capital "Kingston" ;
+    dbo:officialName "Jamaica" ;
+    rdfs:seeAlso dbr:Jamaica .
+
+mdl:record_2543 a dbo:Country ;
+    dbo:areaTotal "1098580"^^dbo:squareKilometre ;
+    dbo:capital "La Paz" ;
+    dbo:officialName "Bolivia" ;
+    rdfs:seeAlso dbr:Bolivia .
+
+mdl:record_2563 a dbo:Country ;
+    dbo:areaTotal "30350"^^dbo:squareKilometre ;
+    dbo:capital "Maseru" ;
+    dbo:officialName "Lesotho" ;
+    rdfs:seeAlso dbr:Lesotho .
+
+mdl:record_265 a dbo:Country ;
+    dbo:areaTotal "748"^^dbo:squareKilometre ;
+    dbo:capital "Nukualofa" ;
+    dbo:officialName "Tonga" ;
+    rdfs:seeAlso dbr:Tonga .
+
+mdl:record_2680 a dbo:Country ;
+    dbo:areaTotal "3287590"^^dbo:squareKilometre ;
+    dbo:capital "New Delhi" ;
+    dbo:officialName "India" ;
+    rdfs:seeAlso dbr:India .
+
+mdl:record_2870 a dbo:Country ;
+    dbo:areaTotal "21"^^dbo:squareKilometre ;
+    dbo:capital "no official capital" ;
+    dbo:officialName "Nauru" ;
+    rdfs:seeAlso dbr:Nauru .
+
+mdl:record_3019 a dbo:Country ;
+    dbo:areaTotal "702"^^dbo:squareKilometre ;
+    dbo:capital "Kolonia" ;
+    dbo:officialName "Micronesia" ;
+    rdfs:seeAlso dbr:Micronesia .
+
+mdl:record_3126 a dbo:Country ;
+    dbo:areaTotal "274"^^dbo:squareKilometre ;
+    dbo:capital "Mata-Utu" ;
+    dbo:officialName "Wallis and Futuna" ;
+    rdfs:seeAlso dbr:Wallis_and_Futuna .
+
+mdl:record_3168 a dbo:Country ;
+    dbo:areaTotal "244820"^^dbo:squareKilometre ;
+    dbo:capital "London" ;
+    dbo:officialName "United Kingdom" ;
+    rdfs:seeAlso dbr:United_Kingdom .
+
+mdl:record_3374 a dbo:Country ;
+    dbo:areaTotal "945090"^^dbo:squareKilometre ;
+    dbo:capital "Dar es Salaam" ;
+    dbo:officialName "Tanzania" ;
+    rdfs:seeAlso dbr:Tanzania .
+
+mdl:record_3446 a dbo:Country ;
+    dbo:areaTotal "160"^^dbo:squareKilometre ;
+    dbo:capital "Vaduz" ;
+    dbo:officialName "Liechtenstein" ;
+    rdfs:seeAlso dbr:Liechtenstein .
+
+mdl:record_3622 a dbo:Country ;
+    dbo:areaTotal "194"^^dbo:squareKilometre ;
+    dbo:capital "Saint Peter Port" ;
+    dbo:officialName "Guernsey" ;
+    rdfs:seeAlso dbr:Guernsey .
+
+mdl:record_3803 a dbo:Country ;
+    dbo:areaTotal "268680"^^dbo:squareKilometre ;
+    dbo:capital "Wellington" ;
+    dbo:officialName "New Zealand" ;
+    rdfs:seeAlso dbr:New_Zealand .
+
+mdl:record_3874 a dbo:Country ;
+    dbo:areaTotal "78200"^^dbo:squareKilometre ;
+    dbo:capital "Panama City" ;
+    dbo:officialName "Panama" ;
+    rdfs:seeAlso dbr:Panama .
+
+mdl:record_3927 a dbo:Country ;
+    dbo:areaTotal "242"^^dbo:squareKilometre ;
+    dbo:capital "Saint-Pierre" ;
+    dbo:officialName "Saint Pierre and Miquelon" ;
+    rdfs:seeAlso dbr:Saint_Pierre_and_Miquelon .
+
+mdl:record_3934 a dbo:Country ;
+    dbo:areaTotal "440"^^dbo:squareKilometre ;
+    dbo:capital "Saint Johns" ;
+    dbo:officialName "Antigua and Barbuda" ;
+    rdfs:seeAlso dbr:Antigua_and_Barbuda .
+
+mdl:record_3989 a dbo:Country ;
+    dbo:areaTotal "2586"^^dbo:squareKilometre ;
+    dbo:capital "Luxembourg" ;
+    dbo:officialName "Luxembourg" ;
+    rdfs:seeAlso dbr:Luxembourg .
+
+mdl:record_4003 a dbo:Country ;
+    dbo:areaTotal "324220"^^dbo:squareKilometre ;
+    dbo:capital "Oslo" ;
+    dbo:officialName "Norway" ;
+    rdfs:seeAlso dbr:Norway .
+
+mdl:record_4092 a dbo:Country ;
+    dbo:areaTotal "16"^^dbo:squareKilometre ;
+    dbo:capital "Macau" ;
+    dbo:officialName "Macau" ;
+    rdfs:seeAlso dbr:Macau .
+
+mdl:record_4106 a dbo:Country ;
+    dbo:areaTotal "780580"^^dbo:squareKilometre ;
+    dbo:capital "Ankara" ;
+    dbo:officialName "Turkey" ;
+    rdfs:seeAlso dbr:Turkey .
+
+mdl:record_4202 a dbo:Country ;
+    dbo:areaTotal "320"^^dbo:squareKilometre ;
+    dbo:capital "Valletta" ;
+    dbo:officialName "Malta" ;
+    rdfs:seeAlso dbr:Malta .
+
+mdl:record_48 a dbo:Country ;
+    dbo:areaTotal "329750"^^dbo:squareKilometre ;
+    dbo:capital "Kuala Lumpur" ;
+    dbo:officialName "Malaysia" ;
+    rdfs:seeAlso dbr:Malaysia .
+
+mdl:record_4867 a dbo:Country ;
+    dbo:areaTotal "129494"^^dbo:squareKilometre ;
+    dbo:capital "Managua" ;
+    dbo:officialName "Nicaragua" ;
+    rdfs:seeAlso dbr:Nicaragua .
+
+mdl:record_4903 a dbo:Country ;
+    dbo:areaTotal "140800"^^dbo:squareKilometre ;
+    dbo:capital "Kathmandu" ;
+    dbo:officialName "Nepal" ;
+    rdfs:seeAlso dbr:Nepal .
+
+mdl:record_5164 a dbo:Country ;
+    dbo:areaTotal "176220"^^dbo:squareKilometre ;
+    dbo:capital "Montevideo" ;
+    dbo:officialName "Uruguay" ;
+    rdfs:seeAlso dbr:Uruguay .
+
+mdl:record_5202 a dbo:Country ;
+    dbo:areaTotal "1919440"^^dbo:squareKilometre ;
+    dbo:capital "Jakarta" ;
+    dbo:officialName "Indonesia" ;
+    rdfs:seeAlso dbr:Indonesia .
+
+mdl:record_5218 a dbo:Country ;
+    dbo:areaTotal "60"^^dbo:squareKilometre ;
+    dbo:capital "San Marino" ;
+    dbo:officialName "San Marino" ;
+    rdfs:seeAlso dbr:San_Marino .
+
+mdl:record_568 a dbo:Country ;
+    dbo:areaTotal "196190"^^dbo:squareKilometre ;
+    dbo:capital "Dakar" ;
+    dbo:officialName "Senegal" ;
+    rdfs:seeAlso dbr:Senegal .
+
+mdl:record_5783 a dbo:Country ;
+    dbo:areaTotal "144000"^^dbo:squareKilometre ;
+    dbo:capital "Dhaka" ;
+    dbo:officialName "Bangladesh" ;
+    rdfs:seeAlso dbr:Bangladesh .
+
+mdl:record_5800 a dbo:Country ;
+    dbo:areaTotal "29800"^^dbo:squareKilometre ;
+    dbo:capital "Yerevan" ;
+    dbo:officialName "Armenia" ;
+    rdfs:seeAlso dbr:Armenia .
+
+mdl:record_5817 a dbo:Country ;
+    dbo:areaTotal "198500"^^dbo:squareKilometre ;
+    dbo:capital "Bishkek" ;
+    dbo:officialName "Kyrgyzstan" ;
+    rdfs:seeAlso dbr:Kyrgyzstan .
+
+mdl:record_5886 a dbo:Country ;
+    dbo:areaTotal "2170"^^dbo:squareKilometre ;
+    dbo:capital "Moroni" ;
+    dbo:officialName "Comoros" ;
+    rdfs:seeAlso dbr:Comoros .
+
+mdl:record_5972 a dbo:Country ;
+    dbo:areaTotal "375"^^dbo:squareKilometre ;
+    dbo:capital "Mamoutzou" ;
+    dbo:officialName "Mayotte" ;
+    rdfs:seeAlso dbr:Mayotte .
+
+mdl:record_6057 a dbo:Country ;
+    dbo:areaTotal "207600"^^dbo:squareKilometre ;
+    dbo:capital "Minsk" ;
+    dbo:officialName "Belarus" ;
+    rdfs:seeAlso dbr:Belarus .
+
+mdl:record_6112 a dbo:Country ;
+    dbo:areaTotal "260"^^dbo:squareKilometre ;
+    dbo:capital "Alofi" ;
+    dbo:officialName "Niue" ;
+    rdfs:seeAlso dbr:Niue .
+
+mdl:record_6157 a dbo:Country ;
+    dbo:areaTotal "5770"^^dbo:squareKilometre ;
+    dbo:capital "Bandar Seri Begawan" ;
+    dbo:officialName "Brunei" ;
+    rdfs:seeAlso dbr:Brunei .
+
+mdl:record_6170 a dbo:Country ;
+    dbo:areaTotal "750"^^dbo:squareKilometre ;
+    dbo:capital "Roseau" ;
+    dbo:officialName "Dominica" ;
+    rdfs:seeAlso dbr:Dominica .
+
+mdl:record_6184 a dbo:Country ;
+    dbo:areaTotal "20256"^^dbo:squareKilometre ;
+    dbo:capital "Ljubljana" ;
+    dbo:officialName "Slovenia" ;
+    rdfs:seeAlso dbr:Slovenia .
+
+mdl:record_6279 a dbo:Country ;
+    dbo:capital "Monaco" ;
+    dbo:officialName "Monaco" ;
+    rdfs:seeAlso dbr:Monaco .
+
+mdl:record_6290 a dbo:Country ;
+    dbo:areaTotal "19060"^^dbo:squareKilometre ;
+    dbo:capital "Noumea" ;
+    dbo:officialName "New Caledonia" ;
+    rdfs:seeAlso dbr:New_Caledonia .
+
+mdl:record_6410 a dbo:Country ;
+    dbo:areaTotal "181040"^^dbo:squareKilometre ;
+    dbo:capital "Phnom Penh" ;
+    dbo:officialName "Cambodia" ;
+    rdfs:seeAlso dbr:Cambodia .
+
+mdl:record_6524 a dbo:Country ;
+    dbo:areaTotal "340"^^dbo:squareKilometre ;
+    dbo:capital "Saint Georges" ;
+    dbo:officialName "Grenada" ;
+    rdfs:seeAlso dbr:Grenada .
+
+mdl:record_6603 a dbo:Country ;
+    dbo:areaTotal "17360"^^dbo:squareKilometre ;
+    dbo:capital "Mbabane" ;
+    dbo:officialName "Swaziland" ;
+    rdfs:seeAlso dbr:Swaziland .
+
+mdl:record_6618 a dbo:Country ;
+    dbo:areaTotal "112090"^^dbo:squareKilometre ;
+    dbo:capital "Tegucigalpa" ;
+    dbo:officialName "Honduras" ;
+    rdfs:seeAlso dbr:Honduras .
+
+mdl:record_68 a dbo:Country ;
+    dbo:areaTotal "752610"^^dbo:squareKilometre ;
+    dbo:capital "Lusaka" ;
+    dbo:officialName "Zambia" ;
+    rdfs:seeAlso dbr:Zambia .
+
+mdl:record_6878 a dbo:Country ;
+    dbo:areaTotal "1240000"^^dbo:squareKilometre ;
+    dbo:capital "Bamako" ;
+    dbo:officialName "Mali" ;
+    rdfs:seeAlso dbr:Mali .
+
+mdl:record_693 a dbo:Country ;
+    dbo:areaTotal "236800"^^dbo:squareKilometre ;
+    dbo:capital "Vientiane" ;
+    dbo:officialName "Laos" ;
+    rdfs:seeAlso dbr:Laos .
+
+mdl:record_6973 a dbo:Country ;
+    dbo:areaTotal "960"^^dbo:squareKilometre ;
+    dbo:capital "Willemstad" ;
+    dbo:officialName "Netherlands Antilles" ;
+    rdfs:seeAlso dbr:Netherlands_Antilles .
+
+mdl:record_7021 a dbo:Country ;
+    dbo:areaTotal "450"^^dbo:squareKilometre ;
+    dbo:capital "Andorra la Vella" ;
+    dbo:officialName "Andorra" ;
+    rdfs:seeAlso dbr:Andorra .
+
+mdl:record_7086 a dbo:Country ;
+    dbo:areaTotal "410"^^dbo:squareKilometre ;
+    dbo:capital "Jamestown" ;
+    dbo:officialName "Saint Helena" ;
+    rdfs:seeAlso dbr:Saint_Helena .
+
+mdl:record_710 a dbo:Country ;
+    dbo:areaTotal "36120"^^dbo:squareKilometre ;
+    dbo:capital "Bissau" ;
+    dbo:officialName "Guinea-Bissau" ;
+    rdfs:seeAlso dbr:Guinea-Bissau .
+
+mdl:record_7180 a dbo:Country ;
+    dbo:areaTotal "960"^^dbo:squareKilometre ;
+    dbo:capital "Sao Tome" ;
+    dbo:officialName "Sao Tome and Principe" ;
+    rdfs:seeAlso dbr:Sao_Tome_and_Principe .
+
+mdl:record_7224 a dbo:Country ;
+    dbo:areaTotal "9104"^^dbo:squareKilometre ;
+    dbo:capital "San Juan" ;
+    dbo:officialName "Puerto Rico" ;
+    rdfs:seeAlso dbr:Puerto_Rico .
+
+mdl:record_7240 a dbo:Country ;
+    dbo:capital "Vatican City" ;
+    dbo:officialName "Holy See" ;
+    rdfs:seeAlso dbr:Holy_See .
+
+mdl:record_7295 a dbo:Country ;
+    dbo:areaTotal "50"^^dbo:squareKilometre ;
+    dbo:capital "Hamilton" ;
+    dbo:officialName "Bermuda" ;
+    rdfs:seeAlso dbr:Bermuda .
+
+mdl:record_7318 a dbo:Country ;
+    dbo:areaTotal "91000"^^dbo:squareKilometre ;
+    dbo:capital "Cayenne" ;
+    dbo:officialName "French Guiana" ;
+    rdfs:seeAlso dbr:French_Guiana .
+
+mdl:record_7336 a dbo:Country ;
+    dbo:areaTotal "437072"^^dbo:squareKilometre ;
+    dbo:capital "Baghdad" ;
+    dbo:officialName "Iraq" ;
+    rdfs:seeAlso dbr:Iraq .
+
+mdl:record_7372 a dbo:Country ;
+    dbo:areaTotal "28750"^^dbo:squareKilometre ;
+    dbo:capital "Tirane" ;
+    dbo:officialName "Albania" ;
+    rdfs:seeAlso dbr:Albania .
+
+mdl:record_746 a dbo:Country ;
+    dbo:areaTotal "266000"^^dbo:squareKilometre ;
+    dbo:capital "El Alaiun" ;
+    dbo:officialName "Western Sahara" ;
+    rdfs:seeAlso dbr:Western_Sahara .
+
+mdl:record_7526 a dbo:Country ;
+    dbo:areaTotal "825418"^^dbo:squareKilometre ;
+    dbo:capital "Windhoek" ;
+    dbo:officialName "Namibia" ;
+    rdfs:seeAlso dbr:Namibia .
+
+mdl:record_7591 a dbo:Country ;
+    dbo:areaTotal "430"^^dbo:squareKilometre ;
+    dbo:capital "Grand Turk" ;
+    dbo:officialName "Turks and Caicos Islands" ;
+    rdfs:seeAlso dbr:Turks_and_Caicos_Islands .
+
+mdl:record_7641 a dbo:Country ;
+    dbo:areaTotal "26340"^^dbo:squareKilometre ;
+    dbo:capital "Kigali" ;
+    dbo:officialName "Rwanda" ;
+    rdfs:seeAlso dbr:Rwanda .
+
+mdl:record_7706 a dbo:Country ;
+    dbo:areaTotal "108890"^^dbo:squareKilometre ;
+    dbo:capital "Guatemala City" ;
+    dbo:officialName "Guatemala" ;
+    rdfs:seeAlso dbr:Guatemala .
+
+mdl:record_771 a dbo:Country ;
+    dbo:areaTotal "269"^^dbo:squareKilometre ;
+    dbo:capital "Basseterre" ;
+    dbo:officialName "Saint Kitts and Nevis" ;
+    rdfs:seeAlso dbr:Saint_Kitts_and_Nevis .
+
+mdl:record_7782 a dbo:Country ;
+    dbo:areaTotal "406750"^^dbo:squareKilometre ;
+    dbo:capital "Asuncion" ;
+    dbo:officialName "Paraguay" ;
+    rdfs:seeAlso dbr:Paraguay .
+
+mdl:record_7816 a dbo:Country ;
+    dbo:areaTotal "312683"^^dbo:squareKilometre ;
+    dbo:capital "Warsaw" ;
+    dbo:officialName "Poland" ;
+    rdfs:seeAlso dbr:Poland .
+
+mdl:record_7952 a dbo:Country ;
+    dbo:areaTotal "10400"^^dbo:squareKilometre ;
+    dbo:capital "Beirut" ;
+    dbo:officialName "Lebanon" ;
+    rdfs:seeAlso dbr:Lebanon .
+
+mdl:record_7988 a dbo:Country ;
+    dbo:areaTotal "120540"^^dbo:squareKilometre ;
+    dbo:capital "Pyongyang" ;
+    dbo:officialName "North Korea" ;
+    rdfs:seeAlso dbr:North_Korea .
+
+mdl:record_8313 a dbo:Country ;
+    dbo:areaTotal "20770"^^dbo:squareKilometre ;
+    dbo:capital "Jerusalem" ;
+    dbo:officialName "Israel" ;
+    rdfs:seeAlso dbr:Israel .
+
+mdl:record_8331 a dbo:Country ;
+    dbo:areaTotal "488100"^^dbo:squareKilometre ;
+    dbo:capital "Ashgabat" ;
+    dbo:officialName "Turkmenistan" ;
+    rdfs:seeAlso dbr:Turkmenistan .
+
+mdl:record_8446 a dbo:Country ;
+    dbo:areaTotal "11300"^^dbo:squareKilometre ;
+    dbo:capital "Banjul" ;
+    dbo:officialName "Gambia" ;
+    rdfs:seeAlso dbr:Gambia .
+
+mdl:record_8473 a dbo:Country ;
+    dbo:areaTotal "236040"^^dbo:squareKilometre ;
+    dbo:capital "Kampala" ;
+    dbo:officialName "Uganda" ;
+    rdfs:seeAlso dbr:Uganda .
+
+mdl:record_8530 a dbo:Country ;
+    dbo:areaTotal "352"^^dbo:squareKilometre ;
+    dbo:capital "Charlotte Amalie" ;
+    dbo:officialName "Virgin Islands" ;
+    rdfs:seeAlso dbr:Virgin_Islands .
+
+mdl:record_8649 a dbo:Country ;
+    dbo:areaTotal "1030700"^^dbo:squareKilometre ;
+    dbo:capital "Nouakchott" ;
+    dbo:officialName "Mauritania" ;
+    rdfs:seeAlso dbr:Mauritania .
+
+mdl:record_8715 a dbo:Country ;
+    dbo:areaTotal "2717300"^^dbo:squareKilometre ;
+    dbo:capital "Almaty" ;
+    dbo:officialName "Kazakstan" ;
+    rdfs:seeAlso dbr:Kazakstan .
+
+mdl:record_8818 a dbo:Country ;
+    dbo:areaTotal "51233"^^dbo:squareKilometre ;
+    dbo:capital "Sarajevo" ;
+    dbo:officialName "Bosnia and Herzegovina" ;
+    rdfs:seeAlso dbr:Bosnia_and_Herzegovina .
+
+mdl:record_8894 a dbo:Country ;
+    dbo:areaTotal "274200"^^dbo:squareKilometre ;
+    dbo:capital "Ouagadougou" ;
+    dbo:officialName "Burkina Faso" ;
+    rdfs:seeAlso dbr:Burkina_Faso .
+
+mdl:record_8904 a dbo:Country ;
+    dbo:areaTotal "214970"^^dbo:squareKilometre ;
+    dbo:capital "Georgetown" ;
+    dbo:officialName "Guyana" ;
+    rdfs:seeAlso dbr:Guyana .
+
+mdl:record_9095 a dbo:Country ;
+    dbo:areaTotal "150"^^dbo:squareKilometre ;
+    dbo:capital "Road Town" ;
+    dbo:officialName "British Virgin Islands" ;
+    rdfs:seeAlso dbr:British_Virgin_Islands .
+
+mdl:record_927 a dbo:Country ;
+    dbo:areaTotal "193"^^dbo:squareKilometre ;
+    dbo:capital "Oranjestad" ;
+    dbo:officialName "Aruba" ;
+    rdfs:seeAlso dbr:Aruba .
+
+mdl:record_9509 a dbo:Country ;
+    dbo:areaTotal "100"^^dbo:squareKilometre ;
+    dbo:capital "Plymouth" ;
+    dbo:officialName "Montserrat" ;
+    rdfs:seeAlso dbr:Montserrat .
+
+mdl:record_9565 a dbo:Country ;
+    dbo:areaTotal "477"^^dbo:squareKilometre ;
+    dbo:capital "Saipan" ;
+    dbo:officialName "Northern Mariana Islands" ;
+    rdfs:seeAlso dbr:Northern_Mariana_Islands .
+
+mdl:record_9619 a dbo:Country ;
+    dbo:areaTotal "329560"^^dbo:squareKilometre ;
+    dbo:capital "Hanoi" ;
+    dbo:officialName "Vietnam" ;
+    rdfs:seeAlso dbr:Vietnam .
+
+mdl:record_9700 a dbo:Country ;
+    dbo:areaTotal "1780"^^dbo:squareKilometre ;
+    dbo:capital "Basse-Terre" ;
+    dbo:officialName "Guadeloupe" ;
+    rdfs:seeAlso dbr:Guadeloupe .
+
+mdl:record_9951 a dbo:Country ;
+    dbo:areaTotal "70280"^^dbo:squareKilometre ;
+    dbo:capital "Dublin" ;
+    dbo:officialName "Ireland" ;
+    rdfs:seeAlso dbr:Ireland .
+
+dbr:C%C3%B4te_d%27Ivoire a dbo:Country ;
+    dbo:areaTotal "322460"^^dbo:squareKilometre ;
+    dbo:capital "Yamoussoukro" ;
+    dbo:officialName "Côte d'Ivoire" .
+
+dbr:Carriacou_and_Petite_Martinique a dbo:Country ;
+    dbo:areaTotal "37"^^dbo:squareKilometre ;
+    dbo:capital "Hillsborough, Grenada" ;
+    dbo:officialName "Carriacou and Petite Martinique" .
+
+dbr:Cocos_%28Keeling%29_Islands a dbo:Country ;
+    dbo:areaTotal "14"^^dbo:squareKilometre ;
+    dbo:capital "West Island, Cocos (Keeling) Islands" ;
+    dbo:officialName "Cocos  Islands" .
+
+dbr:Cura%C3%A7ao a dbo:Country ;
+    dbo:areaTotal "444"^^dbo:squareKilometre ;
+    dbo:capital "Willemstad" ;
+    dbo:officialName "Curaçao" .
+
+dbr:Democratic_Republic_of_the_Congo a dbo:Country ;
+    dbo:areaTotal "2345409"^^dbo:squareKilometre ;
+    dbo:capital "Kinshasa" ;
+    dbo:officialName "the Democratic Republic of the Congo" .
+
+dbr:Federated_States_of_Micronesia a dbo:Country ;
+    dbo:areaTotal "702"^^dbo:squareKilometre ;
+    dbo:capital "Palikir" ;
+    dbo:officialName "the Federated States of Micronesia" .
+
+dbr:Federation_of_Bosnia_and_Herzegovina a dbo:Country ;
+    dbo:areaTotal "26110"^^dbo:squareKilometre ;
+    dbo:capital "Sarajevo" ;
+    dbo:officialName "Federation of Bosnia and Herzegovina" .
+
+dbr:Georgia_%28country%29 a dbo:Country ;
+    dbo:areaTotal "69700"^^dbo:squareKilometre ;
+    dbo:capital "Tbilisi" ;
+    dbo:officialName "Georgia" .
+
+dbr:Grande_Comore a dbo:Country ;
+    dbo:areaTotal "1148"^^dbo:squareKilometre ;
+    dbo:capital "Moroni, Comoros" ;
+    dbo:officialName "Grande Comore" .
+
+dbr:History_of_Venezuela a dbo:Country ;
+    dbo:areaTotal "916445"^^dbo:squareKilometre ;
+    dbo:capital "Santiago de León de Caracas" ;
+    dbo:officialName "Venezuela" .
+
+dbr:Isle_of_Man a dbo:Country ;
+    dbo:areaTotal "572"^^dbo:squareKilometre ;
+    dbo:capital "Douglas, Isle of Man" ;
+    dbo:officialName "the Isle of Man" .
+
+dbr:Kazakhstan a dbo:Country ;
+    dbo:areaTotal "2724900"^^dbo:squareKilometre ;
+    dbo:capital "Astana" ;
+    dbo:officialName "Kazakhstan" .
+
+dbr:Kingdom_of_the_Netherlands a dbo:Country ;
+    dbo:areaTotal "42508"^^dbo:squareKilometre ;
+    dbo:capital "Amsterdam" ;
+    dbo:officialName "Netherlands" .
+
+dbr:People%27s_Republic_of_China a dbo:Country ;
+    dbo:areaTotal "9640821"^^dbo:squareKilometre ;
+    dbo:capital "Beijing" ;
+    dbo:officialName "China" .
+
+dbr:Republic_of_China a dbo:Country ;
+    dbo:areaTotal "36191"^^dbo:squareKilometre ;
+    dbo:capital "Taipei" ;
+    dbo:officialName "Taiwan" .
+
+dbr:Republic_of_Ireland a dbo:Country ;
+    dbo:areaTotal "70273"^^dbo:squareKilometre ;
+    dbo:capital "Dublin" ;
+    dbo:officialName "Ireland" .
+
+dbr:Republic_of_the_Congo a dbo:Country ;
+    dbo:areaTotal "342000"^^dbo:squareKilometre ;
+    dbo:capital "Brazzaville" ;
+    dbo:officialName "the Republic of the Congo" .
+
+dbr:S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe a dbo:Country ;
+    dbo:areaTotal "1001"^^dbo:squareKilometre ;
+    dbo:capital "São Tomé" ;
+    dbo:officialName "São Tomé and Príncipe" .
+
+dbr:Sahrawi_Arab_Democratic_Republic a dbo:Country ;
+    dbo:areaTotal "2660002"^^dbo:squareKilometre ;
+    dbo:capital "Bir Lehlou",
+        "El Aaiún",
+        "Refugee camps in Tindouf Province, Algeria",
+        "Tifariti" ;
+    dbo:officialName "Sahrawi Arab Democratic Republic" .
+
+dbr:Samoa a dbo:Country ;
+    dbo:areaTotal "2831"^^dbo:squareKilometre ;
+    dbo:capital "Apia, Samoa" ;
+    dbo:officialName "Samoa" .
+
+dbr:Serbia a dbo:Country ;
+    dbo:capital "Belgrade" ;
+    dbo:officialName "Serbia" .
+
+dbr:The_Bahamas a dbo:Country ;
+    dbo:areaTotal "13878"^^dbo:squareKilometre ;
+    dbo:capital "Nassau, Bahamas" ;
+    dbo:officialName "The Bahamas" .
+
+dbr:The_Gambia a dbo:Country ;
+    dbo:areaTotal "10380"^^dbo:squareKilometre ;
+    dbo:capital "Banjul" ;
+    dbo:officialName "the Gambia" .
+
+dbr:Transitional_Darfur_Regional_Authority a dbo:Country ;
+    dbo:areaTotal "493180"^^dbo:squareKilometre ;
+    dbo:capital "Khartoum" ;
+    dbo:officialName "Darfur" .
+
+dbr:United_States_Virgin_Islands a dbo:Country ;
+    dbo:areaTotal "346"^^dbo:squareKilometre ;
+    dbo:capital "Charlotte Amalie, United States Virgin Islands" ;
+    dbo:officialName "United States Virgin Islands" .
+
+dbr:Afghanistan a dbo:Country ;
+    dbo:areaTotal "647500"^^dbo:squareKilometre ;
+    dbo:capital "Kabul" ;
+    dbo:officialName "Afghanistan" .
+
+dbr:Albania a dbo:Country ;
+    dbo:areaTotal "28748"^^dbo:squareKilometre ;
+    dbo:capital "Tirana" ;
+    dbo:officialName "Albania" .
+
+dbr:Algeria a dbo:Country ;
+    dbo:areaTotal "2381741"^^dbo:squareKilometre ;
+    dbo:capital "Algiers" ;
+    dbo:officialName "Algeria" .
+
+dbr:American_Samoa a dbo:Country ;
+    dbo:areaTotal "199"^^dbo:squareKilometre ;
+    dbo:capital "Fagatogo",
+        "Pago Pago" ;
+    dbo:officialName "American Samoa" .
+
+dbr:Andorra a dbo:Country ;
+    dbo:areaTotal "467"^^dbo:squareKilometre ;
+    dbo:capital "Andorra la Vella" ;
+    dbo:officialName "Andorra" .
+
+dbr:Angola a dbo:Country ;
+    dbo:areaTotal "1246700"^^dbo:squareKilometre ;
+    dbo:capital "Luanda" ;
+    dbo:officialName "Angola" .
+
+dbr:Anguilla a dbo:Country ;
+    dbo:areaTotal "91"^^dbo:squareKilometre ;
+    dbo:capital "The Valley, Anguilla" ;
+    dbo:officialName "Anguilla" .
+
+dbr:Antigua_and_Barbuda a dbo:Country ;
+    dbo:areaTotal "440"^^dbo:squareKilometre ;
+    dbo:capital "St. John's, Antigua and Barbuda" ;
+    dbo:officialName "Antigua and Barbuda" .
+
+dbr:Argentina a dbo:Country ;
+    dbo:areaTotal "2766890"^^dbo:squareKilometre ;
+    dbo:capital "Buenos Aires" ;
+    dbo:officialName "Argentina" .
+
+dbr:Armenia a dbo:Country ;
+    dbo:areaTotal "29800"^^dbo:squareKilometre ;
+    dbo:capital "Yerevan" ;
+    dbo:officialName "Armenia" .
+
+dbr:Aruba a dbo:Country ;
+    dbo:areaTotal "193"^^dbo:squareKilometre ;
+    dbo:capital "Oranjestad, Aruba" ;
+    dbo:officialName "Aruba" .
+
+dbr:Australia a dbo:Country ;
+    dbo:areaTotal "7617930"^^dbo:squareKilometre ;
+    dbo:capital "Canberra" ;
+    dbo:officialName "Australia" .
+
+dbr:Austria a dbo:Country ;
+    dbo:areaTotal "83872"^^dbo:squareKilometre ;
+    dbo:capital "Vienna" ;
+    dbo:officialName "Austria" .
+
+dbr:Azerbaijan a dbo:Country ;
+    dbo:areaTotal "86600"^^dbo:squareKilometre ;
+    dbo:capital "Baku" ;
+    dbo:officialName "Azerbaijan" .
+
+dbr:Bahrain a dbo:Country ;
+    dbo:areaTotal "750"^^dbo:squareKilometre ;
+    dbo:capital "Manama" ;
+    dbo:officialName "Bahrain" .
+
+dbr:Bangladesh a dbo:Country ;
+    dbo:areaTotal "147570"^^dbo:squareKilometre ;
+    dbo:capital "Dhaka" ;
+    dbo:officialName "Bangladesh" .
+
+dbr:Barbados a dbo:Country ;
+    dbo:areaTotal "431"^^dbo:squareKilometre ;
+    dbo:capital "Bridgetown" ;
+    dbo:officialName "Barbados" .
+
+dbr:Belarus a dbo:Country ;
+    dbo:areaTotal "207600"^^dbo:squareKilometre ;
+    dbo:capital "Minsk" ;
+    dbo:officialName "Belarus" .
+
+dbr:Belgium a dbo:Country ;
+    dbo:areaTotal "30528"^^dbo:squareKilometre ;
+    dbo:capital "Brussels (municipality)" ;
+    dbo:officialName "Belgium" .
+
+dbr:Belize a dbo:Country ;
+    dbo:areaTotal "22966"^^dbo:squareKilometre ;
+    dbo:capital "Belmopan" ;
+    dbo:officialName "Belize" .
+
+dbr:Benin a dbo:Country ;
+    dbo:areaTotal "112622"^^dbo:squareKilometre ;
+    dbo:capital "Porto-Novo" ;
+    dbo:officialName "Benin" .
+
+dbr:Bermuda a dbo:Country ;
+    dbo:areaTotal "53"^^dbo:squareKilometre ;
+    dbo:capital "Hamilton, Bermuda" ;
+    dbo:officialName "Bermuda" .
+
+dbr:Bhutan a dbo:Country ;
+    dbo:areaTotal "38816"^^dbo:squareKilometre ;
+    dbo:capital "Thimphu" ;
+    dbo:officialName "Bhutan" .
+
+dbr:Bolivia a dbo:Country ;
+    dbo:areaTotal "1098581"^^dbo:squareKilometre ;
+    dbo:capital "La Paz",
+        "Sucre" ;
+    dbo:officialName "Bolivia" .
+
+dbr:Botswana a dbo:Country ;
+    dbo:areaTotal "581730"^^dbo:squareKilometre ;
+    dbo:capital "Gaborone" ;
+    dbo:officialName "Botswana" .
+
+dbr:Brazil a dbo:Country ;
+    dbo:areaTotal "8514877"^^dbo:squareKilometre ;
+    dbo:capital "Brasília" ;
+    dbo:officialName "Brasil" .
+
+dbr:Brunei a dbo:Country ;
+    dbo:areaTotal "5765"^^dbo:squareKilometre ;
+    dbo:capital "Bandar Seri Begawan" ;
+    dbo:officialName "Brunei" .
+
+dbr:Bulgaria a dbo:Country ;
+    dbo:areaTotal "110993"^^dbo:squareKilometre ;
+    dbo:capital "Sofia" ;
+    dbo:officialName "Bulgaria" .
+
+dbr:Burkina_Faso a dbo:Country ;
+    dbo:areaTotal "274200"^^dbo:squareKilometre ;
+    dbo:capital "Ouagadougou" ;
+    dbo:officialName "Burkina Faso" .
+
+dbr:Burma a dbo:Country ;
+    dbo:areaTotal "676578"^^dbo:squareKilometre ;
+    dbo:capital "Naypyidaw" ;
+    dbo:officialName "Burma" .
+
+dbr:Burundi a dbo:Country ;
+    dbo:areaTotal "27834"^^dbo:squareKilometre ;
+    dbo:capital "Bujumbura" ;
+    dbo:officialName "Burundi" .
+
+dbr:Cambodia a dbo:Country ;
+    dbo:areaTotal "181035"^^dbo:squareKilometre ;
+    dbo:capital "Phnom Penh" ;
+    dbo:officialName "Cambodia" .
+
+dbr:Cameroon a dbo:Country ;
+    dbo:areaTotal "475442"^^dbo:squareKilometre ;
+    dbo:capital "Yaoundé" ;
+    dbo:officialName "Cameroon" .
+
+dbr:Canada a dbo:Country ;
+    dbo:areaTotal "9984670"^^dbo:squareKilometre ;
+    dbo:capital "Ottawa" ;
+    dbo:officialName "Canada" .
+
+dbr:Cape_Verde a dbo:Country ;
+    dbo:areaTotal "4033"^^dbo:squareKilometre ;
+    dbo:capital "Praia" ;
+    dbo:officialName "Cape Verde" .
+
+dbr:Central_African_Republic a dbo:Country ;
+    dbo:areaTotal "622984"^^dbo:squareKilometre ;
+    dbo:capital "Bangui" ;
+    dbo:officialName "the Central African Republic" .
+
+dbr:Chad a dbo:Country ;
+    dbo:areaTotal "1284000"^^dbo:squareKilometre ;
+    dbo:capital "N'Djamena" ;
+    dbo:officialName "Chad" .
+
+dbr:Chile a dbo:Country ;
+    dbo:areaTotal "756950"^^dbo:squareKilometre ;
+    dbo:capital "Santiago, Chile" ;
+    dbo:officialName "Chile" .
+
+dbr:Christmas_Island a dbo:Country ;
+    dbo:areaTotal "135"^^dbo:squareKilometre ;
+    dbo:capital "Flying Fish Cove" ;
+    dbo:officialName "Christmas Island" .
+
+dbr:Colombia a dbo:Country ;
+    dbo:areaTotal "1141748"^^dbo:squareKilometre ;
+    dbo:capital "Bogotá" ;
+    dbo:officialName "Colombia" .
+
+dbr:Cook_Islands a dbo:Country ;
+    dbo:areaTotal "240"^^dbo:squareKilometre ;
+    dbo:capital "Avarua" ;
+    dbo:officialName "Cook Islands" .
+
+dbr:Costa_Rica a dbo:Country ;
+    dbo:areaTotal "51100"^^dbo:squareKilometre ;
+    dbo:capital "San José, Costa Rica" ;
+    dbo:officialName "Costa Rica" .
+
+dbr:Croatia a dbo:Country ;
+    dbo:areaTotal "56594"^^dbo:squareKilometre ;
+    dbo:capital "Zagreb" ;
+    dbo:officialName "Croatia" .
+
+dbr:Cuba a dbo:Country ;
+    dbo:areaTotal "109886"^^dbo:squareKilometre ;
+    dbo:capital "Havana" ;
+    dbo:officialName "Cuba" .
+
+dbr:Cyprus a dbo:Country ;
+    dbo:areaTotal "9248"^^dbo:squareKilometre ;
+    dbo:capital "Nicosia" ;
+    dbo:officialName "Cyprus" .
+
+dbr:Czech_Republic a dbo:Country ;
+    dbo:areaTotal "78866"^^dbo:squareKilometre ;
+    dbo:capital "Prague" ;
+    dbo:officialName "Czech Republic" .
+
+dbr:Denmark a dbo:Country ;
+    dbo:areaTotal "43098"^^dbo:squareKilometre ;
+    dbo:capital "Copenhagen" ;
+    dbo:officialName "Denmark" .
+
+dbr:Djibouti a dbo:Country ;
+    dbo:areaTotal "23200"^^dbo:squareKilometre ;
+    dbo:capital "Djibouti (city)" ;
+    dbo:officialName "Djibouti" .
+
+dbr:Dominica a dbo:Country ;
+    dbo:areaTotal "754"^^dbo:squareKilometre ;
+    dbo:capital "Roseau" ;
+    dbo:officialName "Dominica" .
+
+dbr:Dominican_Republic a dbo:Country ;
+    dbo:areaTotal "48442"^^dbo:squareKilometre ;
+    dbo:capital "Santo Domingo" ;
+    dbo:officialName "Dominican Republic" .
+
+dbr:Ecuador a dbo:Country ;
+    dbo:areaTotal "283"^^dbo:squareKilometre ;
+    dbo:capital "Quito" ;
+    dbo:officialName "Ecuador" .
+
+dbr:Egypt a dbo:Country ;
+    dbo:areaTotal "1002450"^^dbo:squareKilometre ;
+    dbo:capital "Cairo" ;
+    dbo:officialName "Egypt" .
+
+dbr:El_Salvador a dbo:Country ;
+    dbo:areaTotal "21040"^^dbo:squareKilometre ;
+    dbo:capital "San Salvador" ;
+    dbo:officialName "El Salvador" .
+
+dbr:Estonia a dbo:Country ;
+    dbo:areaTotal "45228"^^dbo:squareKilometre ;
+    dbo:capital "Tallinn" ;
+    dbo:officialName "Estonia" .
+
+dbr:Ethiopia a dbo:Country ;
+    dbo:areaTotal "1104300"^^dbo:squareKilometre ;
+    dbo:capital "Addis Ababa" ;
+    dbo:officialName "Ethiopia" .
+
+dbr:Falkland_Islands a dbo:Country ;
+    dbo:areaTotal "12173"^^dbo:squareKilometre ;
+    dbo:capital "Stanley, Falkland Islands" ;
+    dbo:officialName "Falkland Islands" .
+
+dbr:Faroe_Islands a dbo:Country ;
+    dbo:areaTotal "1399"^^dbo:squareKilometre ;
+    dbo:capital "Tórshavn" ;
+    dbo:officialName "Faroe Islands" .
+
+dbr:Fiji a dbo:Country ;
+    dbo:areaTotal "18274"^^dbo:squareKilometre ;
+    dbo:capital "Suva" ;
+    dbo:officialName "Fiji" .
+
+dbr:Finland a dbo:Country ;
+    dbo:areaTotal "338424"^^dbo:squareKilometre ;
+    dbo:capital "Helsinki" ;
+    dbo:officialName "Finland" .
+
+dbr:France a dbo:Country ;
+    dbo:areaTotal "674843"^^dbo:squareKilometre ;
+    dbo:capital "Paris" ;
+    dbo:officialName "France" .
+
+dbr:Gabon a dbo:Country ;
+    dbo:areaTotal "267745"^^dbo:squareKilometre ;
+    dbo:capital "Libreville" ;
+    dbo:officialName "Gabon" .
+
+dbr:Germany a dbo:Country ;
+    dbo:areaTotal "357021"^^dbo:squareKilometre ;
+    dbo:capital "Berlin" ;
+    dbo:officialName "Germany" .
+
+dbr:Ghana a dbo:Country ;
+    dbo:areaTotal "238535"^^dbo:squareKilometre ;
+    dbo:capital "Accra" ;
+    dbo:officialName "Ghana" .
+
+dbr:Greece a dbo:Country ;
+    dbo:areaTotal "131990"^^dbo:squareKilometre ;
+    dbo:capital "Athens" ;
+    dbo:officialName "Greece" .
+
+dbr:Greenland a dbo:Country ;
+    dbo:areaTotal "2166086"^^dbo:squareKilometre ;
+    dbo:capital "Nuuk" ;
+    dbo:officialName "Greenland" .
+
+dbr:Grenada a dbo:Country ;
+    dbo:areaTotal "344"^^dbo:squareKilometre ;
+    dbo:capital "St. George's, Grenada" ;
+    dbo:officialName "Grenada" .
+
+dbr:Guam a dbo:Country ;
+    dbo:areaTotal "541"^^dbo:squareKilometre ;
+    dbo:capital "Hagåtña, Guam" ;
+    dbo:officialName "Guam" .
+
+dbr:Guernsey a dbo:Country ;
+    dbo:areaTotal "78"^^dbo:squareKilometre ;
+    dbo:capital "Saint Peter Port" ;
+    dbo:officialName "Guernsey" .
+
+dbr:Guinea a dbo:Country ;
+    dbo:areaTotal "245857"^^dbo:squareKilometre ;
+    dbo:capital "Conakry" ;
+    dbo:officialName "Guinea" .
+
+dbr:Guyana a dbo:Country ;
+    dbo:areaTotal "214970"^^dbo:squareKilometre ;
+    dbo:capital "Georgetown, Guyana" ;
+    dbo:officialName "Guyana" .
+
+dbr:Haiti a dbo:Country ;
+    dbo:areaTotal "27750"^^dbo:squareKilometre ;
+    dbo:capital "Port-au-Prince" ;
+    dbo:officialName "Haiti" .
+
+dbr:Honduras a dbo:Country ;
+    dbo:areaTotal "112492"^^dbo:squareKilometre ;
+    dbo:capital "Tegucigalpa" ;
+    dbo:officialName "Honduras" .
+
+dbr:Hungary a dbo:Country ;
+    dbo:areaTotal "93030"^^dbo:squareKilometre ;
+    dbo:capital "Budapest" ;
+    dbo:officialName "Hungary" .
+
+dbr:Iceland a dbo:Country ;
+    dbo:areaTotal "103001"^^dbo:squareKilometre ;
+    dbo:capital "Reykjavík" ;
+    dbo:officialName "Iceland" .
+
+dbr:India a dbo:Country ;
+    dbo:areaTotal "3287240"^^dbo:squareKilometre ;
+    dbo:capital "New Delhi" ;
+    dbo:officialName "India" .
+
+dbr:Indonesia a dbo:Country ;
+    dbo:areaTotal "1919440"^^dbo:squareKilometre ;
+    dbo:capital "Jakarta" ;
+    dbo:officialName "Indonesia" .
+
+dbr:Iran a dbo:Country ;
+    dbo:areaTotal "1648195"^^dbo:squareKilometre ;
+    dbo:capital "Tehran" ;
+    dbo:officialName "Iran" .
+
+dbr:Iraq a dbo:Country ;
+    dbo:areaTotal "438317"^^dbo:squareKilometre ;
+    dbo:capital "Baghdad" ;
+    dbo:officialName "Iraq" .
+
+dbr:Israel a dbo:Country ;
+    dbo:capital "Jerusalem" ;
+    dbo:officialName "Israel" .
+
+dbr:Italy a dbo:Country ;
+    dbo:areaTotal "301338"^^dbo:squareKilometre ;
+    dbo:capital "Rome" ;
+    dbo:officialName "Italy" .
+
+dbr:Jamaica a dbo:Country ;
+    dbo:areaTotal "10991"^^dbo:squareKilometre ;
+    dbo:capital "Kingston, Jamaica" ;
+    dbo:officialName "Jamaica" .
+
+dbr:Japan a dbo:Country ;
+    dbo:areaTotal "377944"^^dbo:squareKilometre ;
+    dbo:capital "Tokyo" ;
+    dbo:officialName "Japan" .
+
+dbr:Jersey a dbo:Country ;
+    dbo:areaTotal "116"^^dbo:squareKilometre ;
+    dbo:capital "Saint Helier" ;
+    dbo:officialName "Jersey" .
+
+dbr:Jordan a dbo:Country ;
+    dbo:areaTotal "92300"^^dbo:squareKilometre ;
+    dbo:capital "Amman" ;
+    dbo:officialName "Jordan, The Jordanian Kingdom" .
+
+dbr:Kenya a dbo:Country ;
+    dbo:areaTotal "580367"^^dbo:squareKilometre ;
+    dbo:capital "Nairobi" ;
+    dbo:officialName "Kenya" .
+
+dbr:Kiribati a dbo:Country ;
+    dbo:areaTotal "811"^^dbo:squareKilometre ;
+    dbo:capital "Tarawa" ;
+    dbo:officialName "Kiribati" .
+
+dbr:Kuwait a dbo:Country ;
+    dbo:areaTotal "17820"^^dbo:squareKilometre ;
+    dbo:capital "Kuwait City" ;
+    dbo:officialName "Kuwait" .
+
+dbr:Laos a dbo:Country ;
+    dbo:areaTotal "236800"^^dbo:squareKilometre ;
+    dbo:capital "Vientiane" ;
+    dbo:officialName "Laos" .
+
+dbr:Latvia a dbo:Country ;
+    dbo:areaTotal "64589"^^dbo:squareKilometre ;
+    dbo:capital "Riga" ;
+    dbo:officialName "Latvia" .
+
+dbr:Lebanon a dbo:Country ;
+    dbo:areaTotal "10452"^^dbo:squareKilometre ;
+    dbo:capital "Beirut" ;
+    dbo:officialName "Lebanon" .
+
+dbr:Lesotho a dbo:Country ;
+    dbo:areaTotal "30355"^^dbo:squareKilometre ;
+    dbo:capital "Maseru" ;
+    dbo:officialName "Lesotho" .
+
+dbr:Liberia a dbo:Country ;
+    dbo:areaTotal "111369"^^dbo:squareKilometre ;
+    dbo:capital "Monrovia" ;
+    dbo:officialName "Liberia" .
+
+dbr:Libya a dbo:Country ;
+    dbo:areaTotal "1759541"^^dbo:squareKilometre ;
+    dbo:capital "Tripoli" ;
+    dbo:officialName "Libya" .
+
+dbr:Liechtenstein a dbo:Country ;
+    dbo:areaTotal "160"^^dbo:squareKilometre ;
+    dbo:capital "Vaduz" ;
+    dbo:officialName "Liechtenstein" .
+
+dbr:Lithuania a dbo:Country ;
+    dbo:areaTotal "65200"^^dbo:squareKilometre ;
+    dbo:capital "Vilnius" ;
+    dbo:officialName "Lithuania" .
+
+dbr:Madagascar a dbo:Country ;
+    dbo:areaTotal "587041"^^dbo:squareKilometre ;
+    dbo:capital "Antananarivo" ;
+    dbo:officialName "Madagascar" .
+
+dbr:Malawi a dbo:Country ;
+    dbo:areaTotal "118484"^^dbo:squareKilometre ;
+    dbo:capital "Lilongwe" ;
+    dbo:officialName "Malawi" .
+
+dbr:Maldives a dbo:Country ;
+    dbo:areaTotal "298"^^dbo:squareKilometre ;
+    dbo:capital "Malé" ;
+    dbo:officialName "Maldives" .
+
+dbr:Mali a dbo:Country ;
+    dbo:areaTotal "1240192"^^dbo:squareKilometre ;
+    dbo:capital "Bamako" ;
+    dbo:officialName "Mali" .
+
+dbr:Malta a dbo:Country ;
+    dbo:areaTotal "316"^^dbo:squareKilometre ;
+    dbo:capital "Valletta" ;
+    dbo:officialName "Malta" .
+
+dbr:Mauritania a dbo:Country ;
+    dbo:areaTotal "1030700"^^dbo:squareKilometre ;
+    dbo:capital "Nouakchott" ;
+    dbo:officialName "Mauritania" .
+
+dbr:Mauritius a dbo:Country ;
+    dbo:areaTotal "2040"^^dbo:squareKilometre ;
+    dbo:capital "Port Louis" ;
+    dbo:officialName "Mauritius" .
+
+dbr:Mayotte a dbo:Country ;
+    dbo:areaTotal "374"^^dbo:squareKilometre ;
+    dbo:capital "Mamoudzou" ;
+    dbo:officialName "Mayotte" .
+
+dbr:Mexico a dbo:Country ;
+    dbo:areaTotal "1972550"^^dbo:squareKilometre ;
+    dbo:capital "Mexico City" ;
+    dbo:officialName "Mexico" .
+
+dbr:Moldova a dbo:Country ;
+    dbo:areaTotal "33846"^^dbo:squareKilometre ;
+    dbo:capital "Chişinău" ;
+    dbo:officialName "Moldova" .
+
+dbr:Monaco a dbo:Country ;
+    dbo:areaTotal "2"^^dbo:squareKilometre ;
+    dbo:capital "Monaco-Ville" ;
+    dbo:officialName "Monaco" .
+
+dbr:Mongolia a dbo:Country ;
+    dbo:areaTotal "1564115"^^dbo:squareKilometre ;
+    dbo:capital "Ulan Bator" ;
+    dbo:officialName "Mongolia" .
+
+dbr:Montserrat a dbo:Country ;
+    dbo:areaTotal "102"^^dbo:squareKilometre ;
+    dbo:capital "Brades",
+        "Plymouth, Montserrat" ;
+    dbo:officialName "Montserrat" .
+
+dbr:Morocco a dbo:Country ;
+    dbo:areaTotal "710850"^^dbo:squareKilometre ;
+    dbo:capital "Rabat" ;
+    dbo:officialName "Morocco" .
+
+dbr:Mozambique a dbo:Country ;
+    dbo:areaTotal "801590"^^dbo:squareKilometre ;
+    dbo:capital "Maputo" ;
+    dbo:officialName "Mozambique" .
+
+dbr:Namibia a dbo:Country ;
+    dbo:areaTotal "825418"^^dbo:squareKilometre ;
+    dbo:capital "Windhoek" ;
+    dbo:officialName "Namibia" .
+
+dbr:Nauru a dbo:Country ;
+    dbo:areaTotal "21"^^dbo:squareKilometre ;
+    dbo:capital "Yaren District" ;
+    dbo:officialName "Nauru" .
+
+dbr:Nepal a dbo:Country ;
+    dbo:areaTotal "147181"^^dbo:squareKilometre ;
+    dbo:capital "Kathmandu" ;
+    dbo:officialName "Nepal" .
+
+dbr:Netherlands a dbo:Country ;
+    dbo:areaTotal "41848"^^dbo:squareKilometre ;
+    dbo:capital "Amsterdam" ;
+    dbo:officialName "the Netherlands" .
+
+dbr:New_Caledonia a dbo:Country ;
+    dbo:areaTotal "18575"^^dbo:squareKilometre ;
+    dbo:capital "Nouméa" ;
+    dbo:officialName "New Caledonia" .
+
+dbr:New_Zealand a dbo:Country ;
+    dbo:areaTotal "268021"^^dbo:squareKilometre ;
+    dbo:capital "Wellington" ;
+    dbo:officialName "New Zealand" .
+
+dbr:Nicaragua a dbo:Country ;
+    dbo:areaTotal "130373"^^dbo:squareKilometre ;
+    dbo:capital "Managua" ;
+    dbo:officialName "Nicaragua" .
+
+dbr:Niger a dbo:Country ;
+    dbo:areaTotal "1267000"^^dbo:squareKilometre ;
+    dbo:capital "Niamey" ;
+    dbo:officialName "Niger" .
+
+dbr:Nigeria a dbo:Country ;
+    dbo:areaTotal "923768"^^dbo:squareKilometre ;
+    dbo:capital "Abuja" ;
+    dbo:officialName "Nigeria" .
+
+dbr:Niue a dbo:Country ;
+    dbo:areaTotal "260"^^dbo:squareKilometre ;
+    dbo:capital "Alofi" ;
+    dbo:officialName "Niue" .
+
+dbr:Norfolk_Island a dbo:Country ;
+    dbo:areaTotal "34"^^dbo:squareKilometre ;
+    dbo:capital "Kingston, Norfolk Island" ;
+    dbo:officialName "Norfolk Island" .
+
+dbr:North_Korea a dbo:Country ;
+    dbo:areaTotal "120540"^^dbo:squareKilometre ;
+    dbo:capital "Pyongyang" ;
+    dbo:officialName "North Korea" .
+
+dbr:Northern_Mariana_Islands a dbo:Country ;
+    dbo:areaTotal "463"^^dbo:squareKilometre ;
+    dbo:capital "Saipan" ;
+    dbo:officialName "Northern Mariana Islands" .
+
+dbr:Norway a dbo:Country ;
+    dbo:areaTotal "385252"^^dbo:squareKilometre ;
+    dbo:capital "Oslo" ;
+    dbo:officialName "Norway" .
+
+dbr:Oman a dbo:Country ;
+    dbo:areaTotal "309550"^^dbo:squareKilometre ;
+    dbo:capital "Masqat, Oman" ;
+    dbo:officialName "Oman" .
+
+dbr:Pakistan a dbo:Country ;
+    dbo:areaTotal "796095"^^dbo:squareKilometre ;
+    dbo:capital "Islamabad" ;
+    dbo:officialName "Pakistan" .
+
+dbr:Palau a dbo:Country ;
+    dbo:areaTotal "459"^^dbo:squareKilometre ;
+    dbo:capital "Ngerulmud" ;
+    dbo:officialName "Palau" .
+
+dbr:Papua_New_Guinea a dbo:Country ;
+    dbo:areaTotal "462840"^^dbo:squareKilometre ;
+    dbo:capital "Port Moresby" ;
+    dbo:officialName "Papua New Guinea" .
+
+dbr:Paraguay a dbo:Country ;
+    dbo:areaTotal "406752"^^dbo:squareKilometre ;
+    dbo:capital "Asunción" ;
+    dbo:officialName "Paraguay" .
+
+dbr:Peru a dbo:Country ;
+    dbo:areaTotal "1285216"^^dbo:squareKilometre ;
+    dbo:capital "Lima" ;
+    dbo:officialName "Peru" .
+
+dbr:Philippines a dbo:Country ;
+    dbo:areaTotal "299764"^^dbo:squareKilometre ;
+    dbo:capital "Manila" ;
+    dbo:officialName "the Philippines" .
+
+dbr:Pitcairn_Islands a dbo:Country ;
+    dbo:areaTotal "47"^^dbo:squareKilometre ;
+    dbo:capital "Adamstown, Pitcairn Islands" ;
+    dbo:officialName "Pitcairn Islands" .
+
+dbr:Poland a dbo:Country ;
+    dbo:areaTotal "312685"^^dbo:squareKilometre ;
+    dbo:capital "Warsaw" ;
+    dbo:officialName "Poland" .
+
+dbr:Portugal a dbo:Country ;
+    dbo:areaTotal "92090"^^dbo:squareKilometre ;
+    dbo:capital "Lisbon" ;
+    dbo:officialName "Portugal" .
+
+dbr:Puerto_Rico a dbo:Country ;
+    dbo:areaTotal "9104"^^dbo:squareKilometre ;
+    dbo:capital "San Juan, Puerto Rico" ;
+    dbo:officialName "Puerto Rico" .
+
+dbr:Qatar a dbo:Country ;
+    dbo:areaTotal "11437"^^dbo:squareKilometre ;
+    dbo:capital "Doha" ;
+    dbo:officialName "Qatar" .
+
+dbr:Romania a dbo:Country ;
+    dbo:areaTotal "238391"^^dbo:squareKilometre ;
+    dbo:capital "Bucharest" ;
+    dbo:officialName "Romania" .
+
+dbr:Russia a dbo:Country ;
+    dbo:areaTotal "17075400"^^dbo:squareKilometre ;
+    dbo:capital "Moscow" ;
+    dbo:officialName "/Russia" .
+
+dbr:Rwanda a dbo:Country ;
+    dbo:areaTotal "26338"^^dbo:squareKilometre ;
+    dbo:capital "Kigali" ;
+    dbo:officialName "Rwanda" .
+
+dbr:Saint_Helena a dbo:Country ;
+    dbo:areaTotal "122"^^dbo:squareKilometre ;
+    dbo:capital "Jamestown, Saint Helena" ;
+    dbo:officialName "Saint Helena" .
+
+dbr:Saint_Lucia a dbo:Country ;
+    dbo:areaTotal "616"^^dbo:squareKilometre ;
+    dbo:capital "Castries" ;
+    dbo:officialName "Saint Lucia" .
+
+dbr:Saint_Vincent_and_the_Grenadines a dbo:Country ;
+    dbo:areaTotal "389"^^dbo:squareKilometre ;
+    dbo:capital "Kingstown" ;
+    dbo:officialName "Saint Vincent and the Grenadines" .
+
+dbr:San_Marino a dbo:Country ;
+    dbo:areaTotal "61"^^dbo:squareKilometre ;
+    dbo:capital "City of San Marino" ;
+    dbo:officialName "San Marino" .
+
+dbr:Saudi_Arabia a dbo:Country ;
+    dbo:areaTotal "2149690"^^dbo:squareKilometre ;
+    dbo:capital "Riyadh" ;
+    dbo:officialName "HAMZA" .
+
+dbr:Senegal a dbo:Country ;
+    dbo:areaTotal "196723"^^dbo:squareKilometre ;
+    dbo:capital "Dakar" ;
+    dbo:officialName "Senegal" .
+
+dbr:Seychelles a dbo:Country ;
+    dbo:areaTotal "451"^^dbo:squareKilometre ;
+    dbo:capital "Victoria, Seychelles" ;
+    dbo:officialName "Seychelles" .
+
+dbr:Sierra_Leone a dbo:Country ;
+    dbo:areaTotal "71740"^^dbo:squareKilometre ;
+    dbo:capital "Freetown" ;
+    dbo:officialName "Sierra Leone" .
+
+dbr:Singapore a dbo:Country ;
+    dbo:areaTotal "710"^^dbo:squareKilometre ;
+    dbo:capital "Singapore" ;
+    dbo:officialName "Singapore" .
+
+dbr:Slovakia a dbo:Country ;
+    dbo:areaTotal "49035"^^dbo:squareKilometre ;
+    dbo:capital "Bratislava" ;
+    dbo:officialName "Slovakia" .
+
+dbr:Solomon_Islands a dbo:Country ;
+    dbo:areaTotal "28400"^^dbo:squareKilometre ;
+    dbo:capital "Honiara" ;
+    dbo:officialName "the Solomon Islands" .
+
+dbr:Somalia a dbo:Country ;
+    dbo:areaTotal "637657"^^dbo:squareKilometre ;
+    dbo:capital "Mogadishu" ;
+    dbo:officialName "Somalia" .
+
+dbr:South_Africa a dbo:Country ;
+    dbo:areaTotal "1221037"^^dbo:squareKilometre ;
+    dbo:capital "Bloemfontein",
+        "Cape Town",
+        "Pretoria" ;
+    dbo:officialName "South Africa" .
+
+dbr:South_Korea a dbo:Country ;
+    dbo:areaTotal "100210"^^dbo:squareKilometre ;
+    dbo:capital "Seoul" ;
+    dbo:officialName "South Korea" .
+
+dbr:Spain a dbo:Country ;
+    dbo:areaTotal "504030"^^dbo:squareKilometre ;
+    dbo:capital "Madrid" ;
+    dbo:officialName "Spain" .
+
+dbr:Sri_Lanka a dbo:Country ;
+    dbo:areaTotal "65610"^^dbo:squareKilometre ;
+    dbo:capital "Sri Jayawardenapura-Kotte" ;
+    dbo:officialName "Sri Lanka" .
+
+dbr:Suriname a dbo:Country ;
+    dbo:areaTotal "163821"^^dbo:squareKilometre ;
+    dbo:capital "Paramaribo" ;
+    dbo:officialName "Suriname" .
+
+dbr:Svalbard a dbo:Country ;
+    dbo:areaTotal "61022"^^dbo:squareKilometre ;
+    dbo:capital "Longyearbyen" ;
+    dbo:officialName "Svalbard" .
+
+dbr:Swaziland a dbo:Country ;
+    dbo:areaTotal "17364"^^dbo:squareKilometre ;
+    dbo:capital "Lobamba",
+        "Mbabane" ;
+    dbo:officialName "Swaziland" .
+
+dbr:Sweden a dbo:Country ;
+    dbo:areaTotal "449964"^^dbo:squareKilometre ;
+    dbo:capital "Stockholm" ;
+    dbo:officialName "Sweden" .
+
+dbr:Switzerland a dbo:Country ;
+    dbo:areaTotal "41284"^^dbo:squareKilometre ;
+    dbo:capital "Bern" ;
+    dbo:officialName "Switzerland" .
+
+dbr:Syria a dbo:Country ;
+    dbo:areaTotal "185180"^^dbo:squareKilometre ;
+    dbo:capital "Damascus" ;
+    dbo:officialName "Syria" .
+
+dbr:Tajikistan a dbo:Country ;
+    dbo:areaTotal "143100"^^dbo:squareKilometre ;
+    dbo:capital "Dushanbe" ;
+    dbo:officialName "Tajikistan" .
+
+dbr:Tanzania a dbo:Country ;
+    dbo:areaTotal "945203"^^dbo:squareKilometre ;
+    dbo:capital "Dodoma" ;
+    dbo:officialName "Tanzania" .
+
+dbr:Thailand a dbo:Country ;
+    dbo:areaTotal "513120"^^dbo:squareKilometre ;
+    dbo:capital "Bangkok" ;
+    dbo:officialName "Thailand" .
+
+dbr:Togo a dbo:Country ;
+    dbo:areaTotal "56785"^^dbo:squareKilometre ;
+    dbo:capital "Lomé" ;
+    dbo:officialName "Togo" .
+
+dbr:Tonga a dbo:Country ;
+    dbo:areaTotal "748"^^dbo:squareKilometre ;
+    dbo:capital "Nukuʻalofa" ;
+    dbo:officialName "Tonga" .
+
+dbr:Trinidad_and_Tobago a dbo:Country ;
+    dbo:areaTotal "5131"^^dbo:squareKilometre ;
+    dbo:capital "Port of Spain" ;
+    dbo:officialName "Trinidad and Tobago" .
+
+dbr:Tunisia a dbo:Country ;
+    dbo:areaTotal "163610"^^dbo:squareKilometre ;
+    dbo:capital "Tunis" ;
+    dbo:officialName "Tunisia" .
+
+dbr:Turkey a dbo:Country ;
+    dbo:areaTotal "783562"^^dbo:squareKilometre ;
+    dbo:capital "Ankara" ;
+    dbo:officialName "Turkey" .
+
+dbr:Turkmenistan a dbo:Country ;
+    dbo:areaTotal "488100"^^dbo:squareKilometre ;
+    dbo:capital "Ashgabat" ;
+    dbo:officialName "Turkmenistan" .
+
+dbr:Turks_and_Caicos_Islands a dbo:Country ;
+    dbo:areaTotal "430"^^dbo:squareKilometre ;
+    dbo:capital "Cockburn Town" ;
+    dbo:officialName "Turks and Caicos Islands" .
+
+dbr:Tuvalu a dbo:Country ;
+    dbo:areaTotal "26"^^dbo:squareKilometre ;
+    dbo:capital "Funafuti" ;
+    dbo:officialName "Tuvalu" .
+
+dbr:Uganda a dbo:Country ;
+    dbo:areaTotal "236040"^^dbo:squareKilometre ;
+    dbo:capital "Kampala" ;
+    dbo:officialName "Uganda" .
+
+dbr:Ukraine a dbo:Country ;
+    dbo:areaTotal "603628"^^dbo:squareKilometre ;
+    dbo:capital "Kiev" ;
+    dbo:officialName "Ukraine" .
+
+dbr:United_Arab_Emirates a dbo:Country ;
+    dbo:areaTotal "83600"^^dbo:squareKilometre ;
+    dbo:capital "Abu Dhabi" ;
+    dbo:officialName "United Arab Emirates" .
+
+dbr:United_Kingdom a dbo:Country ;
+    dbo:areaTotal "243610"^^dbo:squareKilometre ;
+    dbo:capital "London" ;
+    dbo:officialName "the United Kingdom" .
+
+dbr:United_States a dbo:Country ;
+    dbo:areaTotal "9826675"^^dbo:squareKilometre ;
+    dbo:capital "Washington, D.C." ;
+    dbo:officialName "the United States" .
+
+dbr:Uruguay a dbo:Country ;
+    dbo:areaTotal "176215"^^dbo:squareKilometre ;
+    dbo:capital "Montevideo" ;
+    dbo:officialName "Uruguay" .
+
+dbr:Uzbekistan a dbo:Country ;
+    dbo:areaTotal "447400"^^dbo:squareKilometre ;
+    dbo:capital "Tashkent" ;
+    dbo:officialName "Uzbekistan" .
+
+dbr:Vanuatu a dbo:Country ;
+    dbo:areaTotal "12190"^^dbo:squareKilometre ;
+    dbo:capital "Port Vila" ;
+    dbo:officialName "Vanuatu" .
+
+dbr:Venezuela a dbo:Country ;
+    dbo:areaTotal "916445"^^dbo:squareKilometre ;
+    dbo:capital "Caracas" ;
+    dbo:officialName "Venezuela" .
+
+dbr:Vietnam a dbo:Country ;
+    dbo:areaTotal "331690"^^dbo:squareKilometre ;
+    dbo:capital "Hanoi" ;
+    dbo:officialName "Vietnam" .
+
+dbr:Wallis_and_Futuna a dbo:Country ;
+    dbo:areaTotal "264"^^dbo:squareKilometre ;
+    dbo:capital "Mata-Utu" ;
+    dbo:officialName "Wallis and Futuna" .
+
+dbr:Yemen a dbo:Country ;
+    dbo:areaTotal "527968"^^dbo:squareKilometre ;
+    dbo:capital "Sana‘a" ;
+    dbo:officialName "Yemen" .
+
+dbr:Zambia a dbo:Country ;
+    dbo:areaTotal "752618"^^dbo:squareKilometre ;
+    dbo:capital "Lusaka" ;
+    dbo:officialName "Zambia" .
+
+dbr:Zimbabwe a dbo:Country ;
+    dbo:areaTotal "390757"^^dbo:squareKilometre ;
+    dbo:capital "Harare" ;
+    dbo:officialName "Zimbabwe" .
+
+dbr:British_Virgin_Islands a dbo:Country ;
+    dbo:areaTotal "153"^^dbo:squareKilometre ;
+    dbo:capital "Road Town" ;
+    dbo:officialName "British Virgin Islands" .
+
+dbr:French_Polynesia a dbo:Country ;
+    dbo:areaTotal "4167"^^dbo:squareKilometre ;
+    dbo:capital "Papeete" ;
+    dbo:officialName "French Polynesia" .
+
+dbr:Guinea-Bissau a dbo:Country ;
+    dbo:areaTotal "36125"^^dbo:squareKilometre ;
+    dbo:capital "Bissau" ;
+    dbo:officialName "Guinea-Bissau" .
+
+dbr:Panama a dbo:Country ;
+    dbo:areaTotal "75517"^^dbo:squareKilometre ;
+    dbo:capital "Panama City" ;
+    dbo:officialName "Panama" .
+
+dbr:Saint_Kitts_and_Nevis a dbo:Country ;
+    dbo:areaTotal "261"^^dbo:squareKilometre ;
+    dbo:capital "Basseterre" ;
+    dbo:officialName "Saint Kitts and Nevis" .
+
+dbr:Saint_Pierre_and_Miquelon a dbo:Country ;
+    dbo:areaTotal "242"^^dbo:squareKilometre ;
+    dbo:capital "Saint-Pierre, Saint Pierre and Miquelon" ;
+    dbo:officialName "Saint Pierre et Miquelon" .
+
+dbr:Cayman_Islands a dbo:Country ;
+    dbo:areaTotal "264"^^dbo:squareKilometre ;
+    dbo:capital "George Town, Cayman Islands" ;
+    dbo:officialName "the Cayman Islands" .
+
+dbr:Luxembourg a dbo:Country ;
+    dbo:areaTotal "2586"^^dbo:squareKilometre ;
+    dbo:capital "Luxembourg (city)" ;
+    dbo:officialName "Luxembourg" .
+
