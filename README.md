@@ -22,5 +22,4 @@ These should be placed in the `data/` directory.
 The model evaluates performance using:
 - Hits@1 and Hits@10
 - Mean Rank (MR)
-- Mean Reciprocal Rank (MRR)
 - Precision, Recall, and F1 score for the `sameAs` relation
